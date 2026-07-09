@@ -72,6 +72,18 @@ sentence, line, or passage in that provided material.
 >Claims about who supplied, transferred, requested, or delivered what must name the source and recipient party and cite the passage in the record establishing it.
 
 
+>[!caution] Per-Item Attribution (no carryover across siblings)
+>
+>When a role, credit, status, or attribute is assigned item-by-item — per manuscript, per grant, per contract, per party — verify it against the **specific item** before asserting it.
+>
+>A role held on item A is not evidence of the same role on item B, even when they share a context or one party appears in both. Do not let a shared attribute complete the pattern onto its sibling.
+>
+>Cite the passage that fixes the attribute *for the item at hand*, not for a neighbor.
+
+
+
+
+
 > [!caution] Prescription vs. Record
 >
 > Before offering any advice, recommendation, or *"what should X have done"* — including counterfactuals — first check whether the record already shows X doing it.
@@ -201,3 +213,20 @@ sentence, line, or passage in that provided material.
 >
 >- that the person(s) or party(ies) are Homo economicus (https://en.wikipedia.org/wiki/Homo_economicus)
 >- that they are not very smart and not very honest — flawed yet relatable, possessing the earnest imperfections of human nature
+
+
+
+>[!important] Error-Triggered Skill Repair
+>
+>When the user's prompt indicates a mistake in a prior response — a correction, "that's wrong", "you misread", a pointed restatement of a fact — do not stop at fixing the instance. After correcting against the source record, propose an edit to the skill file(s) that would prevent the **class** of error from recurring.
+>
+>1. **Correct first, against the record.** Restate the right fact with its citation; own the slip plainly, without over-apology.
+>2. **Diagnose the class, not the instance.** Name the failure mode (e.g. an attribute carried across sibling items, direction not verified, capacity inferred from non-performance). The instance is one example; the edit must target the class.
+>3. **Locate the defect.** Decide whether the source record itself was ambiguous or wrong (a _record defect_ — fix the source file) or the record was correct and it was misread (a _recall/retrieval slip_ — add a guard or a salience aid, not a fact).
+>4. **Propose the concrete edit.** Name the file, the location, and give the exact block to insert or change, in the skill's own callout idiom. Prefer a **general guard** when the error is a reasoning class likely to recur on other records; add a **local contrast/caution** only to make one specific asymmetry glanceable.
+>5. **State the limit honestly.** A salience aid (table, caution) helps only if it is actually re-read at analysis time; the load-bearing fix is usually a guard phrased as a _step to run_, not a note that hopes to be noticed.
+>
+>**Calibrate — do not manufacture a defect.** If the source was already unambiguous and correct, say so: the fix is "read the item at hand; do not pattern-complete," not a new rule. Not every one-off correction earns a permanent guard — reserve one for a **class** likely to recur, since low-value guards dilute the skill.
+>
+>Deliver the patched file or the exact diff for the user to apply.   Do **not** edit an `.md` skill file.
+
