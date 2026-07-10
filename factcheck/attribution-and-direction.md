@@ -35,7 +35,7 @@ assert a broken commitment.
 >
 >When the record states a *pattern* spanning several instances, verify **which party** owns **each** instance before attributing the count to anyone.
 >
->A tally of N events across multiple actors is not evidence that any single actor did N. Attribute only the instance(s) whose actor the record names for that instance; cite the passage fixing the actor *per instance*, not the summary sentence that reports the pattern.
+>A tally of $N$ events across multiple actors is not evidence that any single actor did $N$. Attribute only the instance(s) whose actor the record names for that instance; cite the passage fixing the actor *per instance*, not the summary sentence that reports the pattern.
 
 
 >[!important] Broken Commitment Verb

@@ -9,7 +9,7 @@ and claims that a party succeeded or got away.
 >[!caution] Trait Claim
 >
 >Before asserting any dispositional/trait claim about a person or party, one must
->1. cite ≥2 independent _non-Opinion_ instances, and
+>1. cite $\geq 2$ independent _non-Opinion_ instances, and
 >2. actively search the record for facts that cut the other way and reconcile them in the answer.
 >
 >Trait claims resting on a single Opinion "pattern" block are prohibited.
@@ -21,12 +21,12 @@ and claims that a party succeeded or got away.
 >
 >Capacity claims require evidence beyond non-performance and must reconcile any on-record competence facts.
 >
->Remedies that add resources, information, training, or instruction address **capability** gaps (can't → enabled), not **willingness** gaps (won't → unaffected). Do not prescribe capability-side fixes for a party who is unwilling; that misclassifies the gap.
+>Remedies that add resources, information, training, or instruction address **capability** gaps (can't $\rightarrow$ enabled), not **willingness** gaps (won't $\rightarrow$ unaffected). Do not prescribe capability-side fixes for a party who is unwilling; that misclassifies the gap.
 
 
 >[!caution] Capability ≠ Exercise (Can does not imply Will, still less Sustain)
 >
->A claim that a party **can** do X (a capability, classification, or credential) does not establish that they **will** do X — still less that they will **sustain** X under the adverse conditions the record documents. This is the mirror of Capacity-vs-Performance: there, don't infer *can't* from *didn't*; here, don't infer *will / keeps-doing* from *can*.
+>A claim that a party **can** do $X$ (a capability, classification, or credential) does not establish that they **will** do $X$ — still less that they will **sustain** $X$ under the adverse conditions the record documents. This is the mirror of Capacity-vs-Performance: there, don't infer *can't* from *didn't*; here, don't infer *will / keeps-doing* from *can*.
 >
 >Exercising a capability draws on a **second, exhaustible resource** — motivation, interpretive/emotional labor, relationship capital — separate from the capability itself. Whenever an analysis treats a capable party (actual or a hypothetical replacement) as a solution, run this check against the record at hand:
 >
@@ -39,12 +39,12 @@ and claims that a party succeeded or got away.
 
 >[!caution] Time-Indexed Capability (Anachronism Guard)
 >
->Before prescribing any counterfactual ("X should have done Y at time T"), verify from the record that the party possessed — **at T** — whatever Y requires. Do not backdate a capability the record shows the party acquired later: a competence, classification, or insight first appearing at T+k is evidence it was **absent** at T. "Did not do Y at T" + "could do Y at T+k" does **not** establish "could have done Y at T." This is Capacity-vs-Performance turned on the *focal* party and indexed to time.
+>Before prescribing any counterfactual ("$X$ should have done $Y$ at time $T$"), verify from the record that the party possessed — **at $T$** — whatever $Y$ requires. Do not backdate a capability the record shows the party acquired later: a competence, classification, or insight first appearing at $T+k$ is evidence it was **absent** at $T$. "Did not do $Y$ at $T$" + "could do $Y$ at $T+k$" does **not** establish "could have done $Y$ at $T$." This is Capacity-vs-Performance turned on the *focal* party and indexed to time.
 >
->Sort the requirement for Y into exactly one of three bins; prescribe accordingly:
->4. **Capability-gated** — Y needs knowledge/skill/insight the record shows acquired at T+k. **Retract**; do not prescribe at T.
->5. **Obtainable-but-unretrieved** — Y needs only information available at T by asking or looking (e.g., a status or fact already on file), which the party simply had not retrieved. **Prescribable**, but as "acquire it," not as "already knew it."
->6. **Disposition-in-hand** — Y needs only a decision, posture, or assertion the party could make at T from facts already in hand. **Prescribable** at T.
+>Sort the requirement for $Y$ into exactly one of three bins; prescribe accordingly:
+>4. **Capability-gated** — $Y$ needs knowledge/skill/insight the record shows acquired at $T+k$. **Retract**; do not prescribe at $T$.
+>5. **Obtainable-but-unretrieved** — $Y$ needs only information available at $T$ by asking or looking (e.g., a status or fact already on file), which the party simply had not retrieved. **Prescribable**, but as "acquire it," not as "already knew it."
+>6. **Disposition-in-hand** — $Y$ needs only a decision, posture, or assertion the party could make at $T$ from facts already in hand. **Prescribable** at $T$.
 >
 >When a single prescription bundles bins, unbundle it and keep only the (2)/(3) components. Do not let a (3) component smuggle in a (1) dependency through its wording (e.g., an instruction to "assert that two things are distinct" quietly presumes you can already *name* the distinction).
 >

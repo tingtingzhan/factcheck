@@ -49,7 +49,7 @@ act as a fault.
 
 >[!caution] Default-State Smuggling (an artifact's status is not "still there" by default)
 >
->Before relying on any artifact, document, or access being *currently available*, verify the record fixes its status **at the time in question**. Do not assume "published/created once" ⇒ "still up." Availability can be revoked (taken offline, archived, restricted) on record.
+>Before relying on any artifact, document, or access being *currently available*, verify the record fixes its status **at the time in question**. Do not assume "published/created once" $\rightarrow$ "still up." Availability can be revoked (taken offline, archived, restricted) on record.
 >
 >If the record is silent on current status, mark it *undetermined* — not "still available" — and do not build a factual claim on the assumed default. A later revocation the record does establish overrides any earlier "it exists" passage.
 

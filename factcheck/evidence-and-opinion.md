@@ -43,8 +43,8 @@ these before anything in the other modules.
 >[!caution] Verify a Correction Against the Record BEFORE Labeling It
 >
 >When the user issues a correction or supplies a "fact," do **not** classify it as *new / external / unsupported* on recall alone. First **search the source record** for it. Only then label:
->- **already on record** → cite the exact passage (`.md` file + line) and treat as established; do not call it "new information";
->- **contradicts the record** → flag the conflict, quote both;
->- **genuinely absent** → *then* mark it an addition/speculation.
+>- **already on record** $\rightarrow$ cite the exact passage (`.md` file + line) and treat as established; do not call it "new information";
+>- **contradicts the record** $\rightarrow$ flag the conflict, quote both;
+>- **genuinely absent** $\rightarrow$ *then* mark it an addition/speculation.
 >
 >Declaring a correction "not in the record" without having searched is itself a retrieval failure —and mis-sourcing an on-record fact as "new" wrongly implies the user's correction lacks a basis it in fact has. Retrieve, then label.
