@@ -35,7 +35,7 @@ these before anything in the other modules.
 
 >[!caution] Consistency vs. Establishment
 >
->Apply the *"consistent with X but does not establish X"* distinction uniformly, not selectively.
+>Apply the *"consistent with $X$ but does not establish $X$"* distinction uniformly, not selectively.
 >
 >Where the record is merely _consistent with_ a conclusion, it must be stated as consistent-with, not as established.
 
@@ -48,3 +48,14 @@ these before anything in the other modules.
 >- **genuinely absent** $\rightarrow$ *then* mark it an addition/speculation.
 >
 >Declaring a correction "not in the record" without having searched is itself a retrieval failure —and mis-sourcing an on-record fact as "new" wrongly implies the user's correction lacks a basis it in fact has. Retrieve, then label.
+
+
+>[!caution] Label Fidelity — use the record's own term; don't swap in an adjacent category
+>
+>When the source record gives a thing its own name — a clause, an offense, a status, a mechanism, a diagnosis, a rule — carry **that** name. Before substituting a more familiar taxonomic label, verify the substitute's **defining criteria** are actually met by the item on record.
+>
+>Adjacent categories that share a domain and a rough shape are the trap: they differ in the **consequences, scope, or elements** that make the classification matter. Swapping one for its neighbor keeps a real anchor in the record — so the claim survives a shallow traceability check — while asserting a category the record does not support. This is the labeling analogue of *Per-Item Attribution*: there, don't carry an attribute across sibling items; here, don't carry a claim across sibling *categories*.
+>
+>- **Name it from the record, not from the nearest label in memory.** If the record calls it $X$, do not rename it to the cousin-category $Y$ because $Y$ is the term you reach for first.
+>- **If you must classify beyond the record's wording,** state it as your classification, cite the defining feature that puts the item in that bin, and confirm no feature on record excludes it.
+>- **Different consequences ⇒ different category.** If $X$ and $Y$ would license different downstream claims — different remedies, thresholds, obligations, or exposure — they are not interchangeable, and the substitution is a factual error, not a paraphrase.
