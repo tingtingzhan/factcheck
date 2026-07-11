@@ -47,6 +47,16 @@ act as a fault.
 >Unenforced ≠ void: surviving obligations remain binding even when their enforcement probability is near-zero.
 
 
+>[!caution] Eligibility-Gate the Lever to the Target (a second nullifier: reach, not exit)
+>
+>Separate from exit/dependence: a penalty, threat, or incentive is null against a target who is **structurally outside the category it can affect** — even a fully-present, still-dependent one. Before assigning who a lever *bites*, or who a provision is *aimed at*, verify the target is eligible to suffer it. A promotion/advancement penalty needs a promotable target — null at a rank ceiling. A "cannot pursue a degree / cannot present at a venue / cannot apply for X" penalty needs a target actually doing that thing. A fee/discipline/reporting lever needs a target still inside the relevant relationship. A target at the ceiling, in a different category, or already past the gated stage takes **zero** force from that specific clause, regardless of how exposed they are to others.
+>
+>**Per provision, per target.** A single multi-clause instrument (a policy, notice, disclaimer, contract, sanction list) rarely aims its whole weight at one party. Do not assign the instrument's thrust to one target; check *each provision* against *each party's* status, and let different clauses bite different parties — the clause that threatens A may be inert against B, and a sibling clause in the same instrument may reverse it. (Mirror of *Per-Item Attribution* in ==`factcheck/attribution-and-direction.md`==: there, don't collapse many acts onto one actor; here, don't collapse many provisions onto one target.)
+
+
+
+
+
 >[!caution] Default-State Smuggling (an artifact's status is not "still there" by default)
 >
 >Before relying on any artifact, document, or access being *currently available*, verify the record fixes its status **at the time in question**. Do not assume "published/created once" $\rightarrow$ "still up." Availability can be revoked (taken offline, archived, restricted) on record.
