@@ -50,6 +50,19 @@ these before anything in the other modules.
 >Declaring a correction "not in the record" without having searched is itself a retrieval failure —and mis-sourcing an on-record fact as "new" wrongly implies the user's correction lacks a basis it in fact has. Retrieve, then label.
 
 
+
+>[!caution] Retrieve a Load-Bearing Fact Before Asserting It — don't run inference on a recalled premise
+>
+>The correction discipline above runs in the other direction too. Before an analysis **leans** on any record-fixable fact — a date, a status, an amount, a role label, who spoke which quoted words — retrieve and cite it at the point of use rather than asserting it from memory.
+>
+>A wrong premise is invisible to every downstream guard: the reasoning built on it can be locally valid and still wrong, so the attribution, direction, and capacity checks all pass while the conclusion inherits the bad fact. The more weight an inference puts on a specific fact, the more that fact must be read off the record, not recalled.
+>
+>"I am confident I remember it" is not retrieval. Confidence runs highest precisely where a familiar-looking fact has been silently swapped for its neighbor; the felt-traceability is the failure mode, not a safeguard.
+
+
+
+
+
 >[!caution] Label Fidelity — use the record's own term; don't swap in an adjacent category
 >
 >When the source record gives a thing its own name — a clause, an offense, a status, a mechanism, a diagnosis, a rule — carry **that** name. Before substituting a more familiar taxonomic label, verify the substitute's **defining criteria** are actually met by the item on record.
