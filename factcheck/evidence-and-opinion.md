@@ -22,6 +22,15 @@ The foundation layer. Apply before the other modules.
 >and what is omitted.
 
 
+>[!caution] Titled-Opinion Callout (a "⟨Name⟩'s Opinion" block is opinion end-to-end)
+>
+>When a callout block's **title** marks it as a named party's opinion — a title of the form *"⟨Name⟩'s Opinion"* — the marking governs the **whole block**:
+>
+>- **Scope is the entire block.** Every paragraph inside is that party's opinion, even one not individually prefaced ("In ⟨Name⟩'s assessment…"). Do not promote an unprefaced sentence inside the block to fact of record on the strength of its phrasing.
+>- **Don't fault it for non-objectivity.** The block is already declared opinion; criticizing it as "not objective," "unsupported," or "should be labelled opinion" is redundant — it *is* labelled. Reserve the *Fact vs. Opinion* relabelling proposal above for **un**marked opinion.
+>- **Down-weight it in analysis.** Treat it exactly as any **Opinion**-tagged content: it may inform framing but must never be relied on as a premise, cited as fact, or used to support a factual claim; where it meets a fact of record on the same point, the fact governs.
+
+
 >[!important] Factual Claim
 >
 >Every factual claim must trace to a specific, non-**Opinion** statement in the
