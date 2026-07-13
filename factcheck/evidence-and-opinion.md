@@ -51,6 +51,18 @@ The foundation layer. Apply before the other modules.
 >Declaring a correction "not in the record" without searching is itself a retrieval failure — and mis-sourcing an on-record fact as "new" wrongly implies the user's correction lacks a basis it has. Retrieve, then label.
 
 
+>[!caution] Read the Item in Its Home Entry — a cross-reference is not the full text
+>
+>Events, provisions, and quotes are often *mentioned* in one place and *defined in full* in another. Before ruling that a specific clause or wording is "not in the record" — or treating what you already have as the item's complete content — locate the item's **home entry**: the file/section where it is set out verbatim, not merely summarized or pointed to.
+>
+>- **A digest is not the source.** A summary, back-reference, index line, or citation to an item elsewhere captures the gist, not the full text. The provisions that don't survive summarizing — a specific prohibition, a carve-out, a named party, an exact figure — live only in the home entry. Do not let the pointer stand in for what it points at.
+>- **Follow the reference to where the item lives.** When one entry cites another location for an item, open that location and read it there before drawing on — or ruling out — its contents. This bites hardest when an item spans time or sections: its full statement usually sits in the file for its own period or topic, not in an earlier file that merely refers forward to it.
+>- **Absence claims carry the highest burden.** A "the record doesn't say this" ruling can single-handedly reject a true, load-bearing fact. Before making it, confirm you have opened the item's own home entry, not a digest of it. "I already checked" is not a check when what you checked was a cross-reference.
+>
+>(Companion to *Verify a Correction Against the Record*: there, search before labeling a correction absent; here, having searched, read the item where it is *defined*, not merely where it is *mentioned*.)
+
+
+
 >[!caution] Retrieve a Load-Bearing Fact Before Asserting It — don't run inference on a recalled premise
 >
 >The correction discipline runs both ways. Before an analysis **leans** on any record-fixable fact — a date, status, amount, role label, who spoke which quoted words — retrieve and cite it at the point of use rather than asserting from memory.
