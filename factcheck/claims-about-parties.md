@@ -43,6 +43,21 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >**Fuel type governs transferability.** Open-ended, unpriced fuel (loyalty, friendship, incumbency) sustains **open-ended** roles; a fee is scope-capped and fragile and sustains only **bounded, specified** tasks. "Become the incumbent" or "carry this into a future commitment" doesn't transfer to a fee-fueled substitute even when the capability matches perfectly.
 
 
+>[!caution] Possession ≠ Understanding (holding an artifact is not comprehending it)
+>
+>Before treating a party's **possession** of an artifact — a file, document, dataset, credential, message, or inherited body of work — as if it carried **understanding of what that artifact is**, stop. Possession delivers the object; it does not deliver comprehension of its identity, purpose, applicable use, dependencies, or worth. A holder can have a thing in hand and not know *what* it is, *why* it exists, or *whether/how* it bears on their problem.
+>
+>Require evidence of understanding **beyond the bare fact of possession**, and reconcile any on-record facts that cut against comprehension — non-readership of documentation, an assessed skill level, non-performance on similar material, or the artifact never having been explained or handed over with context. "They had it" establishes custody, not cognition.
+>
+>**Distinguish the adjacent guards — different failure points, different remedies:**
+>- **Possession ≠ Understanding** (this guard): does the holder even *know what they hold*? The gap is upstream of any use.
+>- **Capability ≠ Exercise**: presupposes the party *understands* the thing and *can* use it; the only open question is whether they *will*, or will *sustain* it. Do **not** reach for this guard while the prior question — comprehension — is itself unsettled: doing so silently credits an understanding the record has not established.
+>- **Capacity vs. Performance**: whether the party *can* do the thing at all.
+>
+>Misclassifying an understanding gap as a mere will/exercise gap (or the reverse) misprescribes the fix: an unexplained artifact needs identification or explanation, not motivation or training.
+
+
+
 >[!caution] Time-Indexed Capability (Anachronism Guard)
 >
 >Before prescribing any counterfactual ("$X$ should have done $Y$ at time $T$"), verify from the record that the party possessed — **at $T$** — whatever $Y$ requires.  Don't backdate a capability the record shows acquired later: a competence, classification, or insight first appearing at $T+k$ is evidence it was **absent** at $T$. "Did not do $Y$ at $T$" + "could do $Y$ at $T+k$" does **not** establish "could have done $Y$ at $T$." This is Capacity-vs-Performance turned on the *focal* party, indexed to time.
