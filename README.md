@@ -1,14 +1,8 @@
 # factcheck
 
-Scenario-agnostic reasoning-rigor guards for fact-checking any analysis, summary,
-or answer against a **source record** (an uploaded document, transcript, dataset,
-case file, or narrative). Separate fact from opinion, trace every claim to the
-record, and guard against common reasoning failures.
+Scenario-agnostic reasoning-rigor guards for fact-checking any analysis, summary, or answer against a **source record** (an uploaded document, transcript, dataset, case file, or narrative). Separate fact from opinion, trace every claim to the record, and guard against common reasoning failures.
 
-`SKILL.md` is the entry point: the source-record definition, the two always-on
-lenses, and an index. The guards live in the module files, grouped by the kind of
-claim each checks. Read the module matching the move you are about to make; a
-single response usually touches several.
+`SKILL.md` is the entry point: the source-record definition, the two always-on lenses, and an index. The guards live in the module files, grouped by the kind of claim each checks. Read the module matching the move you are about to make; a single response usually touches several.
 
 ```
 factcheck/
@@ -23,10 +17,5 @@ factcheck/
 
 ## Using it
 
-- **Analyzing a record** → apply `evidence-and-opinion.md` first (it governs the
-  rest), then whichever of `attribution-and-direction.md`, `claims-about-parties.md`,
-  and `prescription-and-calibration.md` match the claims in play. The two lenses in
-  `SKILL.md` run on every prompt.
-- **Editing this skill** → follow `maintaining-this-skill.md`. Guards are edited by
-  delivering a patched file or exact diff, never in place, and any conversationally-
-  added guard is stripped of scenario-specific context first.
+- **Analyzing a record** → apply `evidence-and-opinion.md` first (it governs the rest), then whichever of `attribution-and-direction.md`, `claims-about-parties.md`, and `prescription-and-calibration.md` match the claims in play. The two lenses in `SKILL.md` run on every prompt.
+- **Editing this skill** → follow `maintaining-this-skill.md`. Guards are edited by delivering a patched file or exact diff, never in place, and any conversationally-added guard is stripped of scenario-specific context first.

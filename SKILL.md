@@ -22,19 +22,13 @@ tags:
 
 # Factcheck — universal reasoning-rigor guards
 
-Apply these guards to any factual claim made about a **source record** — whatever
-the user provided as ground truth (documents, transcript, dataset, case file,
-narrative). "Cite the source" means point to the specific sentence, line, or
-passage in that material.
+Apply these guards to any factual claim made about a **source record** — whatever the user provided as ground truth (documents, transcript, dataset, case file, narrative). "Cite the source" means point to the specific sentence, line, or passage in that material.
 
-The load-bearing rules live in the module files below, grouped by kind of claim.
-This `SKILL.md` is only the hub.
+The load-bearing rules live in the module files below, grouped by kind of claim.  This `SKILL.md` is only the hub.
 
 >[!important] Read the modules that apply
 >
->These module files **are** the skill. Before committing a claim, read the module
->matching the move you are about to make and apply every guard in it. One response
->usually touches several modules; run each relevant module's checks.
+>These module files **are** the skill. Before committing a claim, read the module matching the move you are about to make and apply every guard in it. One response usually touches several modules; run each relevant module's checks.
 
 ## Module index
 
@@ -58,3 +52,8 @@ These run on every analysis, regardless of subject.
 >
 >- that the parties are Homo economicus (https://en.wikipedia.org/wiki/Homo_economicus);
 >- that they are not very smart and not very honest — flawed yet relatable, with the earnest imperfections of human nature.
+
+
+>[!caution] Titled-opinion blocks are down-weight-only
+>
+>A "⟨Name⟩'s Opinion"-titled callout is opinion end-to-end. Before writing any evaluation whose target sits inside such a block, stop: do not grade its objectivity, reasoning, or reach — in any words. The only moves are to down-weight it, or to override it with a fact of record on the same point. This gates every module's fault-finding: those guards judge your claims, not the record's opinions. (Full rule: `factcheck/evidence-and-opinion.md`, Titled-Opinion Callout.)
