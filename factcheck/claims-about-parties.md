@@ -30,6 +30,18 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >3. **Contradiction ⇒ "mixed," not the favorable pole.** If a confirming and disconfirming instance both stand undefeated, the verdict is **mixed / consistent-with-both** — never the pole you reached first. State both in the same breath; don't shelve one as a footnote.
 
 
+>[!caution] Difficulty-Tier Carryover (an easy instance doesn't underwrite a hard "can")
+>
+>Within a capability series, two instances can share a verb ("migrated the code", "used the tool", "debugged it") yet sit at very different **difficulty or scope tiers** — copying a supplied worked example vs. a from-scratch reconstruction with no answer given. Before letting a **confirming** instance carry weight toward a "can do $X$" verdict, verify it sits at a tier **comparable to the task at issue**. A success at a low tier is weak-to-null evidence for capability at a higher one; pooling them inflates the verdict.
+>
+>- **Fix each instance's tier, not just its valence.** "Did it once" is not probative until you establish *how hard that instance was* — what was supplied (a worked example, an explicit answer, a clear signal), how much had to be produced unaided, what prerequisite it exercised.
+>- **Silence on difficulty ≠ high difficulty — and ≠ strong anchor.** If the record doesn't fix an instance's difficulty, mark its probative weight *undetermined*; don't bank a difficulty-silent instance as support in either direction.
+>- **Weigh only to the tier demonstrated.** A verdict about a higher-tier task must rest on evidence *at that tier*, not on an easier cousin that merely shares the verb.
+>
+>(Capability-series companion to *Distinguish Repeated Same-Type Events*: there, don't merge same-type **events** for cause; here, don't pool same-verb **performances** across tiers for capability. Refines *Same-Item Capability Series*: "same item, same capability" includes same **tier**.)
+
+
+
 >[!caution] Capability ≠ Exercise (Can does not imply Will, still less Sustain)
 >
 >A claim that a party **can** do $X$ does not establish they **will** — still less that they will **sustain** $X$ under the adverse conditions the record documents. Mirror of Capacity-vs-Performance: there, don't infer *can't* from *didn't*; here, don't infer *will / keeps-doing* from *can*.
@@ -87,6 +99,19 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >[!caution] Epistemic-Access Claims
 >
 >Epistemic-access claims must be symmetric across parties. If a party's mental states are treated as internal, undisclosed, and knowable only by self-report, the same standard applies to counterparties. An incapacity/interior claim about a counterparty may not rest on a lower evidentiary bar than a good-faith/intent claim about the focal party.
+
+
+>[!caution] Withholding ≠ Not-Knowing (the party who redacts holds what they hide)
+>
+>When the record shows a party **restricting, redacting, summarizing, or forwarding a reduced version** of information to others, do **not** infer that the restricting party *itself* lacks that information. The act fixes the **recipients'** limited access, not the **actor's** — ordinarily the reverse holds: to remove something you must first possess it.
+>
+>Separate three roles before asserting any party's epistemic state:
+>- **Holder** — has the information (often the very party who redacts/summarizes/forwards it);
+>- **Withheld-from** — the party the record says cannot see it;
+>- **Direction** — who removed *what* from *whose* copy.
+>
+>Attach a "does not know / is unaware" claim only to the **withheld-from** party the record names, and cite the passage fixing *that* party's access. Never let a clause specifying the recipients' ignorance bleed onto the nearest salient actor. What the record leaves open about the redactor is usually their **stance or motive**, not their **knowledge** — don't convert the first silence into the second. (Epistemic-state analogue of *Agency & Direction*: verify source vs. recipient before asserting who holds what.)
+
 
 
 >[!caution] "Escaped / Benefited / Succeeded" Claims — check the same-record counter-ledger
