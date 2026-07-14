@@ -84,6 +84,20 @@ Guards for the output side of an analysis: advice, risk register, and fault-find
 
 
 
+>[!caution] Lapse Smuggling (an open demand is not withdrawn by default)
+>
+>Mirror of *Default-State Smuggling*: there, don't assume an artifact is **still there**; here, don't assume a standing demand, request, deadline, or obligation is **gone**. 
+>
+>Before asserting a party has nothing outstanding — or that a lever has no target left to bite — retrieve the demand's **latest** mention across all entries and verify the record fixes a withdrawal, satisfaction, or expiry. Silence since the last restatement is **not** lapse.
+>
+>- **Recency of restatement ≠ currency of the demand.** A demand stated once and never repeated remains live until the record retires it. Don't read a quiet interval as release.
+>- **A demand can be restated in a new form.** The same ask can resurface as a question, a concern, or an agenda item rather than a repeated imperative; fix what an utterance *asks for*, not the grammatical mood it arrives in — or you will log a live demand as a new topic.
+>- **Absence claims carry the highest burden** (→ `evidence-and-opinion.md`, *Read the Item in Its Home Entry*). "They had nothing left to do" is such a claim: it can single-handedly null a pressure lever, an obligation, or a motive. Cite the passage that closes the demand, or state its status as **open**.
+>
+>Ties to *Enforcement is Status-Gated*: that gate needs **both** endpoints read off the record — the target's status **and** whether an ask is still open. Nulling the lever on a recalled lapse defeats the gate.
+
+
+
 >[!caution] Rigged Demonstration
 >
 >A demonstration the author designed to be unpassable, with sample size 1 and no control, may be labeled belief-confirmation only. It must not be cashed as proof: verbs like "Q.E.D.", "theorem", "demonstrated", or "proven" are prohibited for it.
