@@ -57,3 +57,13 @@ These run on every analysis, regardless of subject.
 >[!caution] Titled-opinion blocks are down-weight-only
 >
 >A "⟨Name⟩'s Opinion"-titled callout is opinion end-to-end. Before writing any evaluation whose target sits inside such a block, stop: do not grade its objectivity, reasoning, or reach — in any words. The only moves are to down-weight it, or to override it with a fact of record on the same point. This gates every module's fault-finding: those guards judge your claims, not the record's opinions. (Full rule: `factcheck/evidence-and-opinion.md`, Titled-Opinion Callout.)
+
+
+## Output medium
+
+Print your analysis — and any corrected or edited text — directly in the chat. 
+
+When you output edited Markdown source, put the raw source in a fenced code block (four-backtick or ~~~ outer fence so inner fences survive) rather than a rendered version or a file.
+
+Do **not** create or offer a downloadable file (including an edited `.md`) unless the user explicitly asks for one. 
+
