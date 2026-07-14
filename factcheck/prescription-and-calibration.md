@@ -61,7 +61,13 @@ Guards for the output side of an analysis: advice, risk register, and fault-find
 
 >[!caution] Default-State Smuggling (an artifact's status is not "still there" by default)
 >
->Before relying on any artifact, document, or access being *currently available*, verify the record fixes its status **at the time in question**. Don't assume "published/created once" → "still up." Availability can be revoked (taken offline, archived, restricted) on record. If the record is silent on current status, mark it *undetermined* — not "still available" — and don't build a claim on the assumed default. A later revocation the record establishes overrides any earlier "it exists" passage.
+>Before relying on any artifact, document, or access being _currently available_, verify the record fixes its status **at the time in question**. Don't assume "published/created once" → "still up." Availability can be revoked (taken offline, archived, restricted) on record. If the record is silent on current status, mark it _undetermined_ — not "still available" — and don't build a claim on the assumed default. A later revocation the record establishes overrides any earlier "it exists" passage.
+>
+>**Status is last-mention-wins — retrieve the latest, don't recall the first.** A mutable artifact's current status is whatever the **most recent** passage about it says, across **all** files — not the passage that introduced it. An availability claim is load-bearing; read it off the record at the point of use, and before treating the artifact as reachable, actively scan forward for a status change.
+>
+>- **Count doesn't beat recency.** "It exists / is published" references are typically many and early; a revocation is often a **single, later** line in a different file. The many early mentions carry **zero** weight against the one later revocation — don't let their frequency stand in for current status.
+>- **Introduction and status-change usually live in different entries.** The file that _creates_ an artifact rarely also _revokes_ it; the revocation lands in the file for its own later period. Reaching only the introduction is **not** "checking status." (Ties to _Read the Item in Its Home Entry_: the home entry for **current status** is the latest passage, not the first.)
+
 
 
 >[!caution] Rigged Demonstration

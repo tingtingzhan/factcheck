@@ -41,6 +41,15 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >(Capability-series companion to *Distinguish Repeated Same-Type Events*: there, don't merge same-type **events** for cause; here, don't pool same-verb **performances** across tiers for capability. Refines *Same-Item Capability Series*: "same item, same capability" includes same **tier**.)
 
 
+>[!caution] Difficulty Is Read Off the Record, Not an Outside Reputation (no "it's basic" import)
+>
+>Before rating any task, technique, or step as **low-difficulty / routine / anyone-can-do-it** — whether to score a party's non-performance as damning, or to prescribe the step as an easy remedy — source that rating from the **record**, never from a real-world prior that the technique is standard, trivial, or idiot-proof. If no party in the record is shown performing it, its difficulty is **undetermined**, not "easy." Mark it so; do not build a "they could just do $X$" on it.
+>
+>- **Out-of-record reputation ≠ in-record tier.** That a technique is considered routine _in general practice_ says nothing about whether _these_ parties, at _these_ demonstrated levels, command it. Silence in the record is silence, not a floor — and techniques with a reputation for being simple are the most seductive place to smuggle a tier in.
+>- **Capability is domain-specific, not a global scalar.** A level established on one axis — creating or authoring the thing — does **not** transfer to an adjacent axis — operating, reproducing, verifying, transporting, or maintaining the machinery around it — without evidence _for that second axis_. Do not let "they're clearly skilled" underwrite "so this other technical task is trivial for them," even for the most capable party on record. The ceiling on axis $B$ is fixed by evidence on axis $B$.
+>- **Prescription inherits this.** "Just do $X$" imports a difficulty claim about $X$. Gate it like any counterfactual (_Time-Indexed Capability_): if $X$'s tier is unestablished for the target, the remedy is **unestablished**, not **easy**.
+
+
 
 >[!caution] Capability ≠ Exercise (Can does not imply Will, still less Sustain)
 >
@@ -67,6 +76,15 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >- **Capacity vs. Performance**: whether the party *can* do the thing at all.
 >
 >Misclassifying an understanding gap as a mere will/exercise gap (or the reverse) misprescribes the fix: an unexplained artifact needs identification or explanation, not motivation or training.
+
+
+>[!caution] Decompose a Compound Action to Its Dependency Closure Before Pricing It
+>
+>Before rating who can perform an action — or how hard, costly, or feasible it is — expand it into the **full set of sub-actions it forces**, not the headline step. An action named at a high level ("rename it", "move it", "republish it", "swap the provider") usually carries a **cascade**: other components key on the thing being changed, so changing it obliges coordinated edits wherever those components reach. Price the action at its **closure** — every dependent that must change for the result to be valid — never at the nominal operation that names it.
+>
+>- **Relabels are coupled, not atomic.** Renaming, re-identifying, or relocating an entity ripples to everything that **dispatches on, references, or points at** that identity. The visible edit is one field; the real edit is the transitive set of dependents, often spanning several artifacts. Trace the graph before calling it small.
+>- **Find the binding sub-requirement, then gate _that_.** Once decomposed, the action's difficulty is set by its **hardest required sub-action**, not its headline or its easiest part. Identify which sub-action binds, then run the capability/time gate on _that_ requirement (→ _Time-Indexed Capability_), against the record — not on the action's generic seniority label. A step that looks like routine bookkeeping can bottom out on exactly the competence the record fixes the party as lacking.
+>- **Permission ≠ tractability.** That an action is _allowed_ (licensed, in-scope, sanctioned) says nothing about whether the party can execute its closure. Clear the permission and the execution cost separately; don't let "they're free to do it" stand in for "they can."
 
 
 
