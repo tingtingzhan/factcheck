@@ -28,6 +28,20 @@ Guards for the output side of an analysis: advice, risk register, and fault-find
 >**Does not reach the Cause ledger.** This governs *register and base-rate*, not *existence*. It does **not** license deleting or downgrading the symmetric Cause accounting. A colorable claim against any party's acts stays on the ledger — merely stated at its true, usually low, likelihood of being pursued, without alarmist tone.
 
 
+
+>[!caution] Incumbent-Price Anchor — cost a substitute against the incumbent's recorded price, then correct for unpriced fuel
+>
+>Before pricing a **substitute, replacement, or bought-in redundancy** for an incumbent, first retrieve the incumbent's own **recorded/nominal price** from the record — the budgeted rate, appointment fraction, retainer, or effort line — and enter it as the starting anchor. Don't price the substitute from an outside market rate while ignoring the cost the record already fixes for the incumbent, and don't silently treat the substitute as free or as "same price."
+>
+>A nominal price can **understate** true replacement cost. Run the correction the anchor invites:
+>1. **Split the incumbent's role into priced vs. fuel-subsidized labor** (→ `claims-about-parties.md`, *Capability ≠ Exercise*). The recorded price buys only what was actually charged for; any part the record shows running on non-transferring fuel — loyalty, goodwill, donated off-hours, incumbency, fiduciary or relationship duty — was received **unpriced**.
+>2. **For the fuel-subsidized part, the nominal price is a floor, not an estimate.** A substitute must be paid for what the incumbent gave away. Where that fuel is open-ended and unpriced, a fee-fueled substitute either cannot supply that part at any price (fuel-type mismatch) or supplies only a bounded, specified slice of it — price that slice, and mark the open-ended remainder as not buyable at the nominal rate.
+>3. **Report the anchor and the gap in the same breath.** State the recorded price together with the direction and rough size of the understatement; do not quote the nominal figure as if it were the replacement cost, and do not defer the correction to a caveat.
+>
+>**Two-sided calibration.** Difficulty is read off the record, not imported from outside reputation (→ `claims-about-parties.md`, *Difficulty Is Read Off the Record*); symmetrically, a substitute's cost is neither the outside market figure alone nor the incumbent's nominal figure alone — it is the recorded price corrected upward by the unpriced-fuel share the record documents.
+
+
+
 >[!caution] Enforcement is Status-Gated (gate the pressure layer to the target)
 >
 >Before citing any internal-discipline / career / financial-pressure mechanism as a realistic enforcement path, gate it to the target's status at the time in question.  A lever that bites a current, dependent party can be near-null against one who has exited the relationship or no longer needs anything from it: the pressure layer runs on the target's need to avoid cost, friction, or bridge-burning, and that fuel does not survive exit or loss of dependence.
@@ -47,10 +61,10 @@ Guards for the output side of an analysis: advice, risk register, and fault-find
 >Before softening a one-directional reading of an act with the claim that it *also* harms, exposes, or embarrasses **the actor themselves** — a symmetry / self-harm defense, often reached for in the name of even-handedness — verify the actor does **not** hold a cure, in hand and under their control, that neutralizes their own share of the harm.
 >
 >A fault the actor can resolve **at will** does not expose the actor the way the same fault exposes a party who lacks the cure. Two parties touched by the "same" fault are **not similarly situated** when one controls the remedy and the other does not. Run the check:
->1. **Name the claimed self-exposure.** What harm is said to fall — also, or even first — on the actor?
->2. **Search the record for a cure the actor controls** — an artifact already built, a prior state retrievable on demand, an established practice of resolving such faults on request, or the standing/access to act.
->3. **If a controlled cure exists → the exposure is asymmetric, gated by remedy-control, not symmetric.** Do not cite the actor's nominal "also affected" status as a softener. The residual harm lands only on the parties the actor *declines* to cure — which is the actor's **choice**, not the actor's **exposure**.
->4. **Only if no controlled cure exists** may the symmetric / self-harm reading stand.
+>4. **Name the claimed self-exposure.** What harm is said to fall — also, or even first — on the actor?
+>5. **Search the record for a cure the actor controls** — an artifact already built, a prior state retrievable on demand, an established practice of resolving such faults on request, or the standing/access to act.
+>6. **If a controlled cure exists → the exposure is asymmetric, gated by remedy-control, not symmetric.** Do not cite the actor's nominal "also affected" status as a softener. The residual harm lands only on the parties the actor *declines* to cure — which is the actor's **choice**, not the actor's **exposure**.
+>7. **Only if no controlled cure exists** may the symmetric / self-harm reading stand.
 >
 >**Appearance-of-symmetry ≠ symmetry.** That an act *points at* the actor's own stake — their own work, name, or interest — is not self-harm if the actor can cure it on demand.
 >

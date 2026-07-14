@@ -62,6 +62,10 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >3. **Price the gap.** If the fuel doesn't transfer, state what the substitute runs on instead and what that costs. Don't score the substitution "solved" on the capability match alone.
 >
 >**Fuel type governs transferability.** Open-ended, unpriced fuel (loyalty, friendship, incumbency) sustains **open-ended** roles; a fee is scope-capped and fragile and sustains only **bounded, specified** tasks. "Become the incumbent" or "carry this into a future commitment" doesn't transfer to a fee-fueled substitute even when the capability matches perfectly.
+>
+>**Pricing corollary.** When a substitution is being *costed* (not merely assessed for capability), anchor to the incumbent's recorded price and correct for the unpriced-fuel share (→ `prescription-and-calibration.md`, *Incumbent-Price Anchor*).
+
+
 
 
 >[!caution] Possession ≠ Understanding (holding an artifact is not comprehending it)
