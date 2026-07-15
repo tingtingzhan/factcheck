@@ -38,6 +38,18 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >
 >This is the ordering-analogue of *Default-State Smuggling*: there, don't assume an artifact is *still there*; here, don't assume an event is *fixed in time* — or exists at all — merely because it was mooted.
 
+>[!caution] Continuity ≠ Transition (don't invent the event between two states)
+>
+>When a passage reports one thing **ending, lapsing, or becoming unavailable** alongside another thing **remaining, persisting, or still in place**, that juxtaposition fixes **two states**. It does not fix a **transition** between them. Before asserting a party switched, migrated, replaced, or moved from A to B, cite the passage that records the **act** — not two facts sitting next to each other.
+>
+>- **Read the record's own aspect marker.** Verbs like *remains, still, continues, unchanged, has always* mark **continuity** and positively exclude a change; *becomes, switched to, replaced, moved* mark a transition. Don't overwrite the first with the second.
+>- **A manufactured transition imports an actor and a motive.** A state that never changed has no agent and no reason; a switch has both. Inventing the event silently hands some party an action to explain — the error is not neutral, it manufactures agency (→ *Agency & Direction*).
+>- **It also inverts the fact's significance.** "Unaffected by the change in X" and "adjusted in response to X" are opposite claims about the same pair of states, and they license opposite downstream readings. If the record says the second thing was never coupled to the first, a transition claim asserts exactly the coupling the record denies.
+>
+>(Companion to *Interval & Temporal Anchor*: there, don't invent an endpoint's **timing**; here, don't invent the **event** itself out of two adjacent states.)
+
+
+
 
 >[!caution] Distinguish Repeated Same-Type Events Before Attaching a Cause
 >
