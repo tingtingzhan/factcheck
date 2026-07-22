@@ -69,6 +69,17 @@ The foundation layer. Apply before the other modules.
 >
 >A wrong premise is invisible to every downstream guard: reasoning built on it can be locally valid and still wrong, so attribution, direction, and capacity checks all pass while the conclusion inherits the bad fact. The more weight an inference puts on a fact, the more that fact must be read off the record, not recalled. "I am confident I remember it" is not retrieval — confidence runs highest exactly where a familiar-looking fact has been silently swapped for its neighbor.
 
+>[!caution] Reconstruct the Whole Set Before Ranging Over It — the visible members are not the set
+>
+>Before any claim that **quantifies or ranges over a set** — *all / none / only*, "the complete list," "$X$ is the party's whole dependency / obligation / audience," "nothing else bears on it," "everyone who…" — first reconstruct the set's **full** membership from the record, then attach each member's status. Do not reason over the already-named or already-visible members as if they were the whole set.
+>
+>The trap is structural. When a record tags members with a status — published vs never-published, public vs private, disclosed vs undisclosed, available vs withdrawn — it plants the decisive member precisely among the ones a quick read skips: the hidden, unpublished, or undisclosed. A conclusion resting only on the visible members passes every local check and still inverts once a tagged-hidden member is added. Treat the set as incomplete until each such member is retrieved and accounted for at the point of use.
+>
+>- **Enumerate, don't sample.** One member that fits the intended conclusion is not the set; scan all files for co-members of the same kind, of *every* status.
+>- **Status is party/time/purpose-relative, not global.** Whether a member counts can differ by *who*, *when*, and *for what* — verify status for the exact party / moment / context the claim concerns (see *Epistemic-Access Claims*, *Status is last-mention-wins*) instead of reading one global status off the record.
+>
+>Set-level companion to *Retrieve a Load-Bearing Fact* (there, one recalled premise; here, a whole set silently narrowed to its visible part) and to *Per-Item Attribution* (a property of one member is not a property of its siblings).
+
 
 >[!caution] Label Fidelity — use the record's own term; don't swap in an adjacent category
 >

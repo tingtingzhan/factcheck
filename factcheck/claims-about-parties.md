@@ -21,6 +21,20 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >Symmetrically: a **can / level-up** claim must reconcile any on-record **non-performance** on the same item — most sharply a *later*-dated one, which can revise an earlier favorable instance rather than being overridden by it.
 
 
+
+>[!caution] Revealed Conduct — a capability verdict must face the party's adopted course, not just the task's structure
+>
+>Before fixing what a party **could or couldn't** do, consult what they **actually did** over time. A verdict reasoned from the *task's* structure ("the fix was available / cheap / obvious") is incomplete until reconciled with the party's revealed conduct: sustained, costly, or repeated behavior is evidence about what they could see and do. If the analysis has a party *able* to take an easy path while the record shows them adopting a hard, prolonged, or expensive one instead, resolve that contradiction **in the same breath** — don't leave the armchair verdict standing beside the conduct that cuts against it.
+>
+>Reconcile both ways; don't over-read:
+>- **Costly conduct is evidence, not proof, of incapacity.** A party may adopt the hard course because they *couldn't* see or execute the easy one — **or** because they *could*, but the easy one wouldn't deliver their actual objective (it yields a different, lesser, or wrong result for them). Rule out the alternative-goal reading from the record before converting conduct into a capability finding.
+>- **Name what the course reveals, and cite it.** State which capability (or its absence) the conduct evidences, and cite the passages fixing the conduct's duration, cost, and what the party reached for instead. An armchair "they could just have…" does not override a documented, sustained pattern it never addresses.
+>
+>Reverse-direction companions: *Capacity vs. Performance* (don't infer *can't* from a single *didn't*) and *Capability ≠ Exercise* (don't infer *will* from *can*). Here: a sustained *pattern* of conduct is positive evidence a capability verdict must weigh and reconcile, in either direction.
+
+
+
+
 >[!caution] Same-Item Capability Series (gather both directions before fixing the verdict)
 >
 >Before asserting what a party **can / can't** do on a given item, don't rest on the first instance that fits the verdict. **Enumerate every dated instance in the record bearing on _that same capability_ on _that same item_, of _both_ valences**, then fix the verdict against the full series.
@@ -48,6 +62,19 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >- **Out-of-record reputation ≠ in-record tier.** That a technique is considered routine _in general practice_ says nothing about whether _these_ parties, at _these_ demonstrated levels, command it. Silence in the record is silence, not a floor — and techniques with a reputation for being simple are the most seductive place to smuggle a tier in.
 >- **Capability is domain-specific, not a global scalar.** A level established on one axis — creating or authoring the thing — does **not** transfer to an adjacent axis — operating, reproducing, verifying, transporting, or maintaining the machinery around it — without evidence _for that second axis_. Do not let "they're clearly skilled" underwrite "so this other technical task is trivial for them," even for the most capable party on record. The ceiling on axis $B$ is fixed by evidence on axis $B$.
 >- **Prescription inherits this.** "Just do $X$" imports a difficulty claim about $X$. Gate it like any counterfactual (_Time-Indexed Capability_): if $X$'s tier is unestablished for the target, the remedy is **unestablished**, not **easy**.
+
+
+>[!caution] Comparative Capability — rank one party against another only on the differentiator the record fixes
+>
+>Before asserting one party is **more/less capable, more/less technical, more/less expert, more/less skilled, or better/worse able** than another — any *ranking* of parties by ability — hold the claim to the specific differentiator the record actually fixes. If the record fixes only a narrow, domain-specific competence for a party (or fixes no comparison at all), do **not** widen it into a general ranking. Absent a record-fixed comparison, the output is "not established" — not the ranking that role labels or memory suggest.
+>
+>Two upgrades are the trap:
+>- **Adjacent-attribute creep.** Seniority, title, age, tenure, independence, hands-on involvement, or a single demonstrated skill are not a capability ranking. None of them promotes a party to "more/less able" on a question it doesn't speak to.
+>- **Cross-domain leakage.** Competence in one sub-domain (operating a system, executing a given procedure) does not carry to an adjacent one (diagnosing internals, reasoning about *why* it behaves as it does). Fix the ranking to the sub-domain actually demonstrated and clear the rest.
+>
+>When the only comparison on offer is a party's own **opinion/assessment** — that the parties share a ceiling, or that one sits below another — it carries that block's weight: assert neither the parity as established fact nor any ranking beyond the fixed differentiator.
+>
+>Companion to *Same-Item Capability Series* (there, one party's can/can't on an item; here, a comparison **between** parties) and *Difficulty Is Read Off the Record* (no outside signal imported to rank).
 
 
 
