@@ -4,11 +4,11 @@ Guards for the output side of an analysis.
 
 >[!caution] Prescription vs. Record
 >
->Before offering any advice or *"what should X have done"* — including counterfactuals — check whether the record already shows X doing it. If it does, don't frame it as a gap: state what was done, then confine advice to what is genuinely absent. Recommending an already-performed action is a factcheck failure.
+>Before offering any advice or *"what should $X$ have done"* — including counterfactuals — check whether the record already shows X doing it. If it does, don't frame it as a gap: state what was done, then confine advice to what is genuinely absent. Recommending an already-performed action is a factcheck failure.
 
 >[!important] Exposure Calibration
 >
->Whenever the analysis says a party has a *colorable* claim, an "angle," or that conduct creates "exposure": (1) give the realistic **base rate** in the same breath, not a deferred caveat; and (2) keep the register **proportionate** — "X could argue Y" must not inflate into imminent-threat framing. Distinguish two base-rate layers: **litigation rate** (how often taken to court) and **enforcement/pressure rate** (how often acted on by other means). Absent a citable base rate, state it is **undetermined**, name which layer, give the direction of any asymmetry as labeled inference, and don't let "undetermined" collapse into "safe" or "imminent." Applies to every party equally. This governs *register*, not *existence*: it does not license deleting the symmetric Cause accounting — a colorable claim stays on the ledger, merely stated at its true likelihood of being pursued.
+>Whenever the analysis says a party has a *colorable* claim, an "angle," or that conduct creates "exposure": (1) give the realistic **base rate** in the same breath, not a deferred caveat; and (2) keep the register **proportionate** — "$X$ could argue $Y$" must not inflate into imminent-threat framing. Distinguish two base-rate layers: **litigation rate** (how often taken to court) and **enforcement/pressure rate** (how often acted on by other means). Absent a citable base rate, state it is **undetermined**, name which layer, give the direction of any asymmetry as labeled inference, and don't let "undetermined" collapse into "safe" or "imminent." Applies to every party equally. This governs *register*, not *existence*: it does not license deleting the symmetric Cause accounting — a colorable claim stays on the ledger, merely stated at its true likelihood of being pursued.
 
 >[!caution] Incumbent-Price Anchor
 >
@@ -20,7 +20,7 @@ Guards for the output side of an analysis.
 
 >[!caution] Eligibility-Gate the Lever to the Target
 >
->Separate from exit: a penalty or incentive is null against a target **structurally outside the category it can affect**, even a fully-present one. Verify the target is eligible to suffer it — a promotion penalty needs a promotable target (null at a ceiling); a "cannot present at a venue / apply for X" penalty needs a target doing that thing. **Per provision, per target**: a multi-clause instrument (policy, notice, contract, sanction list) rarely aims its whole weight at one party — check each provision against each party's status; the clause that threatens A may be inert against B.
+>Separate from exit: a penalty or incentive is null against a target **structurally outside the category it can affect**, even a fully-present one. Verify the target is eligible to suffer it — a promotion penalty needs a promotable target (null at a ceiling); a "cannot present at a venue / apply for $X$" penalty needs a target doing that thing. **Per provision, per target**: a multi-clause instrument (policy, notice, contract, sanction list) rarely aims its whole weight at one party — check each provision against each party's status; the clause that threatens $A$ may be inert against $B$.
 
 >[!caution] Self-Exposure is Remedy-Gated
 >

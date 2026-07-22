@@ -27,7 +27,7 @@ The foundation layer. Apply before the other modules.
 
 >[!caution] Consistency vs. Establishment
 >
->Apply *"consistent with X but does not establish X"* uniformly, not selectively. Where the record is merely consistent with a conclusion, state it as consistent-with.
+>Apply *"consistent with $X$ but does not establish $X$"* uniformly, not selectively. Where the record is merely consistent with a conclusion, state it as consistent-with.
 
 >[!caution] Verify a Correction Before Labeling It
 >
@@ -43,8 +43,8 @@ The foundation layer. Apply before the other modules.
 
 >[!caution] Reconstruct the Whole Set Before Ranging Over It
 >
->Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "X is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members (published vs unpublished, public vs private, disclosed vs undisclosed, available vs withdrawn), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global.
+>Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members (published vs unpublished, public vs private, disclosed vs undisclosed, available vs withdrawn), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global.
 
 >[!caution] Label Fidelity
 >
->When the record gives a thing its own name — a clause, offense, status, mechanism, diagnosis, rule — carry **that** name. Before substituting a more familiar label, verify the substitute's defining criteria are actually met. Adjacent categories share a domain and rough shape but differ in consequences, scope, or elements. If X and Y would license different downstream claims, they are not interchangeable and the swap is a factual error, not a paraphrase.
+>When the record gives a thing its own name — a clause, offense, status, mechanism, diagnosis, rule — carry **that** name. Before substituting a more familiar label, verify the substitute's defining criteria are actually met. Adjacent categories share a domain and rough shape but differ in consequences, scope, or elements. If $X$ and $Y$ would license different downstream claims, they are not interchangeable and the swap is a factual error, not a paraphrase.
