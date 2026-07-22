@@ -14,11 +14,13 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 
 >[!caution] Capacity vs. Performance
 >
->A claim of **capacity** ("cannot", "incapable", "structural ceiling") is not established by evidence of **non-performance** ("refuses", "did not", "never learned").  Capacity claims need evidence beyond non-performance and must reconcile any on-record competence facts.
+>A claim of **capacity** ("cannot", "incapable", "structural ceiling") is not established by evidence of **non-performance** ("refuses", "did not", "never learned"). Capacity claims need evidence beyond non-performance and must reconcile any **on-record competence fact** that cuts against them. Such a fact is of **two kinds, both binding**: a demonstrated success, *and* a **fixed credential** (degree, certification, title, established expertise) — a qualification on record is positive evidence of baseline capability, so a "can't" verdict must answer it, not skip past it.
 >
->Remedies that add resources, information, training, or instruction address **capability** gaps (can't → enabled), not **willingness** gaps (won't → unaffected).  Don't prescribe capability-side fixes for an unwilling party; that misclassifies the gap.
+>Remedies that add resources, information, training, or instruction address **capability** gaps (can't → enabled), not **willingness** gaps (won't → unaffected). Don't prescribe capability-side fixes for an unwilling party; that misclassifies the gap.
 >
 >Symmetrically: a **can / level-up** claim must reconcile any on-record **non-performance** on the same item — most sharply a *later*-dated one, which can revise an earlier favorable instance rather than being overridden by it.
+>
+>**The credential/performance gap is a signal, not a licence.** When a party's fixed credential and their demonstrated level diverge — qualified-yet-underperforming, or the reverse — read the gap (usually a **won't**; occasionally a **can't** with a later lapse). Never resolve it by quietly **downgrading the credential** to match the behaviour, or **upgrading the behaviour** to match the credential. Fix both endpoints from the record and name the gap between them.
 
 
 
@@ -55,13 +57,26 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >(Capability-series companion to *Distinguish Repeated Same-Type Events*: there, don't merge same-type **events** for cause; here, don't pool same-verb **performances** across tiers for capability. Refines *Same-Item Capability Series*: "same item, same capability" includes same **tier**.)
 
 
->[!caution] Difficulty Is Read Off the Record, Not an Outside Reputation (no "it's basic" import)
+>[!caution] Difficulty Is Read Off the Record, Not an Outside Reputation (no "it's basic", no "they're just a ⟨role⟩")
 >
->Before rating any task, technique, or step as **low-difficulty / routine / anyone-can-do-it** — whether to score a party's non-performance as damning, or to prescribe the step as an easy remedy — source that rating from the **record**, never from a real-world prior that the technique is standard, trivial, or idiot-proof. If no party in the record is shown performing it, its difficulty is **undetermined**, not "easy." Mark it so; do not build a "they could just do $X$" on it.
+>Before rating any task, technique, or step as **low-difficulty / routine / anyone-can-do-it** — whether to score a party's non-performance as damning, or to prescribe the step as an easy remedy — source that rating from the **record**, never from an outside prior. If no party in the record is shown performing it, its difficulty is **undetermined**, not "easy." Mark it so; do not build a "they could just do $X$" on it. The outside prior sneaks in from two directions — bar both:
 >
->- **Out-of-record reputation ≠ in-record tier.** That a technique is considered routine _in general practice_ says nothing about whether _these_ parties, at _these_ demonstrated levels, command it. Silence in the record is silence, not a floor — and techniques with a reputation for being simple are the most seductive place to smuggle a tier in.
+>- **Task-reputation ("it's basic").** That a technique is considered routine _in general practice_ says nothing about whether _these_ parties, at _these_ demonstrated levels, command it. Silence in the record is silence, not a floor — and techniques with a reputation for being simple are the most seductive place to smuggle a tier in.
+>- **Party-reputation ("they're just a ⟨role⟩").** A party's difficulty-baseline is read off the record too, not off the everyday sense of a **role word** the record attaches to them ("user", "junior", "layperson"). The lay connotation of the label is an outside reputation about the *party*, exactly as "it's basic" is one about the *task*; don't let it set the baseline (→ *Credential ≠ Role-Label*).
 >- **Capability is domain-specific, not a global scalar.** A level established on one axis — creating or authoring the thing — does **not** transfer to an adjacent axis — operating, reproducing, verifying, transporting, or maintaining the machinery around it — without evidence _for that second axis_. Do not let "they're clearly skilled" underwrite "so this other technical task is trivial for them," even for the most capable party on record. The ceiling on axis $B$ is fixed by evidence on axis $B$.
 >- **Prescription inherits this.** "Just do $X$" imports a difficulty claim about $X$. Gate it like any counterfactual (_Time-Indexed Capability_): if $X$'s tier is unestablished for the target, the remedy is **unestablished**, not **easy**.
+
+
+>[!caution] Credential ≠ Role-Label (retrieve the party's fixed qualification; don't read it off a role word)
+>
+>A party's **baseline** — what they can be expected to know, find easy, or be able to do — is read off the **qualification the record fixes for them** (degree, certification, title, demonstrated expertise), retrieved **at the point** the expectation/difficulty/capability claim is made, not from a confident memory of "they're basically a ⟨role⟩." Do not substitute the everyday connotation of a **role or behavior label** the record also attaches — "user", "junior", "assistant", "trainee", "layperson", "novice", "customer". A role label names how the party is *acting* or *positioned*; it is not the expertise they *hold*.
+>
+>Once retrieved, the credential feeds the two guards that do the work — this block only ensures it isn't silently dropped, and does **not** restate them:
+>- as an **outside-reputation import** about the party, a role word's lay sense is barred exactly as "it's basic" is barred for a task (→ *Difficulty Is Read Off the Record*);
+>- as an **on-record competence fact**, the credential is what a "can't" verdict must reconcile, and the credential/performance gap is a signal, not licence to collapse one endpoint into the other (→ *Capacity vs. Performance*).
+>
+>**Term-of-art trap — the one case this block adds.** The substitution is most seductive when the record uses the role word as a **term of art**: its technical sense ("at ladder-level $N$") and its lay sense ("non-expert") sit one keystroke apart, so a party fixed as highly qualified *and* acting at a low role-level reads, on a careless pass, as simply unqualified. Retrieve both — the credential and the role-level — and let the gap carry the reading.
+
 
 
 >[!caution] Comparative Capability — rank one party against another only on the differentiator the record fixes
