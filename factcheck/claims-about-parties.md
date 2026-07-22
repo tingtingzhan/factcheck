@@ -1,203 +1,71 @@
 # Claims about parties — trait, capacity, capability, interior state
 
-Guards for any claim about what a party *is* or *can / can't* do, and about its interior states.
-
+Guards for any claim about what a party *is*, what it *can/can't* do, and its interior states.
 
 >[!caution] Trait Claim
 >
->Before asserting any dispositional/trait claim about a party:
->1. cite $\geq 2$ independent _non-Opinion_ instances, and
->2. actively search the record for facts that cut the other way and reconcile them.
->
->Trait claims resting on a single Opinion "pattern" block are prohibited. This counter-search-and-reconcile duty extends to **capability, level, and competence** claims, not only traits — a single confirming instance on an item obligates the search for an opposite-valence instance on that same item.
-
+>Before any dispositional/trait claim: (1) cite ≥2 independent *non-Opinion* instances, and (2) search the record for facts that cut the other way and reconcile them. A trait resting on a single Opinion "pattern" block is prohibited. This duty extends to **capability, level, and competence** claims — one confirming instance obligates a search for an opposite-valence instance on the same item.
 
 >[!caution] Capacity vs. Performance
 >
->A claim of **capacity** ("cannot", "incapable", "structural ceiling") is not established by evidence of **non-performance** ("refuses", "did not", "never learned"). Capacity claims need evidence beyond non-performance and must reconcile any **on-record competence fact** that cuts against them. Such a fact is of **two kinds, both binding**: a demonstrated success, *and* a **fixed credential** (degree, certification, title, established expertise) — a qualification on record is positive evidence of baseline capability, so a "can't" verdict must answer it, not skip past it.
->
->Remedies that add resources, information, training, or instruction address **capability** gaps (can't → enabled), not **willingness** gaps (won't → unaffected). Don't prescribe capability-side fixes for an unwilling party; that misclassifies the gap.
->
->Symmetrically: a **can / level-up** claim must reconcile any on-record **non-performance** on the same item — most sharply a *later*-dated one, which can revise an earlier favorable instance rather than being overridden by it.
->
->**The credential/performance gap is a signal, not a licence.** When a party's fixed credential and their demonstrated level diverge — qualified-yet-underperforming, or the reverse — read the gap (usually a **won't**; occasionally a **can't** with a later lapse). Never resolve it by quietly **downgrading the credential** to match the behaviour, or **upgrading the behaviour** to match the credential. Fix both endpoints from the record and name the gap between them.
+>A **capacity** claim ("cannot," "incapable," "structural ceiling") is not established by **non-performance** ("refuses," "did not," "never learned"). It needs evidence beyond non-performance and must reconcile any on-record competence fact — of two binding kinds: a demonstrated success, *and* a fixed credential (degree, certification, title). Remedies that add resources/training address **capability** gaps (can't → enabled), not **willingness** gaps (won't → unaffected). Symmetrically, a *can/level-up* claim must reconcile on-record non-performance, most sharply a later-dated one. When credential and demonstrated level diverge, read the gap — don't resolve it by downgrading the credential or upgrading the behavior; fix both endpoints and name the gap.
 
+>[!caution] Revealed Conduct
+>
+>Before fixing what a party **could/couldn't** do, consult what they **actually did** over time. A verdict reasoned from the task's structure ("the fix was cheap / obvious") is incomplete until reconciled with sustained, costly, or repeated conduct. If the analysis has a party *able* to take an easy path while the record shows them taking a hard one, resolve that in the same breath. But don't over-read: costly conduct is evidence, not proof, of incapacity — a party may take the hard course because they couldn't see the easy one, *or* because the easy one wouldn't deliver their actual objective. Rule out the alternative-goal reading, then name the capability the conduct evidences and cite it.
 
+>[!caution] Same-Item Capability Series
+>
+>Before asserting what a party can/can't do on an item, enumerate **every dated instance** bearing on *that same capability* on *that same item*, of *both* valences, then fix the verdict against the full series. A confirming instance triggers the counter-search just as a disconfirming one does. Read instances as a time-series — a later one can revise an earlier (competence acquired, or lapsed). If a confirming and disconfirming instance both stand, the verdict is **mixed**, never the pole you reached first.
 
->[!caution] Revealed Conduct — a capability verdict must face the party's adopted course, not just the task's structure
+>[!caution] Difficulty-Tier Carryover
 >
->Before fixing what a party **could or couldn't** do, consult what they **actually did** over time. A verdict reasoned from the *task's* structure ("the fix was available / cheap / obvious") is incomplete until reconciled with the party's revealed conduct: sustained, costly, or repeated behavior is evidence about what they could see and do. If the analysis has a party *able* to take an easy path while the record shows them adopting a hard, prolonged, or expensive one instead, resolve that contradiction **in the same breath** — don't leave the armchair verdict standing beside the conduct that cuts against it.
->
->Reconcile both ways; don't over-read:
->- **Costly conduct is evidence, not proof, of incapacity.** A party may adopt the hard course because they *couldn't* see or execute the easy one — **or** because they *could*, but the easy one wouldn't deliver their actual objective (it yields a different, lesser, or wrong result for them). Rule out the alternative-goal reading from the record before converting conduct into a capability finding.
->- **Name what the course reveals, and cite it.** State which capability (or its absence) the conduct evidences, and cite the passages fixing the conduct's duration, cost, and what the party reached for instead. An armchair "they could just have…" does not override a documented, sustained pattern it never addresses.
->
->Reverse-direction companions: *Capacity vs. Performance* (don't infer *can't* from a single *didn't*) and *Capability ≠ Exercise* (don't infer *will* from *can*). Here: a sustained *pattern* of conduct is positive evidence a capability verdict must weigh and reconcile, in either direction.
+>Two instances can share a verb yet sit at different **difficulty tiers** — copying a supplied worked example vs. an unaided from-scratch build. Before a confirming instance carries weight toward "can do X," verify it sits at a tier comparable to the task at issue; a low-tier success is weak-to-null evidence for a higher-tier one. Fix each instance's tier, not just its valence. Silence on difficulty means *undetermined*, not "high" and not a strong anchor. Weigh only to the tier demonstrated.
 
+>[!caution] Difficulty Is Read Off the Record, Not an Outside Reputation
+>
+>Before rating a task/step as **low-difficulty / routine / anyone-can-do-it** — to score non-performance as damning, or to prescribe it as an easy remedy — source the rating from the **record**, never an outside prior. If no party is shown performing it, its difficulty is **undetermined**, not "easy." Two imports to bar: **task-reputation** ("it's basic" says nothing about whether *these* parties command it) and **party-reputation** (a party's baseline is read off the record, not off the lay sense of a role word the record attaches — "user," "junior," "layperson"). Capability is domain-specific, not a global scalar: a level on one axis (authoring the thing) doesn't transfer to an adjacent one (operating, verifying, maintaining it) without evidence for that axis. Prescription inherits this: "just do X" imports a difficulty claim; if X's tier is unestablished for the target, the remedy is unestablished, not easy.
 
+>[!caution] Credential ≠ Role-Label
+>
+>A party's **baseline** — what they can be expected to know or do — is read off the **qualification the record fixes** (degree, certification, demonstrated expertise), retrieved at the point the claim is made, not from the everyday connotation of a role or behavior label the record also attaches ("user," "junior," "trainee," "novice"). A role label names how the party is *acting*; it is not the expertise they *hold*. The trap is sharpest when the role word is a **term of art** whose technical sense ("at ladder-level N") and lay sense ("non-expert") sit one keystroke apart. Retrieve both the credential and the role-level and let the gap carry the reading. (Feeds *Difficulty Is Read Off the Record* and *Capacity vs. Performance*.)
 
+>[!caution] Comparative Capability
+>
+>Before asserting one party is **more/less capable/technical/expert/skilled** than another, hold the claim to the specific differentiator the record fixes. If the record fixes only a narrow competence (or no comparison), don't widen it into a general ranking — the output is "not established." Two traps: **adjacent-attribute creep** (seniority, title, age, tenure, one demonstrated skill are not a ranking) and **cross-domain leakage** (operating a system doesn't carry to reasoning about *why* it behaves as it does). When the only comparison on offer is a party's own opinion, it carries opinion-weight.
 
->[!caution] Same-Item Capability Series (gather both directions before fixing the verdict)
+>[!caution] Capability ≠ Exercise
 >
->Before asserting what a party **can / can't** do on a given item, don't rest on the first instance that fits the verdict. **Enumerate every dated instance in the record bearing on _that same capability_ on _that same item_, of _both_ valences**, then fix the verdict against the full series.
->
->1. **Trigger the counter-search from the _confirming_ instance, not only the disconfirming one.** A single supportive instance obligates a search for an opposite-valence instance on the same item _before_ the conclusion is written. A **can** verdict must reconcile on-record non-performance; a **can't** verdict must reconcile on-record competence.
->2. **Read the instances as a time-series, not a set.** A later instance can revise an earlier one (competence since acquired, or since lapsed). Don't let the earliest, most salient, or most convenient instance stand for the whole; attach each to its date and let the series' _direction over time_ carry the reading.
->3. **Contradiction ⇒ "mixed," not the favorable pole.** If a confirming and disconfirming instance both stand undefeated, the verdict is **mixed / consistent-with-both** — never the pole you reached first. State both in the same breath; don't shelve one as a footnote.
+>That a party **can** do X doesn't establish they **will** — still less **sustain** X under adverse conditions. Exercising a capability draws on a second, exhaustible resource — motivation, interpretive/emotional labor, relationship capital — separate from the capability. When an analysis treats a capable party (or hypothetical replacement) as a solution: (1) **name the fuel** that makes the incumbent exercise it (pay, loyalty, fear, duty); (2) **test transfer** — a capability transfers with the credential; its fuel usually does not; (3) **price the gap**. Open-ended unpriced fuel (loyalty, incumbency) sustains open-ended roles; a fee sustains only bounded, specified tasks. When costing a substitution, anchor to the incumbent's recorded price (→ `prescription-and-calibration.md`, *Incumbent-Price Anchor*).
 
-
->[!caution] Difficulty-Tier Carryover (an easy instance doesn't underwrite a hard "can")
+>[!caution] Possession ≠ Understanding
 >
->Within a capability series, two instances can share a verb ("migrated the code", "used the tool", "debugged it") yet sit at very different **difficulty or scope tiers** — copying a supplied worked example vs. a from-scratch reconstruction with no answer given. Before letting a **confirming** instance carry weight toward a "can do $X$" verdict, verify it sits at a tier **comparable to the task at issue**. A success at a low tier is weak-to-null evidence for capability at a higher one; pooling them inflates the verdict.
->
->- **Fix each instance's tier, not just its valence.** "Did it once" is not probative until you establish *how hard that instance was* — what was supplied (a worked example, an explicit answer, a clear signal), how much had to be produced unaided, what prerequisite it exercised.
->- **Silence on difficulty ≠ high difficulty — and ≠ strong anchor.** If the record doesn't fix an instance's difficulty, mark its probative weight *undetermined*; don't bank a difficulty-silent instance as support in either direction.
->- **Weigh only to the tier demonstrated.** A verdict about a higher-tier task must rest on evidence *at that tier*, not on an easier cousin that merely shares the verb.
->
->(Capability-series companion to *Distinguish Repeated Same-Type Events*: there, don't merge same-type **events** for cause; here, don't pool same-verb **performances** across tiers for capability. Refines *Same-Item Capability Series*: "same item, same capability" includes same **tier**.)
-
-
->[!caution] Difficulty Is Read Off the Record, Not an Outside Reputation (no "it's basic", no "they're just a ⟨role⟩")
->
->Before rating any task, technique, or step as **low-difficulty / routine / anyone-can-do-it** — whether to score a party's non-performance as damning, or to prescribe the step as an easy remedy — source that rating from the **record**, never from an outside prior. If no party in the record is shown performing it, its difficulty is **undetermined**, not "easy." Mark it so; do not build a "they could just do $X$" on it. The outside prior sneaks in from two directions — bar both:
->
->- **Task-reputation ("it's basic").** That a technique is considered routine _in general practice_ says nothing about whether _these_ parties, at _these_ demonstrated levels, command it. Silence in the record is silence, not a floor — and techniques with a reputation for being simple are the most seductive place to smuggle a tier in.
->- **Party-reputation ("they're just a ⟨role⟩").** A party's difficulty-baseline is read off the record too, not off the everyday sense of a **role word** the record attaches to them ("user", "junior", "layperson"). The lay connotation of the label is an outside reputation about the *party*, exactly as "it's basic" is one about the *task*; don't let it set the baseline (→ *Credential ≠ Role-Label*).
->- **Capability is domain-specific, not a global scalar.** A level established on one axis — creating or authoring the thing — does **not** transfer to an adjacent axis — operating, reproducing, verifying, transporting, or maintaining the machinery around it — without evidence _for that second axis_. Do not let "they're clearly skilled" underwrite "so this other technical task is trivial for them," even for the most capable party on record. The ceiling on axis $B$ is fixed by evidence on axis $B$.
->- **Prescription inherits this.** "Just do $X$" imports a difficulty claim about $X$. Gate it like any counterfactual (_Time-Indexed Capability_): if $X$'s tier is unestablished for the target, the remedy is **unestablished**, not **easy**.
-
-
->[!caution] Credential ≠ Role-Label (retrieve the party's fixed qualification; don't read it off a role word)
->
->A party's **baseline** — what they can be expected to know, find easy, or be able to do — is read off the **qualification the record fixes for them** (degree, certification, title, demonstrated expertise), retrieved **at the point** the expectation/difficulty/capability claim is made, not from a confident memory of "they're basically a ⟨role⟩." Do not substitute the everyday connotation of a **role or behavior label** the record also attaches — "user", "junior", "assistant", "trainee", "layperson", "novice", "customer". A role label names how the party is *acting* or *positioned*; it is not the expertise they *hold*.
->
->Once retrieved, the credential feeds the two guards that do the work — this block only ensures it isn't silently dropped, and does **not** restate them:
->- as an **outside-reputation import** about the party, a role word's lay sense is barred exactly as "it's basic" is barred for a task (→ *Difficulty Is Read Off the Record*);
->- as an **on-record competence fact**, the credential is what a "can't" verdict must reconcile, and the credential/performance gap is a signal, not licence to collapse one endpoint into the other (→ *Capacity vs. Performance*).
->
->**Term-of-art trap — the one case this block adds.** The substitution is most seductive when the record uses the role word as a **term of art**: its technical sense ("at ladder-level $N$") and its lay sense ("non-expert") sit one keystroke apart, so a party fixed as highly qualified *and* acting at a low role-level reads, on a careless pass, as simply unqualified. Retrieve both — the credential and the role-level — and let the gap carry the reading.
-
-
-
->[!caution] Comparative Capability — rank one party against another only on the differentiator the record fixes
->
->Before asserting one party is **more/less capable, more/less technical, more/less expert, more/less skilled, or better/worse able** than another — any *ranking* of parties by ability — hold the claim to the specific differentiator the record actually fixes. If the record fixes only a narrow, domain-specific competence for a party (or fixes no comparison at all), do **not** widen it into a general ranking. Absent a record-fixed comparison, the output is "not established" — not the ranking that role labels or memory suggest.
->
->Two upgrades are the trap:
->- **Adjacent-attribute creep.** Seniority, title, age, tenure, independence, hands-on involvement, or a single demonstrated skill are not a capability ranking. None of them promotes a party to "more/less able" on a question it doesn't speak to.
->- **Cross-domain leakage.** Competence in one sub-domain (operating a system, executing a given procedure) does not carry to an adjacent one (diagnosing internals, reasoning about *why* it behaves as it does). Fix the ranking to the sub-domain actually demonstrated and clear the rest.
->
->When the only comparison on offer is a party's own **opinion/assessment** — that the parties share a ceiling, or that one sits below another — it carries that block's weight: assert neither the parity as established fact nor any ranking beyond the fixed differentiator.
->
->Companion to *Same-Item Capability Series* (there, one party's can/can't on an item; here, a comparison **between** parties) and *Difficulty Is Read Off the Record* (no outside signal imported to rank).
-
-
-
->[!caution] Capability ≠ Exercise (Can does not imply Will, still less Sustain)
->
->A claim that a party **can** do $X$ does not establish they **will** — still less that they will **sustain** $X$ under the adverse conditions the record documents. Mirror of Capacity-vs-Performance: there, don't infer *can't* from *didn't*; here, don't infer *will / keeps-doing* from *can*.
->
->Exercising a capability draws on a **second, exhaustible resource** — motivation, interpretive/emotional labor, relationship capital — separate from the capability. Whenever an analysis treats a capable party (actual or hypothetical replacement) as a solution:
->
->1. **Name the fuel.** What makes the *incumbent* exercise the capability here — pay, loyalty, fear, fiduciary duty, ambition? Derive from the record; never assume it's self-fueling.
->2. **Test transfer.** Would a substitute have that same fuel automatically? A capability transfers with the credential; its fuel usually does **not**.
->3. **Price the gap.** If the fuel doesn't transfer, state what the substitute runs on instead and what that costs. Don't score the substitution "solved" on the capability match alone.
->
->**Fuel type governs transferability.** Open-ended, unpriced fuel (loyalty, friendship, incumbency) sustains **open-ended** roles; a fee is scope-capped and fragile and sustains only **bounded, specified** tasks. "Become the incumbent" or "carry this into a future commitment" doesn't transfer to a fee-fueled substitute even when the capability matches perfectly.
->
->**Pricing corollary.** When a substitution is being *costed* (not merely assessed for capability), anchor to the incumbent's recorded price and correct for the unpriced-fuel share (→ `prescription-and-calibration.md`, *Incumbent-Price Anchor*).
-
-
-
-
->[!caution] Possession ≠ Understanding (holding an artifact is not comprehending it)
->
->Before treating a party's **possession** of an artifact — a file, document, dataset, credential, message, or inherited body of work — as if it carried **understanding of what that artifact is**, stop. Possession delivers the object; it does not deliver comprehension of its identity, purpose, applicable use, dependencies, or worth. A holder can have a thing in hand and not know *what* it is, *why* it exists, or *whether/how* it bears on their problem.
->
->Require evidence of understanding **beyond the bare fact of possession**, and reconcile any on-record facts that cut against comprehension — non-readership of documentation, an assessed skill level, non-performance on similar material, or the artifact never having been explained or handed over with context. "They had it" establishes custody, not cognition.
->
->**Distinguish the adjacent guards — different failure points, different remedies:**
->- **Possession ≠ Understanding** (this guard): does the holder even *know what they hold*? The gap is upstream of any use.
->- **Capability ≠ Exercise**: presupposes the party *understands* the thing and *can* use it; the only open question is whether they *will*, or will *sustain* it. Do **not** reach for this guard while the prior question — comprehension — is itself unsettled: doing so silently credits an understanding the record has not established.
->- **Capacity vs. Performance**: whether the party *can* do the thing at all.
->
->Misclassifying an understanding gap as a mere will/exercise gap (or the reverse) misprescribes the fix: an unexplained artifact needs identification or explanation, not motivation or training.
-
+>Before treating a party's **possession** of an artifact (file, dataset, credential, inherited body of work) as carrying **understanding** of it, stop. Possession delivers the object, not comprehension of its identity, purpose, use, dependencies, or worth. Require evidence of understanding beyond bare possession, and reconcile facts that cut against it (non-readership of docs, an assessed skill level, the artifact never explained). Distinguish the adjacent guards: **Possession ≠ Understanding** (does the holder know *what* they hold?) is upstream of **Capability ≠ Exercise** (presupposes understanding; the open question is *will*) and **Capacity vs. Performance** (*can* they do it at all?). Misclassifying an understanding gap as a will gap misprescribes the fix.
 
 >[!caution] Decompose a Compound Action to Its Dependency Closure Before Pricing It
 >
->Before rating who can perform an action — or how hard, costly, or feasible it is — expand it into the **full set of sub-actions it forces**, not the headline step. An action named at a high level ("rename it", "move it", "republish it", "swap the provider") usually carries a **cascade**: other components key on the thing being changed, so changing it obliges coordinated edits wherever those components reach. Price the action at its **closure** — every dependent that must change for the result to be valid — never at the nominal operation that names it.
->
->- **Relabels are coupled, not atomic.** Renaming, re-identifying, or relocating an entity ripples to everything that **dispatches on, references, or points at** that identity. The visible edit is one field; the real edit is the transitive set of dependents, often spanning several artifacts. Trace the graph before calling it small.
->- **Find the binding sub-requirement, then gate _that_.** Once decomposed, the action's difficulty is set by its **hardest required sub-action**, not its headline or its easiest part. Identify which sub-action binds, then run the capability/time gate on _that_ requirement (→ _Time-Indexed Capability_), against the record — not on the action's generic seniority label. A step that looks like routine bookkeeping can bottom out on exactly the competence the record fixes the party as lacking.
->- **Permission ≠ tractability.** That an action is _allowed_ (licensed, in-scope, sanctioned) says nothing about whether the party can execute its closure. Clear the permission and the execution cost separately; don't let "they're free to do it" stand in for "they can."
-
-
+>Before rating who can perform an action — or how hard it is — expand it into the **full set of sub-actions it forces**, not the headline step. A high-level action ("rename it," "move it," "swap the provider") usually carries a cascade: other components key on the thing being changed. Price the action at its **closure** — every dependent that must change for the result to be valid. Relabels are coupled, not atomic. The action's difficulty is set by its **hardest required sub-action**; gate *that* against the record (→ *Time-Indexed Capability*). And **permission ≠ tractability**: that an action is allowed says nothing about whether the party can execute its closure.
 
 >[!caution] Time-Indexed Capability (Anachronism Guard)
 >
->Before prescribing any counterfactual ("$X$ should have done $Y$ at time $T$"), verify from the record that the party possessed — **at $T$** — whatever $Y$ requires.  Don't backdate a capability the record shows acquired later: a competence, classification, or insight first appearing at $T+k$ is evidence it was **absent** at $T$. "Did not do $Y$ at $T$" + "could do $Y$ at $T+k$" does **not** establish "could have done $Y$ at $T$." This is Capacity-vs-Performance turned on the *focal* party, indexed to time.
->
->Sort the requirement for $Y$ into exactly one of three bins:
->
->1. **Capability-gated** — $Y$ needs knowledge/skill/insight acquired at $T+k$. **Retract**; don't prescribe at $T$.
->2. **Obtainable-but-unretrieved** — $Y$ needs only information available at $T$ by asking or looking (a status/fact on file) that the party hadn't retrieved. **Prescribable**, but as "acquire it," not "already knew it."
->3. **Disposition-in-hand** — $Y$ needs only a decision, posture, or assertion the party could make at $T$ from facts in hand. **Prescribable** at $T$.
->
->When a prescription bundles bins, unbundle and keep only the (2)/(3) components.  Don't let a (3) component smuggle in a (1) dependency through wording (e.g., "assert that two things are distinct" quietly presumes you can already *name* the distinction).
->
->Separately: a prescription routed through a **communicative channel** (disclose, explain, persuade, ask) must clear any obstacle the record has already *established* on that channel. Where the disagreement is **non-convergent / structural**, don't advise disclosure or persuasion as if the channel were open — state that the act produces conflict, not resolution, and price that in.
+>Before prescribing any counterfactual ("X should have done Y at time T"), verify from the record that the party possessed — **at T** — whatever Y requires. Don't backdate a capability shown acquired later: a competence or insight first appearing at T+k is evidence it was **absent** at T. "Did not do Y at T" + "could do Y at T+k" does not establish "could have done Y at T." Sort the requirement for Y into one bin: (1) **capability-gated** — needs skill acquired at T+k → **retract**; (2) **obtainable-but-unretrieved** — needs only info available at T by asking/looking → **prescribable** as "acquire it," not "already knew it"; (3) **disposition-in-hand** — needs only a decision from facts in hand → **prescribable** at T. When a prescription bundles bins, keep only the (2)/(3) parts. Separately, a prescription routed through a **communicative channel** (disclose, explain, persuade) must clear any obstacle the record establishes on that channel — where disagreement is structural, disclosure produces conflict, not resolution.
 
-
->[!caution] Status-Epoch Attribution (attach an act to the party's status *at the act's own date*)
+>[!caution] Status-Epoch Attribution
 >
->Before attaching an act, statement, or performance to a party **in a given status** ("while still inside the relationship", "before the transition", "as a current member"), retrieve the date the party **entered or left** that status and verify the act falls inside the epoch you're assigning it to. Status is time-indexed; don't attach an act to the epoch most salient in memory, or the one that makes it most explicable, rather than the one the record dates.
->
->- **Retrieve the transition, don't recall it.** The entry/exit date is record-fixable; read it at the point of use. A confident memory of "they were still $X$ then" is the trap.
->- **The epoch changes what the act shows.** The same non-performance is tolerable in an early/dependent status and more probative in a later/independent one. Misdating mis-scores the act — it is not neutral.
->- **The error cuts both ways.** A misdated transition can wrongly discount an act ("only a junior") or wrongly inflate it. Fix the date first, then read the act.
->
->Status/role analogue of the Anachronism Guard: there, verify *capability* at $T$; here, *status* at $T$ — and a status the record fixes at $T+k$ is not evidence of the same status at $T$.
-
+>Before attaching an act to a party **in a given status** ("while still a member," "before the transition"), retrieve the date they entered/left that status and verify the act falls inside that epoch. Status is time-indexed — retrieve the transition, don't recall it. The epoch changes what the act shows: the same non-performance is tolerable in an early/dependent status, more probative in a later/independent one. The error cuts both ways — fix the date first, then read the act.
 
 >[!caution] Epistemic-Access Claims
 >
->Epistemic-access claims must be symmetric across parties. If a party's mental states are treated as internal, undisclosed, and knowable only by self-report, the same standard applies to counterparties. An incapacity/interior claim about a counterparty may not rest on a lower evidentiary bar than a good-faith/intent claim about the focal party.
+>Epistemic-access claims must be symmetric across parties. If one party's mental states are treated as internal and knowable only by self-report, the same standard applies to counterparties. An incapacity/interior claim about a counterparty may not rest on a lower bar than a good-faith/intent claim about the focal party.
 
-
-
->[!caution] Affect & Motive Are Read Off the Record (don't import a folk-psychology prior about what a party feels, prefers, or fears)
+>[!caution] Affect & Motive Are Read Off the Record
 >
->Before asserting what a party finds **shameful, threatening, humiliating, preferable, or harder to admit** — or any interior reaction, motive, or affective ranking — source it from the **record** (the party's own words, or their behavior on record), never from a general prior about how people *typically* feel in that situation. "Being told you *won't* is more face-damaging than *can't*", "no one would admit $X$", "someone in that role would obviously resent / prefer / fear $Y$" are outside reputations about *human reactions*, exactly as "it's basic" is an outside reputation about a *task* (→ *Difficulty Is Read Off the Record*). They set no premise.
->
->- **Counter-search — the record often *inverts* the prior.** Before leaning on an imported reaction, scan for on-record behavior fixing the party's actual stance; frequently a party is shown comfortably adopting the very posture the prior calls humiliating. A contradicted prior is a retraction, not a soft caveat.
->- **Don't add an interior-motive layer the record doesn't need.** If on-record habit, incentive, or circumstance already accounts for the behavior, an extra "they avoid it *because* it shames them" premise is surplus and usually unfounded — take the simpler record-grounded reading (→ standing lens *Homo economicus vs. Flawed Human*; Hanlon).
->- **Interior claims stay symmetric.** Any reaction or motive attributed to one party is held to the same bar for every party (→ *Epistemic-Access Claims*).
->
->**What survives is the labeled external structure, not the interior claim.** How an act is *generally evaluated* — e.g. that non-performance charged as unwillingness is blameworthy while incapacity is usually excused — may be stated as a general, **labeled** observation about outside judgment. It does **not** license the further claim that *this* party subjectively feels the one more than the other; that step needs the record.
+>Before asserting what a party finds **shameful, threatening, preferable, or harder to admit** — any interior reaction or affective ranking — source it from the record (their words or behavior), never a general prior about how people "typically" feel. "No one would admit X," "someone in that role would obviously resent Y" are outside reputations about human reactions, set no premise. Counter-search — the record often *inverts* the prior (a party comfortably adopting the posture the prior calls humiliating). Don't add an interior-motive layer the record doesn't need; if habit or incentive already explains the behavior, take the simpler reading. Interior claims stay symmetric (→ *Epistemic-Access*). What survives is the labeled external structure (that unwillingness is judged more harshly than incapacity), not a claim that *this* party subjectively feels one more than the other.
 
-
-
-
->[!caution] Withholding ≠ Not-Knowing (the party who redacts holds what they hide)
+>[!caution] Withholding ≠ Not-Knowing
 >
->When the record shows a party **restricting, redacting, summarizing, or forwarding a reduced version** of information to others, do **not** infer that the restricting party *itself* lacks that information. The act fixes the **recipients'** limited access, not the **actor's** — ordinarily the reverse holds: to remove something you must first possess it.
->
->Separate three roles before asserting any party's epistemic state:
->- **Holder** — has the information (often the very party who redacts/summarizes/forwards it);
->- **Withheld-from** — the party the record says cannot see it;
->- **Direction** — who removed *what* from *whose* copy.
->
->Attach a "does not know / is unaware" claim only to the **withheld-from** party the record names, and cite the passage fixing *that* party's access. Never let a clause specifying the recipients' ignorance bleed onto the nearest salient actor. What the record leaves open about the redactor is usually their **stance or motive**, not their **knowledge** — don't convert the first silence into the second. (Epistemic-state analogue of *Agency & Direction*: verify source vs. recipient before asserting who holds what.)
+>When the record shows a party **restricting, redacting, summarizing, or forwarding a reduced version** of information, do **not** infer the restricting party itself lacks it — to remove something you must first possess it. Separate three roles: **holder** (has it, often the redactor), **withheld-from** (the party the record says cannot see it), and **direction** (who removed what from whose copy). Attach a "does not know / is unaware" claim only to the withheld-from party the record names. What the record leaves open about the redactor is usually their *stance*, not their *knowledge*.
 
-
-
->[!caution] "Escaped / Benefited / Succeeded" Claims — check the same-record counter-ledger
+>[!caution] "Escaped / Benefited / Succeeded" Claims
 >
->Before asserting any party **got away, came out ahead, or handled something successfully**, search the record for consequences it already establishes that cut against the claim — and reconcile them **in the same breath**, not as a later caveat.
->
->Split any "success/exit" into the axes it spans; a win on one axis doesn't carry the others:
->- **Person vs. asset/obligation** — a party can exit or benefit personally while their assets, deliverables, unfinished work, or unresolved obligations remain stranded on record.
->- **Short-run vs. committed-future** — a clean present exit can coexist with a broken longer-term commitment the record documents.
->
->If the record shows a stranded counter-consequence, name both sides (e.g. "exited *personally* but the obligation remains open"), never a bare "got away." Self-assessed success by a party (esp. down-weighted Opinion) does NOT establish actual success; hold it to the record like any trait claim.
+>Before asserting a party **got away, came out ahead, or handled something successfully**, search the record for consequences that cut against it and reconcile them in the same breath, not as a later caveat. Split the claim into the axes it spans: **person vs. asset/obligation** (a party can exit personally while their deliverables or obligations remain stranded) and **short-run vs. committed-future** (a clean present exit can coexist with a broken longer-term commitment). If a stranded counter-consequence exists, name both sides, never a bare "got away." Self-assessed success (especially down-weighted Opinion) does not establish actual success.

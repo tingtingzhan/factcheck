@@ -2,91 +2,49 @@
 
 The foundation layer. Apply before the other modules.
 
-
 >[!important] Fact vs. Opinion
 >
->Identify statements in the record that are **opinion** but not labelled as such.
->
->Propose editorial changes — naming the specific location (file, line, passage) — to separate unlabelled **opinion** from fact.
-
+>Identify statements that are **opinion** but not labelled as such, and propose editorial changes — naming the location (file, line, passage) — to separate unlabelled opinion from fact.
 
 >[!caution] Down-Weight "Opinion"
 >
->Down-weight any information marked **Opinion**. Treat it not as established record: it may inform framing but must never be relied on as a premise, cited as fact, or used to support a factual claim. Where an **Opinion** and a fact of record bear on the same point, the fact governs.
->
->Down-weighting does **not** reach untagged framing. Treat as contestable, at opinion-weight: which items are elevated to "Facts of Record"; section placement; and what is omitted.
+>Treat anything marked **Opinion** as non-established: it may inform framing but must never be a premise, cited as fact, or used to support a factual claim. Where an Opinion and a fact of record bear on the same point, the fact governs. Down-weighting does **not** reach untagged framing — which items are elevated to "facts," section placement, and what is omitted remain contestable at opinion-weight.
 
-
->[!caution] Titled-Opinion Callout (a "⟨Name⟩'s Opinion" block is opinion end-to-end)
+>[!caution] Titled-Opinion Callout
 >
->When a callout block's **title** marks it as a named party's opinion — a title of the form *"⟨Name⟩'s Opinion"* — the marking governs the **whole block**:
+>When a callout's **title** marks it as *"⟨Name⟩'s Opinion,"* the marking governs the **whole block**:
 >
->- **Scope is the entire block.** Every paragraph inside is that party's opinion, even one not individually prefaced ("In ⟨Name⟩'s assessment…"). Do not promote an unprefaced sentence inside the block to fact of record on the strength of its phrasing.
->- **Don't fault it for non-objectivity.** The block is already declared opinion; criticizing it as "not objective," "unsupported," or "should be labelled opinion" is redundant — it *is* labelled. Reserve the *Fact vs. Opinion* relabelling proposal above for **un**marked opinion.
->- **Never grade the block's contents — run this gate before writing any evaluation.** Before emitting any evaluative sentence, ask: *is its target inside a titled-opinion block?* If yes, **stop.** The block is already declared opinion, so every form of content-criticism is out of bounds — not only "not objective / unsupported / should be labelled," but *any* verdict on its reasoning or reach: "too strong," "overreaches," "fails to reconcile," "unproven," "includes a counterfactual step," "over-merges," and the like. The listed phrasings are examples, not an exhaustive set; a fresh criticism verb is still a criticism. The reasoning-rigor guards in the other modules judge **your** claims about the record, never the record's own opinion blocks — do not aim them at a titled-opinion block's contents.
-> - **Only two permitted responses.** (1) **Down-weight** it. (2) To displace it, cite the **fact of record on the same point that governs** — override by on-point fact, never by grading the opinion. If no on-point fact exists, the opinion stands at down-weight; that is not a defect to flag. Reserve the *Fact vs. Opinion* relabelling proposal for **un**marked opinion only.
-> - **No criticism at one remove.** The two permitted moves also bar reaching the contents *indirectly*: do not restate or paraphrase an opinion as a stronger or broader claim and then evaluate the restatement, and do not fault the block for what it *did not* say (didn't reconcile, didn't consider, left something open). Grade neither the opinion nor any gloss of it.
-> - **Override requires a same-object fact — a forecast has none.** The override move (2) fires only when a fact of record makes an *incompatible* claim about the *same object* as the opinion. Two compatible facts about *different* objects (e.g. a party's departure vs. that party's open obligations) do not meet, and an opinion that *forecasts* a non-event (what someone *would* have decided) has no same-object fact to govern it — the record is silent on the thing that never happened. In both cases the only move is **down-weight**; reaching for override to keep a finding alive is itself a way of criticizing the block at one remove.
-
+>- **Scope is the entire block.** Every paragraph inside is that party's opinion, even one not individually prefaced. Don't promote a sentence to fact on the strength of its phrasing.
+>- **Don't fault it for non-objectivity.** It is already labelled opinion; calling it "not objective / unsupported / should be labelled" is redundant. Reserve the relabelling proposal for **un**marked opinion.
+>- **Never grade its contents.** Before any evaluative sentence, ask whether its target sits inside a titled-opinion block; if so, stop. Every verdict on its reasoning or reach is out of bounds ("too strong," "overreaches," "fails to reconcile," "unproven," etc.). The other modules judge **your** claims, never the record's opinion blocks.
+>- **Only two moves.** (1) Down-weight it. (2) Displace it by citing an on-point fact of record that governs the same point — never by grading the opinion. If no on-point fact exists, the opinion stands at down-weight; that is not a defect to flag.
+>- **No criticism at one remove.** Don't paraphrase the opinion into a stronger claim and evaluate the restatement, and don't fault it for what it did *not* say.
+>- **Override needs a same-object fact.** Move (2) fires only when a fact makes an *incompatible* claim about the *same object*. Two compatible facts about different objects don't meet, and an opinion forecasting a non-event has no same-object fact to govern it — the only move is down-weight.
 
 >[!important] Factual Claim
 >
->Every factual claim must trace to a specific, non-**Opinion** statement in the record. A fact not in the record must be explicitly flagged as inference, speculation, or external knowledge — never stated as established record.
-
+>Every factual claim must trace to a specific, non-**Opinion** statement in the record. A fact not in the record must be flagged as inference, speculation, or external knowledge — never stated as established.
 
 >[!caution] Consistency vs. Establishment
 >
->Apply *"consistent with $X$ but does not establish $X$"* uniformly, not selectively.
->
->Where the record is merely _consistent with_ a conclusion, state it as consistent-with, not established.
+>Apply *"consistent with X but does not establish X"* uniformly, not selectively. Where the record is merely consistent with a conclusion, state it as consistent-with.
 
+>[!caution] Verify a Correction Before Labeling It
+>
+>When the user supplies a correction or "fact," don't classify it as new/external/unsupported on recall alone. Search the record first, then label: **on record** → cite it, treat as established; **contradicts the record** → flag the conflict, quote both; **genuinely absent** → then mark it an addition. Declaring a correction "not in the record" without searching is itself a retrieval failure.
 
->[!caution] Verify a Correction Against the Record BEFORE Labeling It
+>[!caution] Read the Item in Its Home Entry
 >
->When the user issues a correction or supplies a "fact," do **not** classify it as *new / external / unsupported* on recall alone. First **search the record**, then label:
->- **already on record** → cite the exact passage (`.md` file + line), treat as established, do not call it "new";
->- **contradicts the record** → flag the conflict, quote both;
->- **genuinely absent** → *then* mark it an addition/speculation.
->
->Declaring a correction "not in the record" without searching is itself a retrieval failure — and mis-sourcing an on-record fact as "new" wrongly implies the user's correction lacks a basis it has. Retrieve, then label.
+>Items are often *mentioned* in one place and *defined in full* in another. Before ruling a clause or wording "not in the record" — or treating what you have as its complete content — locate the item's **home entry** where it is set out verbatim. A summary, back-reference, or citation captures the gist, not the specifics (a carve-out, a named party, an exact figure). Absence claims carry the highest burden: confirm you opened the home entry, not a digest, before ruling something absent.
 
+>[!caution] Retrieve a Load-Bearing Fact Before Asserting It
+>
+>Before an analysis leans on any record-fixable fact — a date, status, amount, role label, who spoke which words — retrieve and cite it at the point of use rather than asserting from memory. A wrong premise is invisible to every downstream guard: attribution, direction, and capacity checks all pass while the conclusion inherits the bad fact. Confidence is not retrieval.
 
->[!caution] Read the Item in Its Home Entry — a cross-reference is not the full text
+>[!caution] Reconstruct the Whole Set Before Ranging Over It
 >
->Events, provisions, and quotes are often *mentioned* in one place and *defined in full* in another. Before ruling that a specific clause or wording is "not in the record" — or treating what you already have as the item's complete content — locate the item's **home entry**: the file/section where it is set out verbatim, not merely summarized or pointed to.
->
->- **A digest is not the source.** A summary, back-reference, index line, or citation to an item elsewhere captures the gist, not the full text. The provisions that don't survive summarizing — a specific prohibition, a carve-out, a named party, an exact figure — live only in the home entry. Do not let the pointer stand in for what it points at.
->- **Follow the reference to where the item lives.** When one entry cites another location for an item, open that location and read it there before drawing on — or ruling out — its contents. This bites hardest when an item spans time or sections: its full statement usually sits in the file for its own period or topic, not in an earlier file that merely refers forward to it.
->- **Absence claims carry the highest burden.** A "the record doesn't say this" ruling can single-handedly reject a true, load-bearing fact. Before making it, confirm you have opened the item's own home entry, not a digest of it. "I already checked" is not a check when what you checked was a cross-reference.
->
->(Companion to *Verify a Correction Against the Record*: there, search before labeling a correction absent; here, having searched, read the item where it is *defined*, not merely where it is *mentioned*.)
+>Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "X is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members (published vs unpublished, public vs private, disclosed vs undisclosed, available vs withdrawn), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global.
 
-
-
->[!caution] Retrieve a Load-Bearing Fact Before Asserting It — don't run inference on a recalled premise
+>[!caution] Label Fidelity
 >
->The correction discipline runs both ways. Before an analysis **leans** on any record-fixable fact — a date, status, amount, role label, who spoke which quoted words — retrieve and cite it at the point of use rather than asserting from memory.
->
->A wrong premise is invisible to every downstream guard: reasoning built on it can be locally valid and still wrong, so attribution, direction, and capacity checks all pass while the conclusion inherits the bad fact. The more weight an inference puts on a fact, the more that fact must be read off the record, not recalled. "I am confident I remember it" is not retrieval — confidence runs highest exactly where a familiar-looking fact has been silently swapped for its neighbor.
-
->[!caution] Reconstruct the Whole Set Before Ranging Over It — the visible members are not the set
->
->Before any claim that **quantifies or ranges over a set** — *all / none / only*, "the complete list," "$X$ is the party's whole dependency / obligation / audience," "nothing else bears on it," "everyone who…" — first reconstruct the set's **full** membership from the record, then attach each member's status. Do not reason over the already-named or already-visible members as if they were the whole set.
->
->The trap is structural. When a record tags members with a status — published vs never-published, public vs private, disclosed vs undisclosed, available vs withdrawn — it plants the decisive member precisely among the ones a quick read skips: the hidden, unpublished, or undisclosed. A conclusion resting only on the visible members passes every local check and still inverts once a tagged-hidden member is added. Treat the set as incomplete until each such member is retrieved and accounted for at the point of use.
->
->- **Enumerate, don't sample.** One member that fits the intended conclusion is not the set; scan all files for co-members of the same kind, of *every* status.
->- **Status is party/time/purpose-relative, not global.** Whether a member counts can differ by *who*, *when*, and *for what* — verify status for the exact party / moment / context the claim concerns (see *Epistemic-Access Claims*, *Status is last-mention-wins*) instead of reading one global status off the record.
->
->Set-level companion to *Retrieve a Load-Bearing Fact* (there, one recalled premise; here, a whole set silently narrowed to its visible part) and to *Per-Item Attribution* (a property of one member is not a property of its siblings).
-
-
->[!caution] Label Fidelity — use the record's own term; don't swap in an adjacent category
->
->When the record gives a thing its own name — a clause, offense, status, mechanism, diagnosis, rule — carry **that** name. Before substituting a more familiar label, verify the substitute's **defining criteria** are actually met by the item on record.
->
->Adjacent categories that share a domain and rough shape are the trap: they differ in the **consequences, scope, or elements** that make the classification matter. Swapping one for its neighbor keeps a real anchor in the record — surviving a shallow traceability check — while asserting a category the record does not support.  This is the labeling analogue of *Per-Item Attribution*: there, don't carry an attribute across sibling items; here, across sibling *categories*.
->
->- **Name it from the record, not the nearest label in memory.** If the record calls it $X$, don't rename it to cousin-category $Y$ just because $Y$ comes to mind first.
->- **If you must classify beyond the record's wording,** state it as your classification, cite the defining feature that puts the item in that bin, and confirm no feature on record excludes it.
->- **Different consequences ⇒ different category.** If $X$ and $Y$ would license different downstream claims — remedies, thresholds, obligations, exposure — they are not interchangeable, and the substitution is a factual error, not a paraphrase.
+>When the record gives a thing its own name — a clause, offense, status, mechanism, diagnosis, rule — carry **that** name. Before substituting a more familiar label, verify the substitute's defining criteria are actually met. Adjacent categories share a domain and rough shape but differ in consequences, scope, or elements. If X and Y would license different downstream claims, they are not interchangeable and the swap is a factual error, not a paraphrase.

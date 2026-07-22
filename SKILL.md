@@ -22,48 +22,36 @@ tags:
 
 # Factcheck — universal reasoning-rigor guards
 
-Apply these guards to any factual claim made about a **source record** — whatever the user provided as ground truth (documents, transcript, dataset, case file, narrative). "Cite the source" means point to the specific sentence, line, or passage in that material.
+Apply these guards to any factual claim made about a **source record** — whatever the user supplied as ground truth (documents, transcript, dataset, case file, narrative). "Cite the source" means point to the specific sentence, line, or passage.
 
-The load-bearing rules live in the module files below, grouped by kind of claim.  This `SKILL.md` is only the hub.
+The guards live in the module files below, grouped by kind of claim. This `SKILL.md` is only the hub.
 
 >[!important] Read the modules that apply
 >
->These module files **are** the skill. Before committing a claim, read the module matching the move you are about to make and apply every guard in it. One response usually touches several modules; run each relevant module's checks.
+>The module files **are** the skill. Before committing a claim, read the module matching the move you are making and apply its guards. One response usually touches several modules.
 
 ## Module index
 
-- **`evidence-and-opinion.md`** — fact vs. opinion, opinion-weighting, traceability, *consistent-with* vs. *established*, classifying a user-supplied "fact." **Start here; it governs everything downstream.**
+- **`evidence-and-opinion.md`** — fact vs. opinion, opinion-weighting, traceability, *consistent-with* vs. *established*, classifying a supplied "fact." **Start here; it governs everything downstream.**
 - **`attribution-and-direction.md`** — cause, agency/direction, per-item attribution, multi-actor tallies, broken-commitment verbs, temporal anchors.
 - **`claims-about-parties.md`** — traits, capacity, capability over time, interior/epistemic states, "succeeded / got away."
 - **`prescription-and-calibration.md`** — counterfactuals, exposure/base-rate register, enforcement gating, artifact-status defaults, rigged demos, manufactured faults.
-- **`maintaining-this-skill.md`** — correcting an error and editing these files without importing scenario-specific context.
+- **`maintaining-this-skill.md`** — correcting an error and editing these files without importing scenario context.
 
 ## Standing lenses (apply to every prompt)
 
-These run on every analysis, regardless of subject.
-
 >[!tip] Hanlon's Razor
 >
->Analyze with Hanlon's Razor (https://en.wikipedia.org/wiki/Hanlon%27s_razor) in mind: *"Never attribute to malice that which is adequately explained by stupidity."*
+>Never attribute to malice what is adequately explained by incompetence or error.
 
->[!tip] Homo economicus vs. Flawed Human
+>[!tip] Two readings
 >
->Analyze each scenario under two alternative assumptions:
->
->- that the parties are Homo economicus (https://en.wikipedia.org/wiki/Homo_economicus);
->- that they are not very smart and not very honest — flawed yet relatable, with the earnest imperfections of human nature.
-
+>Test each scenario under two assumptions: that the parties are rational self-interested actors, and that they are neither very smart nor very honest — flawed but relatable.
 
 >[!caution] Titled-opinion blocks are down-weight-only
 >
->A "⟨Name⟩'s Opinion"-titled callout is opinion end-to-end. Before writing any evaluation whose target sits inside such a block, stop: do not grade its objectivity, reasoning, or reach — in any words. The only moves are to down-weight it, or to override it with a fact of record on the same point. This gates every module's fault-finding: those guards judge your claims, not the record's opinions. (Full rule: `factcheck/evidence-and-opinion.md`, Titled-Opinion Callout.)
-
+>A callout titled *"⟨Name⟩'s Opinion"* is opinion end-to-end. Do not grade its objectivity, reasoning, or reach. The only moves are to down-weight it or to override it with an on-point fact of record. This gates every module's fault-finding — those guards judge *your* claims, not the record's opinions. (Full rule: `evidence-and-opinion.md`, *Titled-Opinion Callout*.)
 
 ## Output medium
 
-Print your analysis — and any corrected or edited text — directly in the chat. 
-
-When you output edited Markdown source, put the raw source in a fenced code block (four-backtick or ~~~ outer fence so inner fences survive) rather than a rendered version or a file.
-
-Do **not** create or offer a downloadable file (including an edited `.md`) unless the user explicitly asks for one. 
-
+Print the analysis — and any corrected or edited text — directly in chat. When outputting edited Markdown source, put it in a fenced code block (four-backtick or `~~~` outer fence so inner fences survive). Do not create or offer a downloadable file unless the user explicitly asks for one.

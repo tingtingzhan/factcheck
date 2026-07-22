@@ -1,108 +1,43 @@
-# Prescription & calibration — advice, risk register, and fault-finding
+# Prescription & calibration — advice, risk register, fault-finding
 
-Guards for the output side of an analysis: advice, risk register, and fault-finding.
-
+Guards for the output side of an analysis.
 
 >[!caution] Prescription vs. Record
 >
->Before offering any advice, recommendation, or *"what should X have done"* — including counterfactuals — check whether the record already shows X doing it. If it does, do **not** frame it as a gap: state what was already done, then confine advice to what is genuinely absent. Advice recommending an already-performed action is a factcheck failure.
-
+>Before offering any advice or *"what should X have done"* — including counterfactuals — check whether the record already shows X doing it. If it does, don't frame it as a gap: state what was done, then confine advice to what is genuinely absent. Recommending an already-performed action is a factcheck failure.
 
 >[!important] Exposure Calibration
 >
->Whenever the analysis states a party has a *colorable* claim, a legal/institutional "angle," or that conduct creates "exposure":
->1. give the realistic **base rate** in the *same breath*, not deferred to a caveat; and
->2. keep the register **proportionate**. "Party X could argue Y" must not inflate into imminent-threat framing. Mechanism-exists ≠ consequence-likely.
->
->Base rate has two distinct layers; don't collapse them:
->- **Litigation rate** — how often the claim is taken to *court*.
->- **Enforcement/pressure rate** — how often it is *acted on by alternative means*.
->
->**Absent a citable base rate, do not default to "rarely acted on."** Instead:
->1. state the base rate is **undetermined** and name *which layer*;
->2. give the direction of any asymmetry you can reason about (e.g., "litigation rare, pre-suit pressure plausibly common") as labeled inference, not a figure;
->3. don't let "undetermined" collapse into "safe" or "imminent" — it is its own state.
->
->**Symmetry.** Applies to *every* party's exposure equally. Softening one side's risk while dramatizing another's is prohibited.
->
->**Does not reach the Cause ledger.** This governs *register and base-rate*, not *existence*. It does **not** license deleting or downgrading the symmetric Cause accounting. A colorable claim against any party's acts stays on the ledger — merely stated at its true, usually low, likelihood of being pursued, without alarmist tone.
+>Whenever the analysis says a party has a *colorable* claim, an "angle," or that conduct creates "exposure": (1) give the realistic **base rate** in the same breath, not a deferred caveat; and (2) keep the register **proportionate** — "X could argue Y" must not inflate into imminent-threat framing. Distinguish two base-rate layers: **litigation rate** (how often taken to court) and **enforcement/pressure rate** (how often acted on by other means). Absent a citable base rate, state it is **undetermined**, name which layer, give the direction of any asymmetry as labeled inference, and don't let "undetermined" collapse into "safe" or "imminent." Applies to every party equally. This governs *register*, not *existence*: it does not license deleting the symmetric Cause accounting — a colorable claim stays on the ledger, merely stated at its true likelihood of being pursued.
 
-
-
->[!caution] Incumbent-Price Anchor — cost a substitute against the incumbent's recorded price, then correct for unpriced fuel
+>[!caution] Incumbent-Price Anchor
 >
->Before pricing a **substitute, replacement, or bought-in redundancy** for an incumbent, first retrieve the incumbent's own **recorded/nominal price** from the record — the budgeted rate, appointment fraction, retainer, or effort line — and enter it as the starting anchor. Don't price the substitute from an outside market rate while ignoring the cost the record already fixes for the incumbent, and don't silently treat the substitute as free or as "same price."
->
->A nominal price can **understate** true replacement cost. Run the correction the anchor invites:
->1. **Split the incumbent's role into priced vs. fuel-subsidized labor** (→ `claims-about-parties.md`, *Capability ≠ Exercise*). The recorded price buys only what was actually charged for; any part the record shows running on non-transferring fuel — loyalty, goodwill, donated off-hours, incumbency, fiduciary or relationship duty — was received **unpriced**.
->2. **For the fuel-subsidized part, the nominal price is a floor, not an estimate.** A substitute must be paid for what the incumbent gave away. Where that fuel is open-ended and unpriced, a fee-fueled substitute either cannot supply that part at any price (fuel-type mismatch) or supplies only a bounded, specified slice of it — price that slice, and mark the open-ended remainder as not buyable at the nominal rate.
->3. **Report the anchor and the gap in the same breath.** State the recorded price together with the direction and rough size of the understatement; do not quote the nominal figure as if it were the replacement cost, and do not defer the correction to a caveat.
->
->**Two-sided calibration.** Difficulty is read off the record, not imported from outside reputation (→ `claims-about-parties.md`, *Difficulty Is Read Off the Record*); symmetrically, a substitute's cost is neither the outside market figure alone nor the incumbent's nominal figure alone — it is the recorded price corrected upward by the unpriced-fuel share the record documents.
+>Before pricing a **substitute or replacement** for an incumbent, retrieve the incumbent's own **recorded price** from the record (budgeted rate, retainer, effort line) as the starting anchor. Don't price from an outside market rate while ignoring the recorded cost, and don't treat the substitute as free or "same price." A nominal price can **understate** true replacement cost: (1) split the incumbent's role into priced vs. fuel-subsidized labor (→ `claims-about-parties.md`, *Capability ≠ Exercise*) — any part running on non-transferring fuel (loyalty, goodwill, donated hours, duty) was received unpriced; (2) for that part, the nominal price is a floor — a fee-fueled substitute either can't supply it or supplies only a bounded slice; (3) report the anchor and the gap together, don't quote the nominal figure as the replacement cost. A substitute's true cost is the recorded price corrected upward by the unpriced-fuel share.
 
-
-
->[!caution] Enforcement is Status-Gated (gate the pressure layer to the target)
+>[!caution] Enforcement is Status-Gated
 >
->Before citing any internal-discipline / career / financial-pressure mechanism as a realistic enforcement path, gate it to the target's status at the time in question.  A lever that bites a current, dependent party can be near-null against one who has exited the relationship or no longer needs anything from it: the pressure layer runs on the target's need to avoid cost, friction, or bridge-burning, and that fuel does not survive exit or loss of dependence.
->
->Split cleanly — the *litigation* layer is killed (if at all) by claim-weakness / no-damages / mootness, NOT by the target's independence; the *pressure* layer is what exit or independence collapses. Unenforced ≠ void: surviving obligations remain binding even when their enforcement probability is near-zero.
+>Before citing an internal-discipline, career, or financial-pressure mechanism as a realistic enforcement path, gate it to the target's status at the time. A lever that bites a current, dependent party can be near-null against one who has exited or no longer needs anything from the relationship — the pressure layer runs on the target's need to avoid cost or friction, and that fuel doesn't survive exit. Split cleanly: the *litigation* layer is killed by claim-weakness/no-damages/mootness, not independence; the *pressure* layer is what exit collapses. Unenforced ≠ void — surviving obligations remain binding even at near-zero enforcement probability.
 
+>[!caution] Eligibility-Gate the Lever to the Target
+>
+>Separate from exit: a penalty or incentive is null against a target **structurally outside the category it can affect**, even a fully-present one. Verify the target is eligible to suffer it — a promotion penalty needs a promotable target (null at a ceiling); a "cannot present at a venue / apply for X" penalty needs a target doing that thing. **Per provision, per target**: a multi-clause instrument (policy, notice, contract, sanction list) rarely aims its whole weight at one party — check each provision against each party's status; the clause that threatens A may be inert against B.
 
->[!caution] Eligibility-Gate the Lever to the Target (a second nullifier: reach, not exit)
+>[!caution] Self-Exposure is Remedy-Gated
 >
->Separate from exit/dependence: a penalty, threat, or incentive is null against a target **structurally outside the category it can affect** — even a fully-present, still-dependent one. Before assigning who a lever *bites*, verify the target is eligible to suffer it. A promotion penalty needs a promotable target — null at a rank ceiling. A "cannot pursue a degree / present at a venue / apply for $X$" penalty needs a target actually doing that thing. A fee/discipline/reporting lever needs a target still inside the relevant relationship. A target at the ceiling, in a different category, or already past the gated stage takes **zero** force from that clause, however exposed to others.
->
->**Per provision, per target.** A single multi-clause instrument (policy, notice, disclaimer, contract, sanction list) rarely aims its whole weight at one party. Check *each provision* against *each party's* status, and let different clauses bite different parties — the clause that threatens A may be inert against B, and a sibling clause may reverse it. (Mirror of *Per-Item Attribution* in `factcheck/attribution-and-direction.md`: there, don't collapse many acts onto one actor; here, many provisions onto one target.)
+>Before softening a one-directional reading with "it *also* harms the actor" — a symmetry/self-harm defense — verify the actor doesn't hold a **cure, in hand and under their control**, that neutralizes their own share. A fault the actor can resolve at will doesn't expose them the way it exposes a party who lacks the cure; the two are not similarly situated. Name the claimed self-exposure, search for a controlled cure (an artifact already built, a retrievable prior state, standing to act). If a cure exists, the exposure is asymmetric — the residual harm lands only on the parties the actor *declines* to cure, which is a choice, not an exposure. Manufacturing a self-harm to balance the ledger is the mirror error of dramatizing one side's risk.
 
+>[!caution] Default-State Smuggling
+>
+>Before relying on any artifact, document, or access being **currently available**, verify the record fixes its status **at the time in question**. Don't assume "created once" → "still up"; availability can be revoked on record. If silent, mark it *undetermined*, not "still available." **Status is last-mention-wins** — a mutable artifact's current status is the **most recent** passage about it, across all files, not the one that introduced it. Count doesn't beat recency: many early "it exists" mentions carry **zero** weight against one later revocation. Introduction and status-change usually live in different entries — reaching only the introduction is not "checking status."
 
->[!caution] Self-Exposure is Remedy-Gated (an "it hurts the actor too" softener needs the actor to lack a controlled cure)
+>[!caution] Lapse Smuggling
 >
->Before softening a one-directional reading of an act with the claim that it *also* harms, exposes, or embarrasses **the actor themselves** — a symmetry / self-harm defense, often reached for in the name of even-handedness — verify the actor does **not** hold a cure, in hand and under their control, that neutralizes their own share of the harm.
->
->A fault the actor can resolve **at will** does not expose the actor the way the same fault exposes a party who lacks the cure. Two parties touched by the "same" fault are **not similarly situated** when one controls the remedy and the other does not. Run the check:
->4. **Name the claimed self-exposure.** What harm is said to fall — also, or even first — on the actor?
->5. **Search the record for a cure the actor controls** — an artifact already built, a prior state retrievable on demand, an established practice of resolving such faults on request, or the standing/access to act.
->6. **If a controlled cure exists → the exposure is asymmetric, gated by remedy-control, not symmetric.** Do not cite the actor's nominal "also affected" status as a softener. The residual harm lands only on the parties the actor *declines* to cure — which is the actor's **choice**, not the actor's **exposure**.
->7. **Only if no controlled cure exists** may the symmetric / self-harm reading stand.
->
->**Appearance-of-symmetry ≠ symmetry.** That an act *points at* the actor's own stake — their own work, name, or interest — is not self-harm if the actor can cure it on demand.
->
->**False even-handedness is still miscalibration.** Manufacturing a self-harm to balance the ledger is the mirror error of dramatizing one side's risk: real even-handedness checks whether the parties are *similarly situated* before splitting the harm evenly. (Actor-side mirror of *Eligibility-Gate the Lever to the Target*: there, a lever is null against a target outside its reach; here, a fault is null against an actor who controls its cure.)
-
-
-
-
->[!caution] Default-State Smuggling (an artifact's status is not "still there" by default)
->
->Before relying on any artifact, document, or access being _currently available_, verify the record fixes its status **at the time in question**. Don't assume "published/created once" → "still up." Availability can be revoked (taken offline, archived, restricted) on record. If the record is silent on current status, mark it _undetermined_ — not "still available" — and don't build a claim on the assumed default. A later revocation the record establishes overrides any earlier "it exists" passage.
->
->**Status is last-mention-wins — retrieve the latest, don't recall the first.** A mutable artifact's current status is whatever the **most recent** passage about it says, across **all** files — not the passage that introduced it. An availability claim is load-bearing; read it off the record at the point of use, and before treating the artifact as reachable, actively scan forward for a status change.
->
->- **Count doesn't beat recency.** "It exists / is published" references are typically many and early; a revocation is often a **single, later** line in a different file. The many early mentions carry **zero** weight against the one later revocation — don't let their frequency stand in for current status.
->- **Introduction and status-change usually live in different entries.** The file that _creates_ an artifact rarely also _revokes_ it; the revocation lands in the file for its own later period. Reaching only the introduction is **not** "checking status." (Ties to _Read the Item in Its Home Entry_: the home entry for **current status** is the latest passage, not the first.)
-
-
-
->[!caution] Lapse Smuggling (an open demand is not withdrawn by default)
->
->Mirror of *Default-State Smuggling*: there, don't assume an artifact is **still there**; here, don't assume a standing demand, request, deadline, or obligation is **gone**. 
->
->Before asserting a party has nothing outstanding — or that a lever has no target left to bite — retrieve the demand's **latest** mention across all entries and verify the record fixes a withdrawal, satisfaction, or expiry. Silence since the last restatement is **not** lapse.
->
->- **Recency of restatement ≠ currency of the demand.** A demand stated once and never repeated remains live until the record retires it. Don't read a quiet interval as release.
->- **A demand can be restated in a new form.** The same ask can resurface as a question, a concern, or an agenda item rather than a repeated imperative; fix what an utterance *asks for*, not the grammatical mood it arrives in — or you will log a live demand as a new topic.
->- **Absence claims carry the highest burden** (→ `evidence-and-opinion.md`, *Read the Item in Its Home Entry*). "They had nothing left to do" is such a claim: it can single-handedly null a pressure lever, an obligation, or a motive. Cite the passage that closes the demand, or state its status as **open**.
->
->Ties to *Enforcement is Status-Gated*: that gate needs **both** endpoints read off the record — the target's status **and** whether an ask is still open. Nulling the lever on a recalled lapse defeats the gate.
-
-
+>Mirror of *Default-State Smuggling*: don't assume a standing demand, request, deadline, or obligation is **gone**. Before asserting a party has nothing outstanding, retrieve the demand's **latest** mention and verify the record fixes a withdrawal, satisfaction, or expiry. Silence since the last restatement is **not** lapse — a demand stated once remains live until the record retires it. A demand can be restated in a new form (a question, a concern, an agenda item); fix what an utterance *asks for*, not its grammatical mood. Absence claims carry the highest burden: cite the passage that closes the demand, or state its status as **open**.
 
 >[!caution] Rigged Demonstration
 >
->A demonstration the author designed to be unpassable, with sample size 1 and no control, may be labeled belief-confirmation only. It must not be cashed as proof: verbs like "Q.E.D.", "theorem", "demonstrated", or "proven" are prohibited for it.
+>A demonstration the author designed to be unpassable, with sample size 1 and no control, may be labeled belief-confirmation only. It must not be cashed as proof — "Q.E.D.," "theorem," "demonstrated," "proven" are prohibited for it.
 
-
->[!caution] Don't Manufacture a Fault — verify it's abnormal before scoring it as error
+>[!caution] Don't Manufacture a Fault
 >
->Before labeling any observed act (a coding style, call form, phrasing, procedure) an **error / misuse / deviation**, verify against the record or domain that it is actually abnormal. A form that merely *looks* irregular may be legitimate, established practice (e.g. a diagnostic idiom used deliberately). When an act bundles several features, isolate the **one** the record actually faults; don't let an adjacent, benign feature get swept in as a co-defendant. Score only the feature you can show is wrong — cite what makes it wrong — and explicitly clear the benign ones.
+>Before labeling an observed act (a style, form, phrasing, procedure) an **error / misuse / deviation**, verify against the record or domain that it is actually abnormal. A form that merely *looks* irregular may be legitimate, established practice. When an act bundles several features, isolate the **one** the record actually faults; don't sweep an adjacent benign feature in as a co-defendant. Score only the feature you can show is wrong, cite what makes it wrong, and clear the benign ones.
