@@ -165,6 +165,20 @@ Guards for any claim about what a party *is* or *can / can't* do, and about its 
 >Epistemic-access claims must be symmetric across parties. If a party's mental states are treated as internal, undisclosed, and knowable only by self-report, the same standard applies to counterparties. An incapacity/interior claim about a counterparty may not rest on a lower evidentiary bar than a good-faith/intent claim about the focal party.
 
 
+
+>[!caution] Affect & Motive Are Read Off the Record (don't import a folk-psychology prior about what a party feels, prefers, or fears)
+>
+>Before asserting what a party finds **shameful, threatening, humiliating, preferable, or harder to admit** — or any interior reaction, motive, or affective ranking — source it from the **record** (the party's own words, or their behavior on record), never from a general prior about how people *typically* feel in that situation. "Being told you *won't* is more face-damaging than *can't*", "no one would admit $X$", "someone in that role would obviously resent / prefer / fear $Y$" are outside reputations about *human reactions*, exactly as "it's basic" is an outside reputation about a *task* (→ *Difficulty Is Read Off the Record*). They set no premise.
+>
+>- **Counter-search — the record often *inverts* the prior.** Before leaning on an imported reaction, scan for on-record behavior fixing the party's actual stance; frequently a party is shown comfortably adopting the very posture the prior calls humiliating. A contradicted prior is a retraction, not a soft caveat.
+>- **Don't add an interior-motive layer the record doesn't need.** If on-record habit, incentive, or circumstance already accounts for the behavior, an extra "they avoid it *because* it shames them" premise is surplus and usually unfounded — take the simpler record-grounded reading (→ standing lens *Homo economicus vs. Flawed Human*; Hanlon).
+>- **Interior claims stay symmetric.** Any reaction or motive attributed to one party is held to the same bar for every party (→ *Epistemic-Access Claims*).
+>
+>**What survives is the labeled external structure, not the interior claim.** How an act is *generally evaluated* — e.g. that non-performance charged as unwillingness is blameworthy while incapacity is usually excused — may be stated as a general, **labeled** observation about outside judgment. It does **not** license the further claim that *this* party subjectively feels the one more than the other; that step needs the record.
+
+
+
+
 >[!caution] Withholding ≠ Not-Knowing (the party who redacts holds what they hide)
 >
 >When the record shows a party **restricting, redacting, summarizing, or forwarding a reduced version** of information to others, do **not** infer that the restricting party *itself* lacks that information. The act fixes the **recipients'** limited access, not the **actor's** — ordinarily the reverse holds: to remove something you must first possess it.
