@@ -18,6 +18,11 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 >
 >Before asserting what a party can/can't do on an item, enumerate **every dated instance** bearing on *that same capability* on *that same item*, of *both* valences, then fix the verdict against the full series. A confirming instance triggers the counter-search just as a disconfirming one does.  Read instances as a time-series: size the gap between them and account for it — acquired, lapsed, or sustained, and by what intervening mechanism (disuse, substitution, changed role, training). A large interval is evidence, not a modifier; recency alone is not an account.   If a confirming and disconfirming instance both stand, the verdict is **mixed**, never the pole you reached first.
 
+>[!caution] Compliance Is Not Conversion
+>
+>A party who **stops contesting** has not thereby shown they can now do the thing unaided. Check whether the record shows that channel tried and failed — a refused request, an escalation that went nowhere; a non-functional channel makes its later non-use uninformative about capability. Split the instance: what the party **did** (capability, at its own difficulty tier) vs. what they **stopped doing** (incentive). Score separately, or willingness passes as capability. Keep the mechanism structural — interior reactions need self-report (→ *Epistemic-Access Claims*).
+
+
 >[!caution] Difficulty-Tier Carryover
 >
 >Two instances can share a verb yet sit at different **difficulty tiers** — copying a supplied worked example vs. an unaided from-scratch build. Before a confirming instance carries weight toward "can do $X$," verify it sits at a tier comparable to the task at issue; a low-tier success is weak-to-null evidence for a higher-tier one. Fix each instance's tier, not just its valence. Silence on difficulty means *undetermined*, not "high" and not a strong anchor. Weigh only to the tier demonstrated.
