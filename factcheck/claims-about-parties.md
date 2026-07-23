@@ -16,7 +16,7 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 
 >[!caution] Same-Item Capability Series
 >
->Before asserting what a party can/can't do on an item, enumerate **every dated instance** bearing on *that same capability* on *that same item*, of *both* valences, then fix the verdict against the full series. A confirming instance triggers the counter-search just as a disconfirming one does. Read instances as a time-series — a later one can revise an earlier (competence acquired, or lapsed). If a confirming and disconfirming instance both stand, the verdict is **mixed**, never the pole you reached first.
+>Before asserting what a party can/can't do on an item, enumerate **every dated instance** bearing on *that same capability* on *that same item*, of *both* valences, then fix the verdict against the full series. A confirming instance triggers the counter-search just as a disconfirming one does.  Read instances as a time-series: size the gap between them and account for it — acquired, lapsed, or sustained, and by what intervening mechanism (disuse, substitution, changed role, training). A large interval is evidence, not a modifier; recency alone is not an account.   If a confirming and disconfirming instance both stand, the verdict is **mixed**, never the pole you reached first.
 
 >[!caution] Difficulty-Tier Carryover
 >
