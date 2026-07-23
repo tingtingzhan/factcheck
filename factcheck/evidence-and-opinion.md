@@ -21,6 +21,13 @@ The foundation layer. Apply before the other modules.
 >- **No criticism at one remove.** Don't paraphrase the opinion into a stronger claim and evaluate the restatement, and don't fault it for what it did *not* say.
 >- **Override needs a same-object fact.** Move (2) fires only when a fact makes an *incompatible* claim about the *same object*. Two compatible facts about different objects don't meet, and an opinion forecasting a non-event has no same-object fact to govern it — the only move is down-weight.
 
+
+>[!caution] Opinion-Status Can Be Set Elsewhere in the Record
+>
+>A block's opinion-status is fixed by every classification the record supplies — legend, global gloss, weighting table — not its local title alone. If the record elsewhere labels a differently-titled block (e.g. "Assessment," "Note") as a kind of opinion, apply Titled-Opinion treatment: down-weight only, no grading. Resolve status against the whole scheme before grading any block.
+
+
+
 >[!important] Factual Claim
 >
 >Every factual claim must trace to a specific, non-**Opinion** statement in the record. A fact not in the record must be flagged as inference, speculation, or external knowledge — never stated as established.

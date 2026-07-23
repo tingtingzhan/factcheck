@@ -6,6 +6,10 @@ Guards for the output side of an analysis.
 >
 >Before offering any advice or *"what should $X$ have done"* — including counterfactuals — check whether the record already shows X doing it. If it does, don't frame it as a gap: state what was done, then confine advice to what is genuinely absent. Recommending an already-performed action is a factcheck failure.
 
+>[!caution] A Remedy Must Satisfy the Property It Restores
+>
+>When a fix targets a deficiency defined by a property (independence, diversity, balance, coverage), the remedy must itself hold that property — not merely add one more of the failing kind. One addition that shares the original's failure point relocates the deficiency, it doesn't cure it. Gate the fix by the defining property, not by count.
+
 >[!important] Exposure Calibration
 >
 >Whenever the analysis says a party has a *colorable* claim, an "angle," or that conduct creates "exposure": (1) give the realistic **base rate** in the same breath, not a deferred caveat; and (2) keep the register **proportionate** — "$X$ could argue $Y$" must not inflate into imminent-threat framing. Distinguish two base-rate layers: **litigation rate** (how often taken to court) and **enforcement/pressure rate** (how often acted on by other means). Absent a citable base rate, state it is **undetermined**, name which layer, give the direction of any asymmetry as labeled inference, and don't let "undetermined" collapse into "safe" or "imminent." Applies to every party equally. This governs *register*, not *existence*: it does not license deleting the symmetric Cause accounting — a colorable claim stays on the ledger, merely stated at its true likelihood of being pursued.
