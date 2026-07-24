@@ -32,6 +32,11 @@ The foundation layer. Apply before the other modules.
 >
 >Every factual claim must trace to a specific, non-**Opinion** statement in the record. A fact not in the record must be flagged as inference, speculation, or external knowledge — never stated as established.
 
+>[!caution] Reported Basis ≠ Established Basis
+>
+>When the record reports a party **invoking** an authority — a rule, policy, requirement, clause, mandate, commitment, precedent, credential, or prior agreement — it establishes the **invocation**, not the authority. The invoked instrument is a separate record item: locate its own text, or mark the basis **as represented, unverified**. The trap is grammatical — the basis rides in as a modifier (*per $X$*, *under $Y$*, *as required by $Z$*, *citing $W$*) on a sentence whose established content is only that the party spoke or acted. Applies equally where the invoked authority is plausible, routine, or uncontested; no counterparty's silence ratifies it.
+
+
 >[!caution] Consistency vs. Establishment
 >
 >Apply *"consistent with $X$ but does not establish $X$"* uniformly, not selectively. Where the record is merely consistent with a conclusion, state it as consistent-with.
@@ -40,17 +45,23 @@ The foundation layer. Apply before the other modules.
 >
 >When the user supplies a correction or "fact," don't classify it as new/external/unsupported on recall alone. Search the record first, then label: **on record** → cite it, treat as established; **contradicts the record** → flag the conflict, quote both; **genuinely absent** → then mark it an addition. Declaring a correction "not in the record" without searching is itself a retrieval failure.
 
+
+
 >[!caution] Read the Item in Its Home Entry
 >
->Items are often *mentioned* in one place and *defined in full* in another. Before ruling a clause or wording "not in the record" — or treating what you have as its complete content — locate the item's **home entry** where it is set out verbatim. A summary, back-reference, or citation captures the gist, not the specifics (a carve-out, a named party, an exact figure). Absence claims carry the highest burden: confirm you opened the home entry, not a digest, before ruling something absent.
+>Items are often *mentioned* in one place and *defined in full* in another. Before any claim about an item — its wording, status, scope, availability, applicability, or whether it is in the record at all — locate the item's **home entry** where it is set out verbatim. A summary, back-reference, or citation captures the gist, not the specifics (a carve-out, a named party, an exact figure). Where the record fixes a property both in prose and in a **structured** form (table, column, field), the structured statement governs the narrative mention. Retrieval is **point-of-use**: having opened the home entry earlier in the session is not a check; a recently-read prose passage otherwise displaces a table read earlier. Absence claims carry the highest burden: confirm you opened the home entry, not a digest, before ruling something absent.
+
+
+
 
 >[!caution] Retrieve a Load-Bearing Fact Before Asserting It
 >
 >Before an analysis leans on any record-fixable fact — a date, status, amount, role label, who spoke which words — retrieve and cite it at the point of use rather than asserting from memory. A wrong premise is invisible to every downstream guard: attribution, direction, and capacity checks all pass while the conclusion inherits the bad fact. Confidence is not retrieval.
 
+
 >[!caution] Reconstruct the Whole Set Before Ranging Over It
 >
->Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members (published vs unpublished, public vs private, disclosed vs undisclosed, available vs withdrawn), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global.
+>Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members (published vs unpublished, public vs private, disclosed vs undisclosed, available vs withdrawn), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global. A set invoked to carry a harm or a benefit needs **at least one member fixed on the record**; zero enumerated members means **undetermined**, not "small" — don't score the harm.
 
 >[!caution] Label Fidelity
 >

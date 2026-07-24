@@ -32,10 +32,10 @@ The guards live in the module files below, grouped by kind of claim. This `SKILL
 
 ## Module index
 
-- **`evidence-and-opinion.md`** — fact vs. opinion, opinion-weighting, traceability, *consistent-with* vs. *established*, classifying a supplied "fact." **Start here; it governs everything downstream.**
+- **`evidence-and-opinion.md`** — fact vs. opinion, opinion-weighting, traceability, reported basis, *consistent-with* vs. *established*, classifying a supplied "fact." **Start here; it governs everything downstream.**
 - **`attribution-and-direction.md`** — cause, agency/direction, per-item attribution, multi-actor tallies, broken-commitment verbs, temporal anchors.
 - **`claims-about-parties.md`** — traits, capacity, capability over time, interior/epistemic states, "succeeded / got away."
-- **`prescription-and-calibration.md`** — counterfactuals, exposure/base-rate register, enforcement gating, artifact-status defaults, rigged demos, manufactured faults.
+- **`prescription-and-calibration.md`** — counterfactuals, exposure/base-rate register, enforcement gating, artifact-status defaults, rigged demos, manufactured faults, goal-relative verdicts.
 - **`maintaining-this-skill.md`** — correcting an error and editing these files without importing scenario context.
 
 ## Standing lenses (apply to every prompt)

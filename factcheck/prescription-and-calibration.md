@@ -26,6 +26,10 @@ Guards for the output side of an analysis.
 >
 >Separate from exit: a penalty or incentive is null against a target **structurally outside the category it can affect**, even a fully-present one. Verify the target is eligible to suffer it — a promotion penalty needs a promotable target (null at a ceiling); a "cannot present at a venue / apply for $X$" penalty needs a target doing that thing. **Per provision, per target**: a multi-clause instrument (policy, notice, contract, sanction list) rarely aims its whole weight at one party — check each provision against each party's status; the clause that threatens $A$ may be inert against $B$.
 
+>[!caution] Score an Act Against the Actor's Own Recorded Objective
+>
+>Verdicts like **self-defeating, backfired, own goal, counterproductive, self-harm** are goal-relative. Before committing one, cite the objective the record fixes for **that actor, at that act's date**. No objective on record → verdict **unavailable**; report the effects unscored. An objective the act *serves* → not self-harm, but the act working as intended.
+
 >[!caution] Self-Exposure is Remedy-Gated
 >
 >Before softening a one-directional reading with "it *also* harms the actor" — a symmetry/self-harm defense — verify the actor doesn't hold a **cure, in hand and under their control**, that neutralizes their own share. A fault the actor can resolve at will doesn't expose them the way it exposes a party who lacks the cure; the two are not similarly situated. Name the claimed self-exposure, search for a controlled cure (an artifact already built, a retrievable prior state, standing to act). If a cure exists, the exposure is asymmetric — the residual harm lands only on the parties the actor *declines* to cure, which is a choice, not an exposure. Manufacturing a self-harm to balance the ledger is the mirror error of dramatizing one side's risk.
