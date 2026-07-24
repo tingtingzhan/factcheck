@@ -52,6 +52,10 @@ The guards live in the module files below, grouped by kind of claim. This `SKILL
 >
 >A callout titled *"⟨Name⟩'s Opinion"* is opinion end-to-end. Do not grade its objectivity, reasoning, or reach. The only moves are to down-weight it or to override it with an on-point fact of record. This gates every module's fault-finding — those guards judge *your* claims, not the record's opinions. (Full rule: `evidence-and-opinion.md`, *Titled-Opinion Callout*.)
 
+>[!tip] Read a guard by its rule, not its example
+>
+>A guard's opening scenario is illustrative, not its scope. If its **rule** governs the move you are making, it applies — even where the scenario it describes is absent. When two or three guards each sit just off your case, one of them almost certainly governs: re-read their closing sentences before concluding none does.
+
 ## Output medium
 
 Print the analysis — and any corrected or edited text — directly in chat. When outputting edited Markdown source, put it in a fenced code block (four-backtick or `~~~` outer fence so inner fences survive). Do not create or offer a downloadable file unless the user explicitly asks for one.
