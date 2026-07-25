@@ -10,6 +10,16 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >
 >Interrogative form exempts a claim from support while landing the cost on the other party's inaction. Treat it as the assertion it is: place the **speaker** inside the counterfactual and list what their role, authority, and window actually afforded. Where the binding constraint sits elsewhere than the omission being asked about, the question is misaddressed — note that rather than inheriting its framing.
 
+>[!caution] Enumerate the Eligible Set Before Reading the Proposal
+>
+>When one party proposes that another act, derive who the record shows as eligible **before** looking at whom the proposal names, so it cannot frame the search. Then state which eligible parties went unnamed.
+>
+>An omission informs only where the record fixes that the proposer knew of that party, could reach them, and had no disqualifying reason; absent those, it is silence. Where the omitted are better qualified, the gap needs an account — which may be innocent, or absent from the record entirely.
+
+>[!caution] Check Who Fixed the Option Set
+>
+>Comparing alternatives presupposes the menu. Ask which passage narrowed the field, and whether the record holds an option no party ever raised — an unraised option leaves no trace in the comparison, while the comparison itself implies a choice was made. Where the narrowing is unattributed, that step, not the pick, is what needs an actor.
+
 >[!caution] Agency & Direction
 >
 >Before asserting who does/provides/refuses what, verify the **direction** against the record: which party is source, which is recipient. Don't infer direction from plausibility or a role label. Claims about who supplied, transferred, requested, or delivered what must name source and recipient and cite the passage.
