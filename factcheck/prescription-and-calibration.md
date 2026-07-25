@@ -30,6 +30,19 @@ Guards for the output side of an analysis.
 >
 >Verdicts like **self-defeating, backfired, own goal, counterproductive, self-harm** are goal-relative. Before committing one, cite the objective the record fixes for **that actor, at that act's date**. No objective on record → verdict **unavailable**; report the effects unscored. An objective the act *serves* → not self-harm, but the act working as intended.
 
+>[!caution] Enumerate the Return Kinds Before Scoring a Return
+>
+>Before any efficiency verdict — *paid off, wasted, achieved nothing, poor return* — score against all five kinds, not the act's **stated purpose** alone; the largest returns often arrive in kinds the act never announced.
+>
+>1. **Stated purpose** — what the act's text, or the actor's aim, names.
+>2. **Information** — what counterparties' responses reveal. A refused or escalated demand still yields the refuser's disposition and choice of channel; the response *is* the yield.
+>3. **Non-event** — a loss averted, a branch closed (→ `claims-about-parties.md`, *"Escaped / Benefited / Succeeded" Claims*).
+>4. **Option or price placed on record** — a clause a counterparty could later take up. An instrument's headline purpose is not its full function set.
+>5. **Position** — what the actor can do next: a capability acquired, a dependency removed, an asset made portable. A capability return survives the withdrawal of the artifact that produced it; score it on a separate ledger from the artifact's availability.
+>
+>Gate each separately: an unexercised option is created, not realized — carry its status; an outcome fixed as **unknown** is undetermined, not zero; each anchors to the actor's objective **at that act's date**. Enumerating is not crediting.
+
+
 >[!caution] Self-Exposure is Remedy-Gated
 >
 >Before softening a one-directional reading with "it *also* harms the actor" — a symmetry/self-harm defense — verify the actor doesn't hold a **cure, in hand and under their control**, that neutralizes their own share. A fault the actor can resolve at will doesn't expose them the way it exposes a party who lacks the cure; the two are not similarly situated. Name the claimed self-exposure, search for a controlled cure (an artifact already built, a retrievable prior state, standing to act). If a cure exists, the exposure is asymmetric — the residual harm lands only on the parties the actor *declines* to cure, which is a choice, not an exposure. Manufacturing a self-harm to balance the ledger is the mirror error of dramatizing one side's risk.
@@ -37,6 +50,10 @@ Guards for the output side of an analysis.
 >[!caution] Default-State Smuggling
 >
 >Before relying on any artifact, document, or access being **currently available**, verify the record fixes its status **at the time in question**. Don't assume "created once" → "still up"; availability can be revoked on record. If silent, mark it *undetermined*, not "still available." **Status is last-mention-wins** — a mutable artifact's current status is the **most recent** passage about it, across all files, not the one that introduced it. Count doesn't beat recency: many early "it exists" mentions carry **zero** weight against one later revocation. Introduction and status-change usually live in different entries — reaching only the introduction is not "checking status."
+
+>[!caution] A Withdrawn Property Persists in the Superseded Version
+>
+>Before ruling a feature, clause, or figure **unavailable**, check the item's prior versions, not only the current one: removal at $v_2$ is not removal from the record, since archives, commit history, and prior filings keep $v_1$ reachable. Read availability off the most permissive reachable version. The trap is naming — once the property acquires its own name in a later artifact, searching that name misses the capability sitting unnamed in the earlier one.
 
 >[!caution] Lapse Smuggling
 >
