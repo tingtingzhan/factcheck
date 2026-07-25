@@ -10,6 +10,16 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 >
 >A **capacity** claim ("cannot," "incapable," "structural ceiling") is not established by **non-performance** ("refuses," "did not," "never learned"). It needs evidence beyond non-performance and must reconcile any on-record competence fact — of two binding kinds: a demonstrated success, *and* a fixed credential (degree, certification, title). Remedies that add resources/training address **capability** gaps (can't → enabled), not **willingness** gaps (won't → unaffected). Symmetrically, a *can/level-up* claim must reconcile on-record non-performance, most sharply a later-dated one. When credential and demonstrated level diverge, read the gap — don't resolve it by downgrading the credential or upgrading the behavior; fix both endpoints and name the gap.
 
+>[!caution] Assent Attaches to a Proposition, Not a Word
+>
+>Run this before checking acts — it is testable on the words alone. Where an expression carries both a technical and an everyday sense, often with opposite valence so that a defect restates as a merit, agreement voiced in the second is not agreement to the first.  The tell is the follow-on: an inference the accepted proposition does not license, but its homonym does.
+
+>[!caution] Credit Acts, Not Assent
+>
+>An expression of agreement or understanding establishes only that it was **said**. Where an act in the same window contradicts it, the act governs.  Before crediting a party for what they did right, list their acts in that window and confirm none contradicts the statement being credited.
+>
+>Assent **closes** the corrective loop — the other party stops explaining — so it can leave a thinner record than open denial, and is not the better showing.
+
 >[!caution] Revealed Conduct
 >
 >Before fixing what a party **could/couldn't** do, consult what they **actually did** over time. A verdict reasoned from the task's structure ("the fix was cheap / obvious") is incomplete until reconciled with sustained, costly, or repeated conduct. If the analysis has a party *able* to take an easy path while the record shows them taking a hard one, resolve that in the same breath. But don't over-read: costly conduct is evidence, not proof, of incapacity — a party may take the hard course because they couldn't see the easy one, *or* because the easy one wouldn't deliver their actual objective. Rule out the alternative-goal reading, then name the capability the conduct evidences and cite it.
