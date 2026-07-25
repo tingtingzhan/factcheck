@@ -6,6 +6,10 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >
 >When assigning cause, put the focal party's own acts on the same ledger as counterparties' acts. Recoding a party's acts as purely "reactive/defensive" is permitted only with a cited hostile antecedent preceding each; absent that, count the act as a contributing cause, not an excused response.
 
+>[!caution] A Rhetorical Question Carries an Untested Counterfactual
+>
+>Interrogative form exempts a claim from support while landing the cost on the other party's inaction. Treat it as the assertion it is: place the **speaker** inside the counterfactual and list what their role, authority, and window actually afforded. Where the binding constraint sits elsewhere than the omission being asked about, the question is misaddressed — note that rather than inheriting its framing.
+
 >[!caution] Agency & Direction
 >
 >Before asserting who does/provides/refuses what, verify the **direction** against the record: which party is source, which is recipient. Don't infer direction from plausibility or a role label. Claims about who supplied, transferred, requested, or delivered what must name source and recipient and cite the passage.
