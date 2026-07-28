@@ -61,7 +61,7 @@ The foundation layer. Apply before the other modules.
 
 >[!caution] Reconstruct the Whole Set Before Ranging Over It
 >
->Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members (published vs unpublished, public vs private, disclosed vs undisclosed, available vs withdrawn), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global. A set invoked to carry a harm or a benefit needs **at least one member fixed on the record**; zero enumerated members means **undetermined**, not "small" — don't score the harm.
+>Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members along any visibility or status axis (e.g. active vs. lapsed, visible vs. withheld, counted vs. excluded), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global. A set invoked to carry a harm or a benefit needs **at least one member fixed on the record**; zero enumerated members means **undetermined**, not "small" — don't score the harm.
 
 >[!caution] Label Fidelity
 >

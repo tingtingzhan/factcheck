@@ -46,7 +46,7 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 
 >[!caution] Read the Full Span
 >
->Before treating a demand, obligation, or commitment as **one-off or bounded**, carry the reach the record fixes. When the wording extends it forward or open-endedly ("and the next," "ongoing," "thereafter"), a nearby deadline is one point inside the span, not its end. A bounded item may be dischargeable; the same item at open-ended reach is not — a backward-looking cure can't close a forward-reaching span.
+>Before treating a demand, obligation, or commitment as **one-off or bounded**, carry the reach the record fixes. When the wording extends it forward or open-endedly ("and each subsequent one," "ongoing," "thereafter"), a nearby deadline is one point inside the span, not its end. A bounded item may be dischargeable; the same item at open-ended reach is not — a backward-looking cure can't close a forward-reaching span.
 
 >[!caution] Continuity ≠ Transition
 >
@@ -54,4 +54,4 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 
 >[!caution] Distinguish Repeated Same-Type Events Before Attaching a Cause
 >
->When the record has several events of the same kind (releases, filings, emails, meetings, versions), don't merge them into one "the $X$." Each carries distinguishing keys — date, channel, actor, target, version — so fix the specific instance before asserting anything; a property of one (motive, effect, trigger, audience) is not a property of its siblings. Then gate the cause to that instance's own timeline: a motive attaches only if its antecedent is on record *as of that instance's date*; explaining an earlier instance with facts true only later is backdating a cause. Channel/venue is load-bearing (private draft vs. public registry), not decoration.
+>When the record has several events of the same kind (releases, filings, emails, meetings, versions), don't merge them into one "the $X$." Each carries distinguishing keys — date, channel, actor, target, version — so fix the specific instance before asserting anything; a property of one (motive, effect, trigger, audience) is not a property of its siblings. Then gate the cause to that instance's own timeline: a motive attaches only if its antecedent is on record *as of that instance's date*; explaining an earlier instance with facts true only later is backdating a cause. Channel/venue is load-bearing (private draft vs. public posting), not decoration.
