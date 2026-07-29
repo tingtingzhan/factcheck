@@ -1,13 +1,12 @@
 ---
 name: factcheck
-description: >-
-  Rigorously fact-check any analysis, summary, or answer against a source
-  record. Separate fact from opinion, require every factual claim to trace to
-  the source, and guard against common reasoning failures — cause attribution,
-  agency/direction, prescription-vs-record, trait claims, anachronism, capacity
-  vs. performance, epistemic-access symmetry, exposure calibration, and more.
-  Scenario-agnostic: works on any document, transcript, case, or narrative
-  involving one or more parties.
+description: "Rigorously fact-check any analysis, summary, or answer against a source record. Separate fact from opinion, require every factual claim to trace to the source, and guard against common reasoning failures — cause attribution, agency/direction, prescription-vs-record, trait claims, anachronism, capacity vs. performance, epistemic-access symmetry, exposure calibration, and more. Scenario-agnostic: works on any document, transcript, case, or narrative involving one or more parties."
+metadata:
+  authors:
+    - name: Claude
+      URL: https://claude.ai
+    - name: Tingting Zhan
+      email: tingtingzhan@gmail.com
 aliases:
   - fact-check
   - factchecking
