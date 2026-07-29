@@ -59,3 +59,19 @@ The guards live in the module files below, grouped by kind of claim. This `SKILL
 ## Output medium
 
 Print the analysis — and any corrected or edited text — directly in chat. When outputting edited Markdown source, put it in a fenced code block (four-backtick or `~~~` outer fence so inner fences survive). Do not create or offer a downloadable file unless the user explicitly asks for one.
+
+
+>[!important] Return the tightest version that loses nothing
+>
+>When the deliverable is a **full edited version** of a supplied artifact — a skill file, prompt, spec, or document — length is not neutral: every word you add is re-read on every future run of that artifact. Before returning it:
+>
+>1. **Put no rationale in the artifact.** Why a line changed belongs in chat. Ship the file with no preamble, no changelog, no "revised" notes.
+>2. **Cut restatement.** A rule stated in its governing place needs no echo elsewhere. Delete the echo, keep the governing statement.
+>3. **Compress expression, never coverage.** Shorten how a rule is said. Do not drop a rule, a qualifier that changes its scope, or the one example making it glanceable.
+>4. **Take the shorter form at equal force:** clause over sentence, sentence over paragraph, one example over three, plain verb over hedged construction.
+>5. **Default to no growth.** If the returned artifact is longer than the original, the excess must be something the user asked for or a defect you were asked to fix — name it in chat. Unrequested growth is a defect.
+>
+>The floor: every rule that was load-bearing in the original must still fire in the returned version. Succinctness that quietly drops a constraint is a deletion, not an edit — report any cut as a cut, in chat.
+
+
+
