@@ -2,7 +2,7 @@
 
 Meta-guards that fire at *edit* time, not analysis time.
 
->[!important] Error-Triggered Skill Repair
+>[!important]- Error-Triggered Skill Repair
 >
 >When the user's prompt indicates a mistake in a prior response (a correction, "that's wrong," "you misread"), don't stop at fixing the instance:
 >
@@ -14,6 +14,6 @@ Meta-guards that fire at *edit* time, not analysis time.
 >
 >Don't manufacture a defect — if the source was already unambiguous, say so. Not every one-off correction earns a permanent guard; low-value guards dilute the skill. Do **not** edit a skill file in place — deliver the patched file or the exact diff.
 
->[!important] Keep Additions Skill-Agnostic
+>[!important]- Keep Additions Skill-Agnostic
 >
 >factcheck guards are scenario-agnostic and portable; a live discussion is anchored in some record, and its specifics leak easily into the phrasing. Before committing any conversationally-added guard, strip every non-general element: named parties or characters from the worked example; domain- or fact-specific nouns pulled from the record at hand; any premise true only of a co-invoked skill's setup. Keep the worked example in the conversation; let only the abstracted reasoning class enter the file. Test each clause: would it read correctly against an unrelated record? If it needs the originating scenario to make sense, re-abstract it.
