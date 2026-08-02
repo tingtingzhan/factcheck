@@ -17,3 +17,10 @@ Meta-guards that fire at *edit* time, not analysis time.
 >[!important]- Keep Additions Skill-Agnostic
 >
 >factcheck guards are scenario-agnostic and portable; a live discussion is anchored in some record, and its specifics leak easily into the phrasing. Before committing any conversationally-added guard, strip every non-general element: named parties or characters from the worked example; domain- or fact-specific nouns pulled from the record at hand; any premise true only of a co-invoked skill's setup. Keep the worked example in the conversation; let only the abstracted reasoning class enter the file. Test each clause: would it read correctly against an unrelated record? If it needs the originating scenario to make sense, re-abstract it.
+
+>[!important]- Cut the Negated Echo
+>
+>Write "This is `A`." Never add "not `!A`" — a claim mirrored, re-read on every future run.
+>
+>Complement-only: a confusable alternative stays (*capacity, not performance*). If the foil is recoverable from `A` alone, it's an echo.
+
