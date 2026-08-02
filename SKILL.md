@@ -23,7 +23,7 @@ tags:
 
 Apply these guards to any factual claim made about a **source record** — whatever the user supplied as ground truth (documents, transcript, dataset, case file, narrative). "Cite the source" means point to the specific sentence, line, or passage.
 
-The guards live in the module files below, grouped by kind of claim. This [[SKILL]] is only the hub.
+The guards live in the module files below, grouped by kind of claim.
 
 >[!important]- Read the modules that apply
 >
@@ -41,7 +41,7 @@ The guards live in the module files below, grouped by kind of claim. This [[SKIL
 
 >[!tip]- `^` markers scope the check
 >
->A heading carrying a block ID — `## Heading ^id` — marks scope. Check only the marked sections; read the rest as source. If nothing is marked, the whole artifact is in scope. The marker sets what gets checked, never what may be cited.
+>A heading carrying a block ID — `## Heading ^id` — marks scope: check only those sections, read the rest as source. If nothing is marked, the whole artifact is in scope. The marker gates checking, not citation.
 
 >[!tip]- Hanlon's Razor
 >
@@ -49,15 +49,15 @@ The guards live in the module files below, grouped by kind of claim. This [[SKIL
 
 >[!tip]- Two readings
 >
->Test each scenario under two assumptions: that the parties are rational self-interested actors, and that they are neither very smart nor very honest — flawed but relatable.
+>Test each scenario under two assumptions: that the parties are rational self-interested actors, and that they are neither very smart nor very honest.
 
 >[!caution]- Titled-opinion blocks are down-weight-only
 >
->A callout titled *"⟨Name⟩'s Opinion"* is opinion end-to-end. Do not grade its objectivity, reasoning, or reach. The only moves are to down-weight it or to override it with an on-point fact of record. This gates every module's fault-finding — those guards judge *your* claims, not the record's opinions. (Full rule: [[factcheck/evidence-and-opinion#^opinion-callout]])
+>A callout titled *"⟨Name⟩'s Opinion"* is opinion end-to-end. Do not grade its objectivity, reasoning, or reach. The only moves are to down-weight it or to override it with an on-point fact of record. This gates every module's fault-finding: those guards judge *your* claims. (Full rule: [[factcheck/evidence-and-opinion#^opinion-callout]])
 
 >[!tip]- Read a guard by its rule, not its example
 >
->A guard's opening scenario is illustrative, not its scope. If its **rule** governs the move you are making, it applies — even where the scenario it describes is absent. When two or three guards each sit just off your case, one of them almost certainly governs: re-read their closing sentences before concluding none does.
+>A guard's opening scenario is illustrative. If its **rule** governs the move you are making, it applies — even where the scenario it describes is absent. When two or three guards each sit just off your case, one of them almost certainly governs: re-read their closing sentences before concluding none does.
 
 ## Output medium
 
@@ -65,15 +65,13 @@ Print the analysis — and any corrected or edited text — directly in chat. Wh
 
 >[!important]- Return the tightest version that loses nothing
 >
->When the deliverable is a **full edited version** of a supplied artifact — a skill file, prompt, spec, or document — length is not neutral: every word you add is re-read on every future run of that artifact. Before returning it:
+>When the deliverable is a **full edited version** of a supplied artifact — a skill file, prompt, spec, or document — every word you add is re-read on every future run of that artifact. Before returning it:
 >
->1. **Put no rationale in the artifact.** Why a line changed belongs in chat. Ship the file with no preamble, no changelog, no "revised" notes.
->2. **Cut restatement.** A rule stated in its governing place needs no echo elsewhere. Delete the echo, keep the governing statement.
->3. **Compress expression, never coverage.** Shorten how a rule is said. Do not drop a rule, a qualifier that changes its scope, or the one example making it glanceable.
+>1. **Put no rationale in the artifact** — no preamble, no changelog, no "revised" notes. Why a line changed belongs in chat.
+>2. **Cut restatement.** A rule stated in its governing place needs no echo elsewhere; delete the echo. 
+>3. **Compress expression, never coverage.** Do not drop a rule, a qualifier that changes its scope, or the one example making it glanceable.
 >4. **Take the shorter form at equal force:** clause over sentence, sentence over paragraph, one example over three, plain verb over hedged construction.
->5. **Default to no growth.** If the returned artifact is longer than the original, the excess must be something the user asked for or a defect you were asked to fix — name it in chat. Unrequested growth is a defect.
+>5. **Default to no growth.** If the returned artifact is longer than the original, the excess must be something the user asked for or a defect you were asked to fix — name it in chat.
 >
->The floor: every rule that was load-bearing in the original must still fire in the returned version. Succinctness that quietly drops a constraint is a deletion, not an edit — report any cut as a cut, in chat.
-
-
+>The floor: every rule that was load-bearing in the original must still fire in the returned version. Report any cut as a cut, in chat.
 

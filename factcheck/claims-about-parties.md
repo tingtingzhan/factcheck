@@ -66,7 +66,7 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 
 >[!caution]- Status-Epoch Attribution
 >
->Before attaching an act to a party **in a given status** ("while still in the role", "before the transition"), retrieve the date they entered/left that status and verify the act falls inside that epoch. Status is time-indexed — retrieve the transition, don't recall it. The epoch changes what the act shows: the same non-performance is tolerable in an early/dependent status, more probative in a later/independent one. The error cuts both ways — fix the date first, then read the act.
+>Before attaching an act to a party **in a given status** ("while still in the role", "before the transition"), retrieve — don't recall — the date they entered/left that status and verify the act falls inside that epoch. The epoch changes what the act shows: the same non-performance is tolerable in an early/dependent status, more probative in a later/independent one. The error cuts both ways: fix the date first, then read the act.
 
 >[!caution]- Epistemic-Access Claims
 >

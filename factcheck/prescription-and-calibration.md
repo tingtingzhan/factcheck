@@ -8,7 +8,7 @@ Guards for the output side of an analysis.
 
 >[!caution]- A Remedy Must Satisfy the Property It Restores
 >
->When a fix targets a deficiency defined by a property (independence, diversity, balance, coverage), the remedy must itself hold that property — not merely add one more of the failing kind. One addition that shares the original's failure point relocates the deficiency, it doesn't cure it. Gate the fix by the defining property, not by count.
+>When a fix targets a deficiency defined by a property (independence, diversity, balance, coverage), the remedy must itself hold that property — not merely add one more of the failing kind. One addition that shares the original's failure point relocates the deficiency. Gate the fix by the defining property, not by count.
 
 >[!important]- Exposure Calibration
 >

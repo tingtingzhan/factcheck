@@ -17,7 +17,7 @@ The foundation layer. Apply before the other modules.
 >- **Scope is the entire block.** Every paragraph inside is that party's opinion, even one not individually prefaced. Don't promote a sentence to fact on the strength of its phrasing.
 >- **Don't fault it for non-objectivity.** It is already labelled opinion; calling it "not objective / unsupported / should be labelled" is redundant. Reserve the relabelling proposal for **un**marked opinion.
 >- **Never grade its contents.** Before any evaluative sentence, ask whether its target sits inside a titled-opinion block; if so, stop. Every verdict on its reasoning or reach is out of bounds ("too strong," "overreaches," "fails to reconcile," "unproven," etc.). The other modules judge **your** claims, never the record's opinion blocks.
->- **Only two moves.** (1) Down-weight it. (2) Displace it by citing an on-point fact of record that governs the same point — never by grading the opinion. If no on-point fact exists, the opinion stands at down-weight; that is not a defect to flag.
+>- **Only two moves.** (1) Down-weight it. (2) Displace it by citing an on-point fact of record that governs the same point. If no on-point fact exists, the opinion stands at down-weight; that is not a defect to flag.
 >- **No criticism at one remove.** Don't paraphrase the opinion into a stronger claim and evaluate the restatement, and don't fault it for what it did *not* say.
 >- **Override needs a same-object fact.** Move (2) fires only when a fact makes an *incompatible* claim about the *same object*. Two compatible facts about different objects don't meet, and an opinion forecasting a non-event has no same-object fact to govern it — the only move is down-weight.
 >
@@ -38,7 +38,7 @@ The foundation layer. Apply before the other modules.
 
 >[!caution]- Consistency vs. Establishment
 >
->Apply *"consistent with $X$ but does not establish $X$"* uniformly, not selectively. Where the record is merely consistent with a conclusion, state it as consistent-with.
+>Apply *"consistent with $X$ but does not establish $X$"* uniformly. Where the record is merely consistent with a conclusion, state it as consistent-with.
 
 >[!caution]- Verify a Correction Before Labeling It
 >
