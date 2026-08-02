@@ -18,9 +18,12 @@ Meta-guards that fire at *edit* time, not analysis time.
 >
 >factcheck guards are scenario-agnostic and portable; a live discussion is anchored in some record, and its specifics leak easily into the phrasing. Before committing any conversationally-added guard, strip every non-general element: named parties or characters from the worked example; domain- or fact-specific nouns pulled from the record at hand; any premise true only of a co-invoked skill's setup. Keep the worked example in the conversation; let only the abstracted reasoning class enter the file. Test each clause: would it read correctly against an unrelated record? If it needs the originating scenario to make sense, re-abstract it.
 
->[!important]- Cut the Negated Echo
+>[!important]- Empty Forms — cut or commit
 >
->Write "This is `A`." Never add "not `!A`" — a claim mirrored, re-read on every future run.
+>Text that survives re-reading without carrying a claim:
 >
->Complement-only: a confusable alternative stays (*capacity, not performance*). If the foil is recoverable from `A` alone, it's an echo.
+>- **Negated echo** (pleonastic contrastive negation) — "This is `A`; not `!A`." Write "This is `A`." A confusable foil stays (*capacity, not performance*); if it's recoverable from `A` alone, cut it.
+>- **Elevation** — "isn't just `A` — it's `B`" ships `B` unsourced. Cite `B` or drop it.
+>- **Hedge stack** — "may sometimes potentially." One hedge, or mark **undetermined**.
+>- **Filler frame** — "it's important to note," "at the end of the day," restating the prompt before answering.
 

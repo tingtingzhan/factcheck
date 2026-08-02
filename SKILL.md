@@ -35,7 +35,7 @@ The guards live in the module files below, grouped by kind of claim. This [[SKIL
 - [[factcheck/attribution-and-direction]] — cause, agency/direction, per-item attribution, multi-actor tallies, broken-commitment verbs, temporal anchors.
 - [[factcheck/claims-about-parties]] — traits, capacity, capability over time, interior/epistemic states, "succeeded / got away."
 - [[factcheck/prescription-and-calibration]] — counterfactuals, exposure/base-rate register, enforcement gating, artifact-status defaults, rigged demos, manufactured faults, goal-relative verdicts, return accounting.
-- [[factcheck/maintaining-this-skill]] — correcting an error, keeping additions scenario-free, and cutting negated echoes from edited text.
+- [[factcheck/maintaining-this-skill]] — correcting an error, keeping additions scenario-free, and cutting empty forms from edited text.
 
 ## Standing lenses (apply to every prompt)
 
