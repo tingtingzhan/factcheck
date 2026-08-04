@@ -48,6 +48,10 @@ The foundation layer. Apply before the other modules.
 >
 >Items are often *mentioned* in one place and *defined in full* in another. Before any claim about an item — its wording, status, scope, availability, applicability, or whether it is in the record at all — locate the item's **home entry** where it is set out verbatim. A summary, back-reference, or citation captures the gist, not the specifics (a carve-out, a named party, an exact figure). Where the record fixes a property both in prose and in a **structured** form (table, column, field), the structured statement governs the narrative mention. Retrieval is **point-of-use**: having opened the home entry earlier in the session is not a check; a recently-read prose passage otherwise displaces a table read earlier. Absence claims carry the highest burden: confirm you opened the home entry, not a digest, before ruling something absent.
 
+>[!caution]- Clear Every Channel and Description Before Ruling Something Absent
+>
+>Retrieval favours whatever is verbatim and indexable; what the record carries in forms a text search cannot reach is excluded from the **search**, not from the **record**. An item can also enter **by reference rather than by name** — a pointer to something present, a depiction, an act instantiating it under another description — which no name-search reaches. Before "never stated / never disclosed / nobody did this," enumerate the channels the record carries, then search the item's description as well as its label. Where a channel is unsearchable or the item could have entered unnamed, the finding is **absent from the searchable record**, not **never happened**.
+
 >[!caution]- Retrieve a Load-Bearing Fact Before Asserting It
 >
 >Before an analysis leans on any record-fixable fact — a date, status, amount, role label, who spoke which words — retrieve and cite it at the point of use rather than asserting from memory. A wrong premise is invisible to every downstream guard: attribution, direction, and capacity checks all pass while the conclusion inherits the bad fact. Confidence is not retrieval.

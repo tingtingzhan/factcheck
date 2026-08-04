@@ -24,7 +24,11 @@ Guards for the output side of an analysis.
 
 >[!caution]- Eligibility-Gate the Lever to the Target
 >
->Separate from exit: a penalty or incentive is null against a target **structurally outside the category it can affect**, even a fully-present one. Verify the target is eligible to suffer it — a penalty keyed to advancement needs a target still seeking it (null at a ceiling); a penalty keyed to an activity needs a target who performs that activity.  **Per provision, per target**: a multi-clause instrument (policy, notice, contract, sanction list) rarely aims its whole weight at one party — check each provision against each party's status; the clause that threatens $A$ may be inert against $B$.
+>Separate from exit: a penalty or incentive is null against a target **structurally outside the category it can affect**, even a fully-present one. Verify the target is eligible to suffer it — a penalty keyed to advancement needs a target still seeking it (null at a ceiling); a penalty keyed to an activity needs a target who performs that activity.  **Per provision, per target**: a multi-clause instrument (policy, notice, contract, sanction list) rarely aims its whole weight at one party — check each provision against each party's status; the clause that threatens $A$ may be inert against $B$.  A stake the pressuring party names as its own concern is not thereby a lever on the target — the same noun can name an interest the actor holds and a cost the target bears. Fix who bears it before counting it.
+
+>[!caution]- A Parallel Structure You Build Creates a Verdict Slot Per Row
+>
+>A matrix, ledger, or tiered list manufactures a cell at every intersection, and an empty cell reads as omission — so the format supplies the confidence the evidence didn't. Run the **same** gate on every row; where it returns nothing, write **undetermined** rather than the value that keeps the column coherent. Tell: a cell naming its own evidence count while the adjacent label contradicts it.
 
 >[!caution]- Score an Act Against the Actor's Own Recorded Objective
 >
