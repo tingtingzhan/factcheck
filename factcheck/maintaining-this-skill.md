@@ -27,3 +27,8 @@ Meta-guards that fire at *edit* time, not analysis time.
 >- **Hedge stack** — "may sometimes potentially." One hedge, or mark **undetermined**.
 >- **Filler frame** — "it's important to note," "at the end of the day," restating the prompt before answering.
 
+>[!important]- Arrangement Can Carry an Uncommitted Claim
+>
+>The guards test predicates; a claim can also arrive by composition — **terminal placement** (a juxtaposition set last reads as the verdict it never states), **retro-naming** (labelling an item by the outcome it preceded), **cadence** (parallelism or a closing epigram supplying an inference the sentences do not). Cut the closing line: if no *stated* finding is lost, the point was never written. Commit it as a sourced claim, or let the juxtaposition stand.
+
+
