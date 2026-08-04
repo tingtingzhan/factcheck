@@ -56,6 +56,10 @@ The foundation layer. Apply before the other modules.
 >
 >Before an analysis leans on any record-fixable fact — a date, status, amount, role label, who spoke which words — retrieve and cite it at the point of use rather than asserting from memory. A wrong premise is invisible to every downstream guard: attribution, direction, and capacity checks all pass while the conclusion inherits the bad fact. Confidence is not retrieval.
 
+>[!caution]- Compute a Derived Quantity, Don't Estimate It
+>
+>An interval, sum, difference, or rate is computed, not retrieved — correct endpoints plus a wrong operation reads as a sourced fact and every downstream guard passes. Cite both inputs, run the arithmetic in a tool, and mark an approximation as one. Sharpest across irregular boundaries (month lengths, tiered rates), where a completed sub-step easily ships as the answer.
+
 >[!caution]- Reconstruct the Whole Set Before Ranging Over It
 >
 >Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members along any visibility or status axis (e.g. active vs. lapsed, visible vs. withheld, counted vs. excluded), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global. A set invoked to carry a harm or a benefit needs **at least one member fixed on the record**; zero enumerated members means **undetermined**, not "small" — don't score the harm.
@@ -63,3 +67,4 @@ The foundation layer. Apply before the other modules.
 >[!caution]- Label Fidelity
 >
 >When the record gives a thing its own name — a clause, offense, status, mechanism, diagnosis, rule — carry **that** name. Before substituting a more familiar label, verify the substitute's defining criteria are actually met. Adjacent categories share a domain and rough shape but differ in consequences, scope, or elements. If $X$ and $Y$ would license different downstream claims, they are not interchangeable and the swap is a factual error, not a paraphrase.
+

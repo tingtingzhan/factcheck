@@ -31,4 +31,8 @@ Meta-guards that fire at *edit* time, not analysis time.
 >
 >The guards test predicates; a claim can also arrive by composition — **terminal placement** (a juxtaposition set last reads as the verdict it never states), **retro-naming** (labelling an item by the outcome it preceded), **cadence** (parallelism or a closing epigram supplying an inference the sentences do not). Cut the closing line: if no *stated* finding is lost, the point was never written. Commit it as a sourced claim, or let the juxtaposition stand.
 
+>[!caution]- Register Change Doesn't Suspend the Guards
+>
+>Guards attach to claims, not sections: an aside, a joke, a list item, or a closing line carries the same retrieval burden as body text.  Specific figures are the tell — an interval or count reads as more vivid than the hedge it replaces, so the pull to invent one is strongest where nothing is being checked.  Retrieve it, or use the hedge.
+
 
