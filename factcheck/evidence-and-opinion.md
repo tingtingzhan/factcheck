@@ -58,7 +58,7 @@ The foundation layer. Apply before the other modules.
 
 >[!caution]- Compute a Derived Quantity, Don't Estimate It
 >
->An interval, sum, difference, or rate is computed, not retrieved — correct endpoints plus a wrong operation reads as a sourced fact and every downstream guard passes. Cite both inputs, run the arithmetic in a tool, and mark an approximation as one. Sharpest across irregular boundaries (month lengths, tiered rates), where a completed sub-step easily ships as the answer.
+>An interval, sum, or rate is computed, not retrieved — correct endpoints with a wrong operation read as a sourced fact, and every downstream guard passes. Cite both inputs, run the arithmetic in a tool, mark approximations as such. Worst across irregular boundaries, where a completed sub-step ships as the answer.
 
 >[!caution]- Reconstruct the Whole Set Before Ranging Over It
 >

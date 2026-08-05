@@ -20,7 +20,7 @@ Guards for the output side of an analysis.
 
 >[!caution]- Enforcement is Status-Gated
 >
->Before citing a disciplinary, reputational, career, or financial-pressure mechanism as a realistic enforcement path, gate it to the target's status at the time. This runs on any dependency relation, not only employment — supplier/client, tenant/landlord, member/association all carry the same two layers.  A lever that bites a current, dependent party can be near-null against one who has exited or no longer needs anything from the relationship — the pressure layer runs on the target's need to avoid cost or friction, and that fuel doesn't survive exit. Split cleanly: the *litigation* layer is killed by claim-weakness/no-damages/mootness, not independence; the *pressure* layer is what exit collapses. Unenforced ≠ void — surviving obligations remain binding even at near-zero enforcement probability.
+>Before citing a disciplinary, reputational, career, or financial-pressure mechanism as a realistic enforcement path, gate it to the target's status at the time. This runs on any dependency relation, not only employment — supplier/client, tenant/landlord, member/association all carry the same two layers.  A lever that bites a current, dependent party can be near-null against one who has exited or no longer needs anything from the relationship — the pressure layer runs on the target's need to avoid cost or friction, and that fuel doesn't survive exit. Split cleanly: the *litigation* layer is killed by claim-weakness/no-damages/mootness, not independence; the *pressure* layer is what exit collapses. Unenforced ≠ void — surviving obligations remain binding even at near-zero enforcement probability. The gate applies to prescriptions too: before faulting an omission, name who was positioned to receive the act. An addressee the record establishes as absent or incapable makes the omission costless and the prescription empty.
 
 >[!caution]- Eligibility-Gate the Lever to the Target
 >
@@ -69,3 +69,8 @@ Guards for the output side of an analysis.
 >[!caution]- Don't Manufacture a Fault
 >
 >Before labeling an observed act (a style, form, phrasing, procedure) an **error / misuse / deviation**, verify against the record or domain that it is actually abnormal. A form that merely *looks* irregular may be legitimate, established practice. When an act bundles several features, isolate the **one** the record actually faults; don't sweep an adjacent benign feature in as a co-defendant. Score only the feature you can show is wrong, cite what makes it wrong, and clear the benign ones.
+
+>[!caution]- Citability Is Not Weight
+>
+>Severity is what turns on a finding, not how cleanly it quotes. Traceability requirements bias output toward whatever has a verbatim line attached, so a trivial discrepancy outranks a serious one that must be assembled. Rank by consequence; say so when the best-sourced item is the least important.
+
