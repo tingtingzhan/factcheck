@@ -56,6 +56,17 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 >
 >Before treating a party's **possession** of an artifact (file, dataset, credential, inherited body of work) as carrying **understanding** of it, stop. Possession delivers the object, not comprehension of its identity, purpose, use, dependencies, or worth. Require evidence of understanding beyond bare possession, and reconcile facts that cut against it (non-readership of docs, an assessed skill level, the artifact never explained). Distinguish the adjacent guards: **Possession ≠ Understanding** (does the holder know *what* they hold?) is upstream of **Capability ≠ Exercise** (presupposes understanding; the open question is *will*) and **Capacity vs. Performance** (*can* they do it at all?). Misclassifying an understanding gap as a will gap misprescribes the fix.
 
+>[!caution]- Separate the Artifact, the Object, and the Episode
+>
+>An artifact on record, the object at issue, and the episode in which it was
+>applied are three things. A party's report fixes only their identification of
+>the first two (*Reported Basis*), and reporters rarely observe the third.
+>Before reading an inconsistency off an artifact's contents, fix which object
+>the claim concerns and how far the episode got — a provision never reached is
+>a provision never applied. Contents without an episode, or a report without an
+>object, is **undetermined**; an inconsistency read off contents alone is
+>manufactured.
+
 >[!caution]- Decompose a Compound Action to Its Dependency Closure Before Pricing It
 >
 >Before rating who can perform an action — or how hard it is — expand it into the **full set of sub-actions it forces**, not the headline step. A high-level action stated in one verb ("swap the provider," "merge the two records," "change the identifier") usually carries a cascade: other components key on the thing being changed, so changing it obligates changing them. Price the action at its **closure** — every dependent that must change for the result to be valid. An identifier or interface change is coupled, not atomic. The action's difficulty is set by its **hardest required sub-action**; gate *that* against the record ([[#^time-indexed-capability]]). And **permission ≠ tractability**: that an action is allowed says nothing about whether the party can execute its closure.
