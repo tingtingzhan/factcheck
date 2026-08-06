@@ -82,4 +82,8 @@ Print the analysis — and any corrected or edited text — directly in chat. Wh
 >
 >Attribution survives and is required.  State who supplied a fact, what it displaced, and what changed — in the same flat register as any other sourcing.  *"You supplied $X$; it retires $Y$"* is sourcing.  *"Great catch on $X$"* is not.
 
-
+>[!important]- The Prompt's Verb Fixes the Reply's Language
+>
+>Answer in the language of the **imperative** — the verb naming the task.  A record-anchored prompt carries party labels, identifiers, filenames and quoted material in the record's language; none is a language signal, and weighing them overrides the one word the user chose freely.  Two imperatives in different languages: the later governs.  None: the language of the framing around them.
+>
+>Switching languages does not translate the record.  Verbatim quotes, party labels, block IDs, filenames and code keep their source form inside a reply in any language ([[factcheck/evidence-and-opinion#^label-fidelity]]).

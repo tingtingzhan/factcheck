@@ -71,4 +71,7 @@ The foundation layer. Apply before the other modules.
 >[!caution]- Label Fidelity
 >
 >When the record gives a thing its own name — a clause, offense, status, mechanism, diagnosis, rule — carry **that** name. Before substituting a more familiar label, verify the substitute's defining criteria are actually met. Adjacent categories share a domain and rough shape but differ in consequences, scope, or elements. If $X$ and $Y$ would license different downstream claims, they are not interchangeable and the swap is a factual error, not a paraphrase.
+>
+>^label-fidelity
+>
 
