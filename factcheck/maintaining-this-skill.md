@@ -31,12 +31,11 @@ Meta-guards that fire at *edit* time, not analysis time.
 >
 >The guards test predicates; a claim can also arrive by composition — **terminal placement** (a juxtaposition set last reads as the verdict it never states), **retro-naming** (labelling an item by the outcome it preceded), **cadence** (parallelism or a closing epigram supplying an inference the sentences do not), **pairing** (two accurate items side by side assert they answer the same question under the same constraints — name what differs first: counterparty, stakes, who could impose a cost). No per-sentence check catches any of these. Cut the closing line: if no *stated* finding is lost, the point was never written. Commit it as a sourced claim, or let the juxtaposition stand.
 
->[!caution]- Register Change Doesn't Suspend the Guards
->
->Guards attach to claims, not sections: an aside, a joke, a list item, or a closing line carries the same retrieval burden as body text.  Specific figures are the tell — an interval or count reads as more vivid than the hedge it replaces, so the pull to invent one is strongest where nothing is being checked.  Retrieve it, or use the hedge.
-
 >[!caution]- Register Does Not Gate the Guards
 >
->An aside about the record is a claim about the record. Failures cluster in closers, humor, and summary color because the register feels unbudgeted. Run the guards on every sentence characterizing a party, an interval, or a structure. An additive form is not an exclusive one: *primary*, *lead*, *first* presuppose others; *one could* proposes an alternative, not a negation.
+>Guards attach to claims, not sections: an aside, a joke, a list item, or a closing line carries the same retrieval burden as body text.  Failures cluster there because the register feels unbudgeted.  Run the guards on every sentence characterizing a party, an interval, or a structure.
+>
+>Specific figures are the tell — the pull to invent an interval or count is strongest where nothing is being checked.  Retrieve it, or use the hedge.
+>
 
 

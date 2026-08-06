@@ -64,6 +64,10 @@ The foundation layer. Apply before the other modules.
 >
 >Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members along any visibility or status axis (e.g. active vs. lapsed, visible vs. withheld, counted vs. excluded), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global. A set invoked to carry a harm or a benefit needs **at least one member fixed on the record**; zero enumerated members means **undetermined**, not "small" — don't score the harm.
 
+>[!caution]- Additive Form Is Not Exclusive
+>
+>*primary*, *lead*, *first* presuppose others; *one could* proposes an alternative, not a negation.  Read the term's force off its form before it carries an exclusion or a denial the record never made.
+
 >[!caution]- Label Fidelity
 >
 >When the record gives a thing its own name — a clause, offense, status, mechanism, diagnosis, rule — carry **that** name. Before substituting a more familiar label, verify the substitute's defining criteria are actually met. Adjacent categories share a domain and rough shape but differ in consequences, scope, or elements. If $X$ and $Y$ would license different downstream claims, they are not interchangeable and the swap is a factual error, not a paraphrase.

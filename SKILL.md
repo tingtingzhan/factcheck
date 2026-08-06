@@ -72,6 +72,7 @@ Print the analysis — and any corrected or edited text — directly in chat. Wh
 >3. **Compress expression, never coverage.** Do not drop a rule, a qualifier that changes its scope, or the one example making it glanceable.
 >4. **Take the shorter form at equal force:** clause over sentence, sentence over paragraph, one example over three, plain verb over hedged construction.
 >5. **Default to no growth.** If the returned artifact is longer than the original, the excess must be something the user asked for or a defect you were asked to fix — name it in chat.
+>6. **Run 1–5 twice, consecutively.** Pass 2 reads pass 1's output, never the original — it catches the connective tissue pass 1 introduced, and the words that became cuttable only once their surroundings shrank. A pass returning no diff is the stop condition; if pass 2 still cuts, say so in chat.
 >
 >The floor: every rule that was load-bearing in the original must still fire in the returned version. Report any cut as a cut, in chat.
 
