@@ -20,6 +20,12 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >
 >Comparing alternatives presupposes the menu. Ask which passage narrowed the field, and whether the record holds an option no party ever raised — an unraised option leaves no trace in the comparison, while the comparison itself implies a choice was made. Where the narrowing is unattributed, that step, not the pick, is what needs an actor.
 
+>[!caution]- Enumerate the Available Responses Before Reading a Non-Response
+>
+>Before explaining silence, inaction, or non-compliance by what the party **could not** do, list every response the situation left open — including the ones costing nothing: *say you don't understand*, *ask*, *decline on the stated terms*, *acknowledge without committing*.  Low-cost options are the ones a quick read skips, because they leave no trace and match no dramatic reading.
+>
+>A party who took **none** of the open options has made a choice; a party facing **none** was constrained.  Fix which before assigning either.  Absent an established obstacle, an unexercised channel is unexercised, not blocked ([[factcheck/claims-about-parties#^time-indexed-capability]]).
+
 >[!caution]- Agency & Direction
 >
 >Before asserting who does/provides/refuses what, verify the **direction** against the record: which party is source, which is recipient. Don't infer direction from plausibility or a role label. Claims about who supplied, transferred, requested, or delivered what must name source and recipient and cite the passage. ^agency-direction

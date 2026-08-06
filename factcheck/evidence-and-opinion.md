@@ -64,6 +64,12 @@ The foundation layer. Apply before the other modules.
 >
 >Before any claim that quantifies or ranges over a set — *all / none / only*, "the complete list," "$X$ is the whole dependency," "everyone who…" — reconstruct the set's **full** membership from the record, then attach each member's status. When a record tags members along any visibility or status axis (e.g. active vs. lapsed, visible vs. withheld, counted vs. excluded), the decisive member is often the hidden one a quick read skips. Enumerate, don't sample; and check that status is party/time/purpose-relative, not global. A set invoked to carry a harm or a benefit needs **at least one member fixed on the record**; zero enumerated members means **undetermined**, not "small" — don't score the harm.
 
+>[!caution]- Even-Handedness Is Not a Membership Test
+>
+>A set's members are fixed by the predicate that generated it, never by how the list reads.  Before adding a party to a tally of faults, omissions, or failures, verify that party satisfies the **same** predicate as the others — not merely that including them makes the finding look balanced.  The tell is a closing *"including $X$"* or *"$X$ too"* on a party the analysis has just finished distinguishing from the rest.
+>
+>Symmetry duties attach to **standards**, not to headcounts: applying one bar to every party is required, and manufacturing a fault so each side carries one is its own failure.  Where the record puts a party outside the predicate, saying so **is** the even-handed result.
+
 >[!caution]- Additive Form Is Not Exclusive
 >
 >*primary*, *lead*, *first* presuppose others; *one could* proposes an alternative, not a negation.  Read the term's force off its form before it carries an exclusion or a denial the record never made.
