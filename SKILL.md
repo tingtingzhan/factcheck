@@ -65,16 +65,18 @@ Print the analysis — and any corrected or edited text — directly in chat. Wh
 
 >[!important]- Return the tightest version that loses nothing
 >
->When the deliverable is a **full edited version** of a supplied artifact — a skill file, prompt, spec, or document — every word you add is re-read on every future run of that artifact. Before returning it:
+>When the deliverable is **text that will live in a supplied artifact** — full version, replacement block, or diff — every word you add is re-read on every future run of that artifact. Before returning it:
 >
->1. **Put no rationale in the artifact** — no preamble, no changelog, no "revised" notes. Why a line changed belongs in chat.
->2. **Cut restatement.** A rule stated in its governing place needs no echo elsewhere; delete the echo. 
->3. **Compress expression, never coverage.** Do not drop a rule, a qualifier that changes its scope, or the one example making it glanceable.
+>1. **Put no rationale in the artifact** — no preamble, changelog, or "revised" notes. Why a line changed belongs in chat.
+>2. **Cut restatement.** A rule stated in its governing place needs no echo elsewhere.
+>3. **Compress expression, never coverage.** Don't drop a rule, a scope-changing qualifier, or the one example making it glanceable.
 >4. **Take the shorter form at equal force:** clause over sentence, sentence over paragraph, one example over three, plain verb over hedged construction.
->5. **Default to no growth.** If the returned artifact is longer than the original, the excess must be something the user asked for or a defect you were asked to fix — name it in chat.
->6. **Run 1–5 twice, consecutively.** Pass 2 reads pass 1's output, never the original — it catches the connective tissue pass 1 introduced, and the words that became cuttable only once their surroundings shrank. A pass returning no diff is the stop condition; if pass 2 still cuts, say so in chat.
+>5. **Default to no growth.** Any excess over the original must be something the user asked for or a defect you were asked to fix — name it in chat.
+>6. **Run 1–5 twice.** Pass 2 reads pass 1's output, never the original — it catches the connective tissue pass 1 introduced, and words that became cuttable only once their surroundings shrank. Stop at no diff.
 >
->The floor: every rule that was load-bearing in the original must still fire in the returned version. Report any cut as a cut, in chat.
+>The floor: every rule load-bearing in the original must still fire in the returned version. Report any cut as a cut, in chat.
+>
+>**No reply is complete without a Pass-2 report** beside the artifact text: what pass 2 **cut**, or — cutting nothing — one candidate it **tested and kept**, and why. *"Pass 2: no diff"* does not discharge it; that sentence reads identically whether or not the pass ran. Reaching the closing summary with no such report above it means pass 2 was skipped — go back and run it.
 
 >[!important]- No Praise for the User or the Prompt
 >
