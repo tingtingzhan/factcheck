@@ -1,6 +1,6 @@
 ---
 name: factcheck
-description: "Rigorously fact-check any analysis, summary, or answer against a source record. Separate fact from opinion, require every factual claim to trace to the source, and guard against common reasoning failures — cause attribution, agency/direction, prescription-vs-record, trait claims, anachronism, capacity vs. performance, epistemic-access symmetry, exposure calibration, and more. Scenario-agnostic: works on any document, transcript, case, or narrative involving one or more parties."
+description: "Rigorously fact-check any analysis, summary, or answer against a source record. Separate fact from opinion, require every factual claim to trace to the source, and guard against common reasoning failures — cause attribution, agency/direction, prescription-vs-record, trait claims, anachronism, capacity vs. performance, epistemic-access symmetry, exposure calibration, and more. Scenario-agnostic: works on any document, transcript, case, or narrative involving one or more parties. Also covers restyling a supplied text to match a named skill's voice — refine, re-voice, print the result alone."
 metadata:
   authors:
     - name: Claude
@@ -10,6 +10,8 @@ metadata:
 aliases:
   - fact-check
   - factchecking
+  - match-skill-style
+  - restyle
 tags:
   - fact-checking
   - reasoning
@@ -17,6 +19,7 @@ tags:
   - bias
   - evidence
   - analysis
+  - style
 ---
 
 # Factcheck — universal reasoning-rigor guards
@@ -35,6 +38,7 @@ The guards live in the module files below, grouped by kind of claim.
 - [[factcheck/attribution-and-direction]] — cause, agency/direction, per-item attribution, multi-actor tallies, broken-commitment verbs, temporal anchors.
 - [[factcheck/claims-about-parties]] — traits, capacity, capability over time, interior/epistemic states, "succeeded / got away."
 - [[factcheck/prescription-and-calibration]] — counterfactuals, exposure/base-rate register, enforcement gating, artifact-status defaults, rigged demos, manufactured faults, goal-relative verdicts, return accounting.
+- [[factcheck/restyling-to-a-target]] — borrowing a named skill's voice: read the target, extract its style signature, hold claim strength across the re-voicing, print the deliverable alone.
 - [[factcheck/maintaining-this-skill]] — correcting an error, keeping additions scenario-free, and cutting empty forms from edited text.
 
 ## Standing lenses (apply to every prompt)

@@ -12,10 +12,12 @@ factcheck/
 ├── attribution-and-direction.md      # cause, direction, per-item roles, tallies, broken-commitment verbs
 ├── claims-about-parties.md           # trait, capacity, capability-over-time, epistemic-access, "got away"
 ├── prescription-and-calibration.md   # counterfactuals, exposure register, enforcement gating, artifact status
+├── restyling-to-a-target.md          # borrow a named skill's voice; hold claim strength; print the result alone
 └── maintaining-this-skill.md         # edit-time meta-guards: error repair, keep additions skill-agnostic
 ```
 
 ## Using it
 
 - **Analyzing a record** → apply [[factcheck/evidence-and-opinion]] first (it governs the rest), then whichever of [[factcheck/attribution-and-direction]], [[factcheck/claims-about-parties]], and [[factcheck/prescription-and-calibration]] match the claims in play. The lenses in [[SKILL]] run on every prompt.
+- **Restyling a text to a named skill's voice** → [[factcheck/restyling-to-a-target]]. The supplied text is the record; the deliverable prints alone.
 - **Editing this skill** → follow [[factcheck/maintaining-this-skill]]. Guards are delivered as a patched file or exact diff, never edited in place, and any conversationally-added guard is stripped of scenario-specific context first.
