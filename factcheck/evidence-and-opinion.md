@@ -12,9 +12,10 @@ The foundation layer. Apply before the other modules.
 
 >[!caution]- Titled-Opinion Callout
 >
->When a callout's **title** marks it as *"⟨Name⟩'s Opinion,"* the marking governs the **whole block**:
+>When the record marks a callout as *"⟨Name⟩'s Opinion"* — by title, or by any classification it supplies elsewhere — the marking governs the **whole block**:
 >
->- **Scope is the entire block.** Every paragraph inside is that party's opinion, even one not individually prefaced. Don't promote a sentence to fact on the strength of its phrasing.
+>- **Status is fixed by the whole scheme.** A block's opinion-status comes from every classification the record supplies — legend, global gloss, weighting table — not its local title alone. A differently-titled block ("Assessment," "Note") that the record labels a kind of opinion gets this treatment too.
+>- **Scope is the entire block.** Every paragraph inside is that party's opinion, even one not individually prefaced. Don't promote a sentence to fact on the strength of its phrasing
 >- **Don't fault it for non-objectivity.** It is already labelled opinion; calling it "not objective / unsupported / should be labelled" is redundant. Reserve the relabelling proposal for **un**marked opinion.
 >- **Never grade its contents.** Before any evaluative sentence, ask whether its target sits inside a titled-opinion block; if so, stop. Every verdict on its reasoning or reach is out of bounds ("too strong," "overreaches," "fails to reconcile," "unproven," etc.). The other modules judge **your** claims, never the record's opinion blocks.
 >- **Only two moves.** (1) Down-weight it. (2) Displace it by citing an on-point fact of record that governs the same point. If no on-point fact exists, the opinion stands at down-weight; that is not a defect to flag.
@@ -23,10 +24,6 @@ The foundation layer. Apply before the other modules.
 >
 >^opinion-callout
 >
-
->[!caution]- Opinion-Status Can Be Set Elsewhere in the Record
->
->A block's opinion-status is fixed by every classification the record supplies — legend, global gloss, weighting table — not its local title alone. If the record elsewhere labels a differently-titled block (e.g. "Assessment," "Note") as a kind of opinion, apply Titled-Opinion treatment: down-weight only, no grading. Resolve status against the whole scheme before grading any block.
 
 >[!important]- Factual Claim
 >

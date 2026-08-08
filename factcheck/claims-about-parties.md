@@ -4,7 +4,7 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 
 >[!caution]- Trait Claim
 >
->Before any dispositional/trait claim: (1) cite ≥2 independent *non-Opinion* instances, and (2) search the record for facts that cut the other way and reconcile them. A trait resting on a single Opinion "pattern" block is prohibited. This duty extends to **capability, level, and competence** claims — one confirming instance obligates a search for an opposite-valence instance on the same item.
+>Before any dispositional/trait claim: (1) cite ≥2 independent *non-Opinion* instances, and (2) search the record for facts that cut the other way and reconcile them. A trait resting on a single Opinion "pattern" block is prohibited. See [[factcheck/claims-about-parties#^same-item-capability-series]].
 
 >[!caution]- Capacity vs. Performance
 >
@@ -27,6 +27,9 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 >[!caution]- Same-Item Capability Series
 >
 >Before asserting what a party can/can't do on an item, enumerate **every dated instance** bearing on *that same capability* on *that same item*, of *both* valences, then fix the verdict against the full series. A confirming instance triggers the counter-search just as a disconfirming one does.  Read instances as a time-series: size the gap between them and account for it — acquired, lapsed, or sustained, and by what intervening mechanism (disuse, substitution, changed role, training). A large interval is evidence, not a modifier; recency alone is not an account.   If a confirming and disconfirming instance both stand, the verdict is **mixed**, never the pole you reached first.
+>
+>^same-item-capability-series
+>
 
 >[!caution]- Compliance Is Not Conversion
 >
@@ -38,17 +41,20 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 
 >[!caution]- Difficulty Is Read Off the Record, Not an Outside Reputation
 >
->Before rating a task/step as **low-difficulty / routine / anyone-can-do-it** — to score non-performance as damning, or to prescribe it as an easy remedy — source the rating from the **record**, never an outside prior. If no party is shown performing it, its difficulty is **undetermined**, not "easy." Two imports to bar: **task-reputation** ("it's basic" says nothing about whether *these* parties command it) and **party-reputation** (a party's baseline is read off the record, not off the lay sense of a role word the record attaches — "user," "junior," "layperson"). Capability is domain-specific, not a global scalar: a level on one axis (authoring the thing) doesn't transfer to an adjacent one (operating, verifying, maintaining it) without evidence for that axis. Prescription inherits this: "just do $X$" imports a difficulty claim; if $X$'s tier is unestablished for the target, the remedy is unestablished, not easy.
-
->[!caution]- A Task's Name Is Not Its Tier
+>Before rating a task/step as **low-difficulty / routine / anyone-can-do-it** — to score non-performance as damning, or to prescribe it as an easy remedy — source the rating from the **record**. If no party is shown performing it, its difficulty is **undetermined**, not "easy." Three imports to bar:
 >
->The record names tasks in ordinary words — *upload*, *publish*, *submit*, *file*, *transfer*, *run it*, *the operation* — whose everyday sense sits far below what the record elsewhere fixes them to require.  A name is a label, not a difficulty rating: before scoring non-performance as damning, or prescribing the task as an easy remedy, retrieve what the record says the task **entails**, not what it calls it.
+>- **Task-reputation** — "it's basic" says nothing about whether *these* parties command it.
+>- **Party-reputation** — a party's baseline is read off the record, not off a role word's lay sense ([[#^credential-not-role-label]]).
+>- **The task's name** — the record names tasks in ordinary words (*upload*, *publish*, *submit*, *run it*) whose everyday sense sits far below what the record elsewhere fixes them to require. Retrieve what the task **entails**, not what it is called. Sharpest where the naming party cannot perform the task, or where their account of it is on record as mistaken or self-reportedly uninformed: their word choice encodes their model of the task, not its tier.
 >
->Sharpest where a party who cannot perform the task supplies the name, and where the naming party's own account of the task is on record as mistaken or self-reportedly uninformed.  Their word choice encodes their model of the task, not its tier.
+>Capability is domain-specific, not a global scalar: a level on one axis (authoring the thing) doesn't transfer to an adjacent one (operating, verifying, maintaining it) without evidence for that axis. Prescription inherits this: "just do $X$" imports a difficulty claim; if $X$'s tier is unestablished for the target, the remedy is unestablished, not easy.
 
 >[!caution]- Credential ≠ Role-Label
 >
 >A party's **baseline** — what they can be expected to know or do — is read off the **qualification the record fixes** (degree, certification, demonstrated expertise), retrieved at the point the claim is made, not from the everyday connotation of a role or behavior label the record also attaches (e.g. "operator," "assistant," "observer"). A role label names how the party is *acting*; it is not the expertise they *hold*. The trap is sharpest when the role word is a **term of art** whose technical sense (a defined rank in a scheme the record supplies) and lay sense ("non-expert") sit one keystroke apart. Retrieve both the credential and the role-level and let the gap carry the reading. (Feeds *Difficulty Is Read Off the Record* and *Capacity vs. Performance*.)
+>
+>^credential-not-role-label
+>
 
 >[!caution]- Comparative Capability
 >
@@ -99,6 +105,9 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 
 >[!caution]- "Escaped / Benefited / Succeeded" Claims
 >
->Before asserting a party **got away, came out ahead, or handled something successfully**, search the record for consequences that cut against it and reconcile them in the same breath, not as a later caveat. Split the claim into the axes it spans: **person vs. asset/obligation** (a party can exit personally while their deliverables or obligations remain stranded) and **short-run vs. committed-future** (a clean present exit can coexist with a broken longer-term commitment). If a stranded counter-consequence exists, name both sides, never a bare "got away." Self-assessed success (especially down-weighted Opinion) does not establish actual success. The duty is **symmetric**: *wasted, came out behind, achieved nothing, poor return* triggers the same counter-search. Undercounting is the easier error, because some returns are **non-events** — a loss averted, a harm not incurred — which never appear as entries; recover them from what the record shows was advised, threatened, or already in motion and then did not happen.  For the full checklist a return-verdict must clear, see [[factcheck/prescription-and-calibration#^enumerate-return-kinds]]. ^Escape-Benefit-Succeed
+>Before asserting a party **got away, came out ahead, or handled something successfully**, search the record for consequences that cut against it and reconcile them in the same breath, not as a later caveat. Split the claim into the axes it spans: **person vs. asset/obligation** (a party can exit personally while their deliverables or obligations remain stranded) and **short-run vs. committed-future** (a clean present exit can coexist with a broken longer-term commitment). If a stranded counter-consequence exists, name both sides, never a bare "got away." Self-assessed success (especially down-weighted Opinion) does not establish actual success. The duty is **symmetric**: *wasted, came out behind, achieved nothing, poor return* triggers the same counter-search. Undercounting is the easier error, because some returns are **non-events** that never appear as entries. For the full checklist a return-verdict must clear, see [[factcheck/prescription-and-calibration#^enumerate-return-kinds]]. 
+>
+>^escape-benefit-succeed
+>
 
 

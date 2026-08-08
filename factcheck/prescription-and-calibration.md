@@ -40,7 +40,7 @@ Guards for the output side of an analysis.
 >
 >1. **Stated purpose** — what the act's text, or the actor's aim, names.
 >2. **Information** — what counterparties' responses reveal. A refused or escalated demand still yields the refuser's disposition and choice of channel; the response *is* the yield.
->3. **Non-event** — a loss averted, a branch closed ([[factcheck/claims-about-parties#^Escape-Benefit-Succeed]]).
+>3. **Non-event** — a loss averted, a harm not incurred, a branch closed. These never appear as entries: recover them from what the record shows was advised, threatened, or already in motion and then did not happen ([[factcheck/claims-about-parties#^escape-benefit-succeed]]).
 >4. **Option or price placed on record** — a clause a counterparty could later take up. An instrument's headline purpose is not its full function set.
 >5. **Position** — what the actor can do next: a capability acquired, a dependency removed, an asset made portable. A capability return survives the withdrawal of the artifact that produced it; score it on a separate ledger from the artifact's availability.
 >
@@ -50,17 +50,21 @@ Guards for the output side of an analysis.
 >
 >Before softening a one-directional reading with "it *also* harms the actor" — a symmetry/self-harm defense — verify the actor doesn't hold a **cure, in hand and under their control**, that neutralizes their own share. A fault the actor can resolve at will doesn't expose them the way it exposes a party who lacks the cure; the two are not similarly situated. Name the claimed self-exposure, search for a controlled cure (an artifact already built, a retrievable prior state, standing to act). If a cure exists, the exposure is asymmetric — the residual harm lands only on the parties the actor *declines* to cure, which is a choice, not an exposure. Manufacturing a self-harm to balance the ledger is the mirror error of dramatizing one side's risk.
 
->[!caution]- Default-State Smuggling
+>[!caution]- Status Is Last-Mention-Wins, Both Directions
 >
->Before relying on any artifact, document, or access being **currently available**, verify the record fixes its status **at the time in question**. Don't assume "created once" → "still up"; availability can be revoked on record. If silent, mark it *undetermined*, not "still available." **Status is last-mention-wins** — a mutable artifact's current status is the **most recent** passage about it, across all files, not the one that introduced it. Count doesn't beat recency: many early "it exists" mentions carry **zero** weight against one later revocation. Introduction and status-change usually live in different entries — reaching only the introduction is not "checking status." ^default-state-smuggling
+>Before fixing whether something is **still in force** or **already gone**, retrieve its status **at the time the claim concerns** — from the latest mention bearing on that time, across all files, not the one that introduced it. Two legs:
+>
+>- **Availability** — don't read "created once" as "still up." Availability can be revoked on record; where the record is silent, status is **undetermined**, not "still available."
+>- **Demands** — don't read silence as lapse. A standing demand, request, deadline, or obligation stays live until the record fixes a withdrawal, satisfaction, or expiry. A demand can be restated in a new form (a question, a concern, an agenda item); fix what an utterance *asks for*, not its grammatical mood.
+>
+>Count doesn't beat recency: many early "it exists" mentions carry **zero** weight against one later revocation, and one restatement outweighs long silence. Introduction and status-change usually live in different entries — reaching only the introduction is not "checking status." Absence claims carry the highest burden: cite the passage that closes the item, or report it **open / undetermined**. 
+>
+>^default-state-smuggling
+>
 
 >[!caution]- A Withdrawn Property Persists in the Superseded Version
 >
 >Before ruling a feature, clause, or figure **unavailable**, check the item's prior versions, not only the current one: removal at $v_2$ is not removal from the record, since archives, revision history, and superseded filings keep $v_1$ reachable. Read availability off the most permissive reachable version. The trap is naming — once the property acquires its own name in a later artifact, searching that name misses the capability sitting unnamed in the earlier one.
-
->[!caution]- Lapse Smuggling
->
->Mirror of [[#^default-state-smuggling]]: don't assume a standing demand, request, deadline, or obligation is **gone**. Before asserting a party has nothing outstanding, retrieve the demand's **latest** mention and verify the record fixes a withdrawal, satisfaction, or expiry. Silence since the last restatement is **not** lapse — a demand stated once remains live until the record retires it. A demand can be restated in a new form (a question, a concern, an agenda item); fix what an utterance *asks for*, not its grammatical mood. Absence claims carry the highest burden: cite the passage that closes the demand, or state its status as **open**.
 
 >[!caution]- Rigged Demonstration
 >

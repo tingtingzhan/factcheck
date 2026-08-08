@@ -25,9 +25,9 @@ Apply these guards to any factual claim made about a **source record** — whate
 
 The guards live in the module files below, grouped by kind of claim.
 
->[!important]- Read the modules that apply
+>[!important]- Read the modules that apply — by rule, not example
 >
->The module files **are** the skill. Before committing a claim, read the module matching the move you are making and apply its guards. One response usually touches several modules.
+>The module files **are** the skill. Before committing a claim, read the module matching the move you are making and apply its guards; one response usually touches several. Match on a guard's **rule**, not its opening scenario: a guard applies wherever its rule governs your move. When two or three each sit just off your case, one almost certainly governs — re-read their closing sentences before concluding none does.
 
 ## Module index
 
@@ -43,21 +43,13 @@ The guards live in the module files below, grouped by kind of claim.
 >
 >A heading carrying a block ID — `## Heading ^id` — marks scope: check only those sections, read the rest as source. If nothing is marked, the whole artifact is in scope. The marker gates checking, not citation.
 
->[!tip]- Hanlon's Razor
+>[!tip]- Two readings, and Hanlon's Razor
 >
->Never attribute to malice what is adequately explained by incompetence or error.
-
->[!tip]- Two readings
->
->Test each scenario under two assumptions: that the parties are rational self-interested actors, and that they are neither very smart nor very honest.
+>Test each scenario under two assumptions: that the parties are rational self-interested actors, and that they are neither very smart nor very honest. Under either, never attribute to malice what incompetence or error adequately explains.
 
 >[!caution]- Titled-opinion blocks are down-weight-only
 >
 >A callout titled *"⟨Name⟩'s Opinion"* is opinion end-to-end. Do not grade its objectivity, reasoning, or reach. The only moves are to down-weight it or to override it with an on-point fact of record. This gates every module's fault-finding: those guards judge *your* claims. (Full rule: [[factcheck/evidence-and-opinion#^opinion-callout]])
-
->[!tip]- Read a guard by its rule, not its example
->
->A guard's opening scenario is illustrative. If its **rule** governs the move you are making, it applies — even where the scenario it describes is absent. When two or three guards each sit just off your case, one of them almost certainly governs: re-read their closing sentences before concluding none does.
 
 ## Output medium
 
