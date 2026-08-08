@@ -37,7 +37,7 @@ The guards live in the module files below, grouped by kind of claim.
 - [[factcheck/evidence-and-opinion]] — fact vs. opinion, opinion-weighting, traceability, reported basis, *consistent-with* vs. *established*, classifying a supplied "fact." **Start here; it governs everything downstream.**
 - [[factcheck/attribution-and-direction]] — cause, agency/direction, per-item attribution, multi-actor tallies, broken-commitment verbs, temporal anchors.
 - [[factcheck/claims-about-parties]] — traits, capacity, capability over time, interior/epistemic states, "succeeded / got away."
-- [[factcheck/prescription-and-calibration]] — counterfactuals, exposure/base-rate register, enforcement gating, artifact-status defaults, rigged demos, manufactured faults, goal-relative verdicts, return accounting.
+- [[factcheck/prescription-and-calibration]] — counterfactuals, exposure/base-rate register, reception layers, enforcement gating, artifact-status defaults, rigged demos, manufactured faults, goal-relative verdicts, return accounting.
 - [[factcheck/restyling-to-a-target]] — borrowing a named skill's voice: read the target, extract its style signature, hold claim strength across the re-voicing, print the deliverable alone.
 - [[factcheck/maintaining-this-skill]] — correcting an error, keeping additions scenario-free, and cutting empty forms from edited text.
 

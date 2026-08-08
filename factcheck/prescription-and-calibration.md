@@ -14,6 +14,18 @@ Guards for the output side of an analysis.
 >
 >Whenever the analysis says a party has a *colorable* claim, an "angle," or that conduct creates "exposure": (1) give the realistic **base rate** in the same breath, not a deferred caveat; and (2) keep the register **proportionate** — "$X$ could argue $Y$" must not inflate into imminent-threat framing. Distinguish two base-rate layers: **litigation rate** (how often taken to court) and **enforcement/pressure rate** (how often acted on by other means). Absent a citable base rate, state it is **undetermined**, name which layer, give the direction of any asymmetry as labeled inference, and don't let "undetermined" collapse into "safe" or "imminent." Applies to every party equally. This governs *register*, not *existence*: it does not license deleting the symmetric Cause accounting — a colorable claim stays on the ledger, merely stated at its true likelihood of being pursued.
 
+>[!caution]- Reception Is a Layer the Record Does Not Fix
+>
+>An evaluative verdict on an act — sound, reckless, hostile, within rights, poor practice — carries an implicit claim about how the surrounding domain would receive it. Answer that explicitly, in three layers, because they routinely disagree and naming one ships the other two as settled:
+>
+>1. **Rule** — the formal instrument governing the act, applied as written.
+>2. **Norm** — what the domain treats as good or poor practice, and how the act's near neighbours are judged.
+>3. **Consequence** — what mechanism is positioned to act, and at what rate. *Exposure Calibration*'s register governs; no citable rate → **undetermined**, not "safe."
+>
+>Reception is external knowledge — label it inference, and don't let it re-enter as a premise about a party's difficulty, capability, or motive.
+>
+>Fires on verdicts only. Filling the slot on every response manufactures a verdict (*A Parallel Structure You Build Creates a Verdict Slot Per Row*).
+
 >[!caution]- Incumbent-Price Anchor
 >
 >Before pricing a **substitute or replacement** for an incumbent, retrieve the incumbent's own **recorded price** from the record (budgeted rate, retainer, contracted allocation) as the starting anchor. Don't price from an outside market rate while ignoring the recorded cost, and don't treat the substitute as free or "same price." A nominal price can **understate** true replacement cost: (1) split the incumbent's role into priced vs. fuel-subsidized labor ([[factcheck/claims-about-parties#^capability-not-exercise]]) — any part running on non-transferring fuel (loyalty, goodwill, donated hours, duty) was received unpriced; (2) for that part, the nominal price is a floor — a fee-fueled substitute either can't supply it or supplies only a bounded slice; (3) report the anchor and the gap together, don't quote the nominal figure as the replacement cost. A substitute's true cost is the recorded price corrected upward by the unpriced-fuel share. ^incumbent-price-anchor
@@ -38,11 +50,11 @@ Guards for the output side of an analysis.
 >
 >Before any efficiency verdict — *paid off, wasted, achieved nothing, poor return* — score against all five kinds, not the act's **stated purpose** alone; the largest returns often arrive in kinds the act never announced.
 >
->1. **Stated purpose** — what the act's text, or the actor's aim, names.
->2. **Information** — what counterparties' responses reveal. A refused or escalated demand still yields the refuser's disposition and choice of channel; the response *is* the yield.
->3. **Non-event** — a loss averted, a harm not incurred, a branch closed. These never appear as entries: recover them from what the record shows was advised, threatened, or already in motion and then did not happen ([[factcheck/claims-about-parties#^escape-benefit-succeed]]).
->4. **Option or price placed on record** — a clause a counterparty could later take up. An instrument's headline purpose is not its full function set.
->5. **Position** — what the actor can do next: a capability acquired, a dependency removed, an asset made portable. A capability return survives the withdrawal of the artifact that produced it; score it on a separate ledger from the artifact's availability.
+>4. **Stated purpose** — what the act's text, or the actor's aim, names.
+>5. **Information** — what counterparties' responses reveal. A refused or escalated demand still yields the refuser's disposition and choice of channel; the response *is* the yield.
+>6. **Non-event** — a loss averted, a harm not incurred, a branch closed. These never appear as entries: recover them from what the record shows was advised, threatened, or already in motion and then did not happen ([[factcheck/claims-about-parties#^escape-benefit-succeed]]).
+>7. **Option or price placed on record** — a clause a counterparty could later take up. An instrument's headline purpose is not its full function set.
+>8. **Position** — what the actor can do next: a capability acquired, a dependency removed, an asset made portable. A capability return survives the withdrawal of the artifact that produced it; score it on a separate ledger from the artifact's availability.
 >
 >Gate each separately: an unexercised option is created, not realized — carry its status; an outcome fixed as **unknown** is undetermined, not zero; each anchors to the actor's objective **at that act's date**. Enumerating is not crediting. ^enumerate-return-kinds
 
