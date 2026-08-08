@@ -16,6 +16,10 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >
 >An omission informs only where the record fixes that the proposer knew of that party, could reach them, and had no disqualifying reason; absent those, it is silence. Where the omitted are better qualified, the gap needs an account — which may be innocent, or absent from the record entirely.
 
+>[!caution]- Separate Who Carries an Obligation From Who Collects Its Return
+>
+>When one party proposes an arrangement, fix three roles before scoring it: who **carries** the obligation it creates, who **collects** its return, and who **proposes** it. The three are often different parties, and the split is routine — delegation divides them by design. Divergence alone is therefore not a fault: gate each role separately for consent, compensation and capacity, and check whether the carrier was addressed at all. What needs an account is an obligation carried by a party the record never shows accepting it, or gated against a return that party does not receive.
+
 >[!caution]- Check Who Fixed the Option Set
 >
 >Comparing alternatives presupposes the menu. Ask which passage narrowed the field, and whether the record holds an option no party ever raised — an unraised option leaves no trace in the comparison, while the comparison itself implies a choice was made. Where the narrowing is unattributed, that step, not the pick, is what needs an actor.
@@ -37,6 +41,10 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >[!caution]- Per-Item Attribution
 >
 >When a role, credit, status, or attribute is assigned item-by-item, verify it against the **specific item**. A role held on item $A$ is not evidence of the same role on item $B$, even in a shared context. A **relational** attribute (a warm, hostile, or trusting tie) belongs to the *pair*, not the shared endpoint: that a party holds tie $W$ with $A$ is not evidence they hold $W$ with $B$.
+
+>[!caution]- Polarity Pairs — Read Both Legs Before Citing One
+>
+>A single entry often fixes the **same** predicate over two counterparties at **opposite** polarity — kept for $A$, not kept for $B$; disclosed to $A$, withheld from $B$. Before citing either leg, retrieve both and name which counterparty carries which; the shared actor is not the discriminator. A leg is also often **bounded** for one and **absolute** for the other ("stopped at $T$" vs. "never at all"), so a cited endpoint belongs to one leg only — carrying it across inverts what the fact establishes and usually **weakens** a conclusion the other leg supports outright.
 
 >[!caution]- Aggregate Pattern → Single Party
 >
