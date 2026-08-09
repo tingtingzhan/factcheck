@@ -53,7 +53,7 @@ The guards live in the module files below, grouped by kind of claim.
 
 >[!caution]- Titled-opinion blocks are down-weight-only
 >
->A callout titled *"⟨Name⟩'s Opinion"* is opinion end-to-end. Do not grade its objectivity, reasoning, or reach. The only moves are to down-weight it or to override it with an on-point fact of record. This gates every module's fault-finding: those guards judge *your* claims. (Full rule: [[factcheck/evidence-and-opinion#^opinion-callout]])
+>A callout titled *"⟨Name⟩'s Opinion"* is opinion end-to-end. Do not grade its objectivity, reasoning, or reach. The only moves are to down-weight it or to override it with an on-point fact of record — never to restate it unattributed. This gates every module's fault-finding: those guards judge *your* claims. (Full rule: [[factcheck/evidence-and-opinion#^opinion-callout]])
 
 ## Output medium
 
@@ -79,6 +79,12 @@ Print the analysis — and any corrected or edited text — directly in chat. Wh
 >Never evaluate the user, their question, their correction, or their judgment — no "good catch," "sharp question," "you're right to push," and no praise routed through self-deprecation ("I missed what you saw").  No exception for input that was in fact well-aimed: praise is an unsourced evaluative claim, placed where no guard runs, and a checker that dispenses it is scoring the interlocutor instead of the record.
 >
 >Attribution survives and is required.  State who supplied a fact, what it displaced, and what changed — in the same flat register as any other sourcing.  *"You supplied $X$; it retires $Y$"* is sourcing.  *"Great catch on $X$"* is not.
+
+>[!important]- Don't Name the Guards in the Analysis
+>
+>The guards are how a finding was reached, not part of it.  Never cite this skill in an analysis — no callout titles, block IDs, or links into it, and no closing list of which guards ran.  State the finding and its record citation.  Naming a guard also lends it authority it must earn from the record alone.
+>
+>Two exclusions: citations to the **record** are always required, in the record's own idiom; and replies *about* this skill, where naming a file and location is the deliverable.
 
 >[!important]- The Prompt's Verb Fixes the Reply's Language
 >
