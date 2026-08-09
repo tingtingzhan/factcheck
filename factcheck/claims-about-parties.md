@@ -12,7 +12,9 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 
 >[!caution]- Assent Attaches to a Proposition, Not a Word
 >
->Run this before checking acts — it is testable on the words alone.  Where an expression carries both a technical and an everyday sense — and the two can carry opposite valence, so that one reading's defect is the other's merit — agreement voiced in one sense is not agreement to the other. Direction is not fixed: either sense may be the speaker's.  The tell is the follow-on: an inference the accepted proposition does not license, but its homonym does.
+>Run this before checking acts — it is testable on the words alone.  Where an expression carries both a technical and an everyday sense — and the two can carry opposite valence, so that one reading's defect is the other's merit — agreement voiced in one sense is not agreement to the other. Direction is not fixed: either sense may be the speaker's.  The tell is the follow-on: an inference the accepted proposition does not license, but its homonym does.
+>
+>Before reading what a reply concedes, refuses, or leaves open, fix the **proposition actually put**. A reply on a neighbouring axis — agreement where understanding was asked, willingness where capacity was — is a non-answer to it, not a position on it. Read it as unanswered and gate what responses were open ([[factcheck/attribution-and-direction]]).
 
 >[!caution]- Credit Acts, Not Assent
 >
