@@ -28,7 +28,7 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >
 >Before explaining silence, inaction, or non-compliance by what the party **could not** do, list every response the situation left open — including the ones costing nothing: *say you don't understand*, *ask*, *decline on the stated terms*, *acknowledge without committing*.  Low-cost options are the ones a quick read skips, because they leave no trace and match no dramatic reading.
 >
->A party who took **none** of the open options has made a choice; a party facing **none** was constrained.  Fix which before assigning either.  Absent an established obstacle, an unexercised channel is unexercised, not blocked ([[factcheck/claims-about-parties#^time-indexed-capability]]).
+>A party who took **none** of the open options has made a choice; a party facing **none** was constrained.  Fix which before assigning either.  Absent an established obstacle, an unexercised channel is unexercised, not blocked ([[factcheck/claims-about-parties#^time-indexed-capability]]).   A courtesy framing is not an obstacle.  *Just FYI*, *no need to reply*, *no rush*, *feel free to ignore* lower the cost of responding; they do not close the channel, retire the item, or shift the omission to the party who framed it. Read what was supplied and to whom, not the politeness wrapping it. The inverse fails too: *please*, *sorry to bother*, *if you have time* fix nothing about the speaker's leverage or need.
 
 >[!caution]- Agency & Direction
 >
@@ -45,6 +45,10 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >[!caution]- Polarity Pairs — Read Both Legs Before Citing One
 >
 >A single entry often fixes the **same** predicate over two counterparties at **opposite** polarity — kept for $A$, not kept for $B$; disclosed to $A$, withheld from $B$. Before citing either leg, retrieve both and name which counterparty carries which; the shared actor is not the discriminator. A leg is also often **bounded** for one and **absolute** for the other ("stopped at $T$" vs. "never at all"), so a cited endpoint belongs to one leg only — carrying it across inverts what the fact establishes and usually **weakens** a conclusion the other leg supports outright.
+
+>[!caution]- Permission and Consequence Can Sit in Different Registers
+>
+>Before reading a party's permission and their later threat, penalty, or objection as a contradiction, name the register each runs in — what authorizes it, and what it actually governs. A grant under one register forecloses only the objections that register carries; it leaves untouched every consequence sourced elsewhere, whether formal, discretionary, or turning on something the grant never addressed.  *You may do this* and *doing it costs you $X$* are compatible unless one register governs both. The tell is the party marking the split themselves — a concession that the first register permits the act, attached to a consequence drawn from outside it. Where the registers differ, the finding is that both stand; a reversal, an inconsistency, or bad faith needs them to coincide.
 
 >[!caution]- Aggregate Pattern → Single Party
 >

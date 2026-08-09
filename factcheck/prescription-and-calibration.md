@@ -62,6 +62,12 @@ Guards for the output side of an analysis.
 >
 >Before softening a one-directional reading with "it *also* harms the actor" — a symmetry/self-harm defense — verify the actor doesn't hold a **cure, in hand and under their control**, that neutralizes their own share. A fault the actor can resolve at will doesn't expose them the way it exposes a party who lacks the cure; the two are not similarly situated. Name the claimed self-exposure, search for a controlled cure (an artifact already built, a retrievable prior state, standing to act). If a cure exists, the exposure is asymmetric — the residual harm lands only on the parties the actor *declines* to cure, which is a choice, not an exposure. Manufacturing a self-harm to balance the ledger is the mirror error of dramatizing one side's risk.
 
+>[!caution]- A Forgone Option Credits Nobody Until It Is Shown Available
+>
+>Crediting restraint — *they could have done worse*, *the cheaper route was open and they declined it*, *nothing compelled them to disclose* — asserts a counterfactual, and it needs the same gate as a fault does ([[factcheck/claims-about-parties#^time-indexed-capability]]): the forgone option must be one the record puts within that party's reach, at that date, at a difficulty they could meet. Where the option was unavailable, the conduct is necessity and the credit is manufactured; where availability is unestablished, the finding is **undetermined**, not restraint. Run the check in both directions: an unfavourable reading resting on a road not taken fails the same way. 
+>
+>Adjacent trap: naming the forgone option as the party's alternative **goal** — *if they had wanted $X$, they'd have done $Y$ instead* — reads a motive off an unexercised choice. What the act's content shows about its aim is separate; score it there ([[#^enumerate-return-kinds]]).
+
 >[!caution]- Status Is Last-Mention-Wins, Both Directions
 >
 >Before fixing whether something is **still in force** or **already gone**, retrieve its status **at the time the claim concerns** — from the latest mention bearing on that time, across all files, not the one that introduced it. Two legs:
