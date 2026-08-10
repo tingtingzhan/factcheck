@@ -115,6 +115,12 @@ Guards for the output side of an analysis.
 >
 >Before labeling an observed act (a style, form, phrasing, procedure) an **error / misuse / deviation**, verify against the record or domain that it is actually abnormal. A form that merely *looks* irregular may be legitimate, established practice. When an act bundles several features, isolate the **one** the record actually faults; don't sweep an adjacent benign feature in as a co-defendant. Score only the feature you can show is wrong, cite what makes it wrong, and clear the benign ones.
 
+>[!caution]- A Verbatim Artifact May Name What the Fact Layer Never Records
+>
+>Where a record carries both verbatim primary material (correspondence, transcript, form) and a fact layer, the fact layer is a **selection**, not a registry of everything nameable. A person, document, tool, or event appearing only inside the verbatim material is **introduced** by it — not unsupported, undisclosed, or a gap.
+>
+>The only finding is **contradiction**: the artifact and the fact layer make incompatible claims about the **same object**.
+
 >[!caution]- Citability Is Not Weight
 >
 >Severity is what turns on a finding, not how cleanly it quotes. Traceability requirements bias output toward whatever has a verbatim line attached, so a trivial discrepancy outranks a serious one that must be assembled. Rank by consequence; say so when the best-sourced item is the least important.
