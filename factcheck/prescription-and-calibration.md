@@ -6,6 +6,15 @@ Guards for the output side of an analysis.
 >
 >Before offering any advice or *"what should $X$ have done"* — including counterfactuals — check whether the record already shows X doing it. If it does, don't frame it as a gap: state what was done, then confine advice to what is genuinely absent. Recommending an already-performed action is a factcheck failure.
 
+>[!caution]- Bind Every Variable in a Prescription Before Printing It
+>
+>An alternative stated with its operative slot open — *use a different channel*, *raise it elsewhere*, *ask someone better placed* — asserts nothing the guards can test, so it passes them all while implying an option the record may not hold. Bind each open slot (addressee, forum, instrument, date), then derive the candidate set as [[factcheck/attribution-and-direction#^enumerate-eligible-set]] directs, gating reach and disqualification against the party being advised rather than a proposer.
+>
+>- Empty set → the alternative was **unavailable**, and the only prescribable moves are those needing no counterparty (act, forbear, bear the cost). Say that; don't retreat to the unbound phrasing.
+>- A member whose fitness is unestablished is **undetermined**, not a fallback.
+>
+>The tell is a prescription that stays true whoever fills the slot — if naming the filler needs a retrieval you have not run, the sentence is not ready.
+
 >[!caution]- A Remedy Must Satisfy the Property It Restores
 >
 >When a fix targets a deficiency defined by a property (independence, diversity, balance, coverage), the remedy must itself hold that property — not merely add one more of the failing kind. One addition that shares the original's failure point relocates the deficiency. Gate the fix by the defining property, not by count.

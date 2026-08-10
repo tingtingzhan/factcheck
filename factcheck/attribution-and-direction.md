@@ -15,6 +15,9 @@ Guards for assigning acts to the right party, in the right direction, at the rig
 >When one party proposes that another act, derive who the record shows as eligible **before** looking at whom the proposal names, so it cannot frame the search. Then state which eligible parties went unnamed.
 >
 >An omission informs only where the record fixes that the proposer knew of that party, could reach them, and had no disqualifying reason; absent those, it is silence. Where the omitted are better qualified, the gap needs an account — which may be innocent, or absent from the record entirely.
+>
+>^enumerate-eligible-set
+>
 
 >[!caution]- Separate Who Carries an Obligation From Who Collects Its Return
 >
