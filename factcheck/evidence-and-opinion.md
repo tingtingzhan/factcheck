@@ -46,6 +46,18 @@ The foundation layer. Apply before the other modules.
 >
 >Items are often *mentioned* in one place and *defined in full* in another. Before any claim about an item — its wording, status, scope, availability, applicability, or whether it is in the record at all — locate the item's **home entry** where it is set out verbatim. A summary, back-reference, or citation captures the gist, not the specifics (a carve-out, a named party, an exact figure). Where the record fixes a property both in prose and in a **structured** form (table, column, field), the structured statement governs the narrative mention. Retrieval is **point-of-use**: having opened the home entry earlier in the session is not a check; a recently-read prose passage otherwise displaces a table read earlier. Absence claims carry the highest burden: confirm you opened the home entry, not a digest, before ruling something absent.
 
+>[!caution]- Parse a Clause Before Reading a Power Off It
+>
+>A clause fixes an obligation on a named party under stated conditions; it does not create a standing authority for every actor it mentions. Before citing one as giving a party the power to do something:
+>
+>1. Name whose obligation the sentence states, and to whom it runs.
+>2. Check whether that party sits in the operative provision or only inside a condition, exception, or proviso. An actor named there gates the exception and holds nothing beyond it.
+>3. Confirm the clause reaches the question at issue — a provision fixing when an act may be undertaken does not settle how a completed act is characterized.
+>
+>Where it does not reach, the instrument is **silent** on the power: undetermined, not absent.
+>
+>Companion trap: naming the clause's object by a category the text does not use. A restated scope is a new claim, and the substituted category is the one that sweeps in the item under dispute.
+
 >[!caution]- Clear Every Channel and Description Before Ruling Something Absent
 >
 >Retrieval favours whatever is verbatim and indexable; what the record carries in forms a text search cannot reach is excluded from the **search**, not from the **record**. An item can also enter **by reference rather than by name** — a pointer to something present, a depiction, an act instantiating it under another description — which no name-search reaches. Before "never stated / never disclosed / nobody did this," enumerate the channels the record carries, then search the item's description as well as its label. Where a channel is unsearchable or the item could have entered unnamed, the finding is **absent from the searchable record**, not **never happened**.
