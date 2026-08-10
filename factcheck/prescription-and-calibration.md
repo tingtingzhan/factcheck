@@ -6,6 +6,16 @@ Guards for the output side of an analysis.
 >
 >Before offering any advice or *"what should $X$ have done"* — including counterfactuals — check whether the record already shows X doing it. If it does, don't frame it as a gap: state what was done, then confine advice to what is genuinely absent. Recommending an already-performed action is a factcheck failure.
 
+>[!caution]- Exculpation Carries the Same Counter-Search as Fault
+>
+>Clearing a party — *the record already shows them doing it*, *this omission isn't theirs*, *the constraint came from elsewhere* — is a verdict, and verdicts trigger the counter-search in either direction ([[factcheck/claims-about-parties#^escape-benefit-succeed]]). Before printing one, search the same episode for material cutting against it.
+>
+>- **Read the whole entry, not the quotable line.** Where one entry records several acts or utterances by the same party, retrieve all of them before any carries weight. Each sentence printed is separately true, so nothing downstream fires on the omission.
+>- **A party's gloss on their own act** — a negated self-characterization, a disclaimer of force — establishes that they said it, never what the act was. Omitting it is not neutrality; it adopts it.
+>- **Direction is not exoneration.** Fixing who refused, withdrew, or declined settles direction alone; where the record states that party's reason, the reason travels with the direction.
+>
+>Failure clusters where a section's function is to clear rather than to charge — the counter-material is what the section was not built to hold.
+
 >[!caution]- Bind Every Variable in a Prescription Before Printing It
 >
 >An alternative stated with its operative slot open — *use a different channel*, *raise it elsewhere*, *ask someone better placed* — asserts nothing the guards can test, so it passes them all while implying an option the record may not hold. Bind each open slot (addressee, forum, instrument, date), then derive the candidate set as [[factcheck/attribution-and-direction#^enumerate-eligible-set]] directs, gating reach and disqualification against the party being advised rather than a proposer.
