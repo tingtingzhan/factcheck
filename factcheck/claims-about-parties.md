@@ -66,9 +66,22 @@ Guards for any claim about what a party *is*, what it *can/can't* do, and its in
 >
 >That a party **can** do $X$ doesn't establish they **will** — still less **sustain** $X$ under adverse conditions. Exercising a capability draws on a second, exhaustible resource — motivation, interpretive/emotional labor, relationship capital — separate from the capability. When an analysis treats a capable party (or hypothetical replacement) as a solution: (1) **name the fuel** that makes the incumbent exercise it (pay, loyalty, fear, duty); (2) **test transfer** — a capability transfers with the credential; its fuel usually does not; (3) **price the gap**. Open-ended unpriced fuel (loyalty, incumbency) sustains open-ended roles; a fee sustains only bounded, specified tasks. When costing a substitution, anchor to the incumbent's recorded price ([[factcheck/prescription-and-calibration#^incumbent-price-anchor]]). ^capability-not-exercise
 
+>[!caution]- A Reference Handed Over Is Not the Artifact
+>
+>Where the record fixes what changed hands as a **pointer** — an address, a link, a retrieval instruction, an invitation, a credential, a name — the recipient holds the pointer, not the object. Before writing that an artifact was delivered, supplied, or is now held, name the thing the record says was transmitted, then ask whether the recipient's holding survives the other party changing the state of what it points to.
+>
+>- A transfer of custody ends the transferor's control; a transfer of access leaves it intact and revocable at will. Score the residue, not the gesture.
+>- Once the referent is withdrawn, that item is lost outright — not a broken path to an object still in hand.
+>- Fluency is the trap: a notation you can read resolves to its target before you have asked whether the record says the target moved.
+>
+>This sits upstream of [[factcheck/claims-about-parties#^position-not-understanding]], which grants that the holder has the object and asks only whether they comprehend it.
+
 >[!caution]- Possession ≠ Understanding
 >
 >Before treating a party's **possession** of an artifact (file, dataset, credential, inherited body of work) as carrying **understanding** of it, stop. Possession delivers the object, not comprehension of its identity, purpose, use, dependencies, or worth. Require evidence of understanding beyond bare possession, and reconcile facts that cut against it (non-readership of docs, an assessed skill level, the artifact never explained). Distinguish the adjacent guards: **Possession ≠ Understanding** (does the holder know *what* they hold?) is upstream of **Capability ≠ Exercise** (presupposes understanding; the open question is *will*) and **Capacity vs. Performance** (*can* they do it at all?). Misclassifying an understanding gap as a will gap misprescribes the fix.
+>
+>^position-not-understanding
+>
 
 >[!caution]- Separate the Artifact, the Object, and the Episode
 >
