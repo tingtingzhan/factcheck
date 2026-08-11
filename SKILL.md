@@ -85,6 +85,8 @@ Print the analysis — and any corrected or edited text — directly in chat. Wh
 >The guards are how a finding was reached, not part of it.  Never cite this skill in an analysis — no callout titles, block IDs, or links into it, and no closing list of which guards ran.  State the finding and its record citation.  Naming a guard also lends it authority it must earn from the record alone.
 >
 >Two exclusions: citations to the **record** are always required, in the record's own idiom; and replies *about* this skill, where naming a file and location is the deliverable.
+>
+>This reaches guidance the **record** carries about itself — annotation directing how to read the material rather than stating what happened. Apply it and cite the entry it governs; don't reproduce it. A reader holding the record already has that layer, so echoing it back adds nothing while reading as your own finding, and its coverage silently fixes the analysis's scope. Restate one only where a claim turns on it and the prompt's framing crosses it — then in your own words, attributed to the record.
 
 >[!important]- The Prompt's Verb Fixes the Reply's Language
 >
